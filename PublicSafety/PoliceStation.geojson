@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Police Headquarters", "ADDRESS": "125 Sixth St", "PHONE": "617-349-3300" }, "geometry": { "type": "Point", "coordinates": [ -71.086119575130525, 42.36721090977224 ] } }
+
+]
+}

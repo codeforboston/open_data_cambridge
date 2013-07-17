@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "PARK": "Squirrel Brand Community Garden", "LOCATION": "Broadway at Boardman St", "MapID": 11.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096778438127615, 42.367449895780652 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "PARK": "Corcoran Park Community Garden", "LOCATION": "Walden St", "MapID": 5.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128453692109616, 42.386810828784526 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "PARK": "Green Street Neighborhood Garden", "LOCATION": "Green St at Bay St", "MapID": 8.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111007081421562, 42.368508139779209 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "PARK": "McMath Park Community Garden", "LOCATION": "Pemberton St", "MapID": 4.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127302451342658, 42.389935198972125 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "PARK": "Moore Street Community Garden", "LOCATION": "Moore St", "MapID": 12.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094003901035549, 42.365937834109701 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "PARK": "Peggy Hayes Memorial Garden", "LOCATION": "Watson St", "MapID": 9.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104310138312115, 42.361909081852879 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "PARK": "Sacramento Street Community Garden", "LOCATION": "Sacramento St", "MapID": 6.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117564170418262, 42.382773560166058 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "PARK": "Emily Garden", "LOCATION": "Brookline St at Emily St", "MapID": 10.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104922581953858, 42.36003074991482 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "PARK": "Whittemore Avenue Garden", "LOCATION": "Whittemore Ave at Magoun", "MapID": 1.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135533741937934, 42.398709784810109 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "PARK": "William G. Maher Park Comm. Garden", "LOCATION": "650 Concord Ave", "MapID": 2.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148867427120109, 42.389300960876916 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "PARK": "Anthony Costa Park Community Garden", "LOCATION": "Lopez Ave at Charles St", "MapID": 13.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079800414565, 42.367659581271617 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "PARK": "Field of Dreams Garden", "LOCATION": "Banks St at Akron St", "MapID": 7.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114095397176428, 42.366191784603615 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "PARK": "Fresh Pond Res.\/Parkway Garden", "LOCATION": "Fresh Pond Parkway", "MapID": 3.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.141495785657085, 42.386068912941781 ] } }
+
+]
+}

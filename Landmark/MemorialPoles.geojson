@@ -1,0 +1,1160 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Name": "Piltch Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS213", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107171892446388, 42.374454332528614 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Name": "Charles Sprague Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS270", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105595095809022, 42.373299773734033 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Name": "Dottie Doyle Way", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS86", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105147549129384, 42.367154689744986 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Name": "Dottie Doyle Way", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS86", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105746993463228, 42.367508591720139 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Name": "General Putnam", "Type": "Historical Marker", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104710153945661, 42.367570177572524 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Name": "Walter N. Conlon Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS50", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109790012053708, 42.372865231823184 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Name": "Insp. Edward J. \"Fluffy\" Fowler Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114481677419889, 42.375492887101267 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Name": "Abraham Lincoln Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS160", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115390551392181, 42.375485639109343 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Name": "Joseph J. Donahue Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS82", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118198128703185, 42.37595742247602 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Name": "Sen Lee Sq", "Type": "Memorial Marker", "Source": "FN-DS", "Pole_ID": "DS157", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115716309964839, 42.372573373162474 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Name": "Revolutionary Residents", "Type": "Flag Pole", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118817081676269, 42.375618030286752 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Name": "William B. Rearson Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS225", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105222062991118, 42.374419503417947 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Name": "Warren F. Roberts Rd", "Type": "P", "Source": "KIA", "Pole_ID": "KIA74", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108747180812216, 42.374892853107056 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Name": "Timothy J. Keefe Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS141", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110106658531492, 42.375000618548455 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Name": "Pete's Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS190", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108217671786363, 42.376999980559241 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Name": "SGT. Thomas J Williams", "Type": "Memorial Marker", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115607295455575, 42.372370962778028 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Name": "John Campbell Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS31", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115059275728925, 42.372215763896833 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Name": "Roger \"Ram\"  Reddick Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS226", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099733815978013, 42.372725856098008 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Name": "Tom Coughlin Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS56", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101120944189432, 42.373849845546445 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Name": "Cusack Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS64", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100638630112257, 42.373384944772759 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Name": "Benjemin M. Roseman", "Type": "Memorial Marker", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100812784474527, 42.373596705848783 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Name": "Mayor Alfred Vellucci Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS291", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101384644305071, 42.373976218728707 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Name": "Leroy Anderson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS2", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107183300364525, 42.37096119165485 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Name": "Robert R. Goodman Rd", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA39", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107945050374809, 42.371974296271354 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Name": "Peter M. Moran Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS189, KIA60", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104832251144771, 42.370741735276034 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Name": "Reginald Wilder Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA99", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105185777792443, 42.37025464082236 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Name": "Robert I. Paine Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA66", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101291409527747, 42.370995856674362 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Name": "Judd \"Brothers\" Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS137", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106366903931672, 42.367090157425984 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Name": "Timothy Crane Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS58", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106904789326222, 42.367436488535851 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Name": "Roole Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103040325214423, 42.370029871080341 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Name": "Fred C. MacInnis Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS167", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113798233697452, 42.364420143133692 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Name": "Hoyt Field", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA44", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113715970882765, 42.363851595521929 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Name": "James E. Peek Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS210, KIA69", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109629657390258, 42.363649939171168 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Name": "Lillian Gordon Hurley Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS130", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108915448960587, 42.363888415669052 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Name": "Captain Robert G. Purvis Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS222", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109818305331075, 42.364763852446117 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Name": "Louis \"Lee\" Stoddard Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS272", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110502819122416, 42.363417731776323 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Name": "Alvin F. Thompson Memorial Park", "Type": "Monument", "Source": "FN-DS", "Pole_ID": "DS284", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105135785452291, 42.365061685241322 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Name": "VFW Memorial", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105234776792841, 42.36517889540351 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Name": "Oliver E. Farnum Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS93", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110938395918822, 42.365332433109238 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Name": "Alphred Adkins Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS1", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112370214931374, 42.364682640027183 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Name": "Phil Penzick Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113033060680266, 42.364631499699712 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Name": "George D. Callender", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA12", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113621305125804, 42.365519787261441 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "Name": "Evelyn E. Cooper Pearson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS209", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109096247612158, 42.36498320462708 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "Name": "Little Joe Cook Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS53", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105473858480877, 42.366281491062843 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "Name": "Leroy H. Johnson, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS135", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104276206620384, 42.365611937530183 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "Name": "Sebastian J. Raineri Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA72", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110211987711111, 42.366653662278971 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "Name": "Jean E. Garside Crossing", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113589118460226, 42.367057323176539 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "Name": "Joe Cashman Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS37", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114659171856445, 42.367687879735541 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "Name": "Raymond J. Burns Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA9", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114904295925527, 42.367170152443578 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "Name": "Ed & Ginny McNilty Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131707246496234, 42.401079002282678 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "Name": "John S. Oley Jr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS202", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131900081979779, 42.398952730461808 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "Name": "Nora & Corneilus McSweeney Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS181", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.1355185045079, 42.400588562666066 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "Name": "Robert J. Morrison Pl", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA64", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130722988650248, 42.398983342358861 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "Name": "Gold Star Rd", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131226524676379, 42.398464601908316 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "Name": "Knights of Columbus Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS49", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130810065584129, 42.397144912571115 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "Name": "Lawrence Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS155", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13639303079664, 42.396496212223887 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "Name": "Thomas J. O'Callaghan", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA65", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137243789352169, 42.394881385985443 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "Name": "Thompson Corner, Ronald & Doris", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS285", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136294994580624, 42.393761889174492 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "Name": "Joseph R. Theriault Ct", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA93", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135361197370344, 42.396614207119484 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "Name": "Helen & Douglas Risser Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS230", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13416812003446, 42.395800155577533 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "Name": "Thomas R. Dwyer Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA32", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133267242962717, 42.395795806295737 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "Name": "William Harrington Rd", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA43", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131628151981687, 42.397198793208773 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "Name": "John \"The Cobbler\" Gimiliano Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129943674335991, 42.39695701572851 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "Name": "Frank \"The Barber\" Minnelli Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS184", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129566275207097, 42.396628737417217 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "Name": "John J. Shea Rd", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA81", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128707262600301, 42.39621378426277 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "Name": "Dorthy & James Munroe Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS192", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128220143412037, 42.395784934409221 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "Name": "Paul R. Theriault Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA94", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130766812841131, 42.395701592206841 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "Name": "Rev. Thomas J. Wiliams Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130438292889721, 42.395903817365571 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "Name": "Rev. Thomas J. Williams Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130764242533473, 42.395304957959091 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "Name": "Rev. Thomas J. Williams Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130013923498325, 42.395334241832167 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "Name": "Pfc Lawerance E. Trant Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128865087157735, 42.395998747709882 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "Name": "Kevin A. Griffen Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127573978234807, 42.395201022476577 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "Name": "Graham F. Bulger Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS24", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130753159868505, 42.393728927769239 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "Name": "Mary T. Reed Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS227", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130770800032423, 42.394701917519981 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "Name": "Leo Martin Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS176", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134240890465065, 42.393620206139509 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "Name": "James F. Walsh Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA97", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130732753697032, 42.393502175636449 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "Name": "Barbara & Martin Conroy Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS52", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128039905754363, 42.395203160603771 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "Name": "Raymond & Theresa Proulx Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS220", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126141084787406, 42.39403904211126 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "Name": "Judge Jeremiah Sullivan Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.125258816559779, 42.393141609060194 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "Name": "Marguerite Turner Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS290", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135089547518731, 42.393430651839495 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "Name": "Chief Leo Davenport Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS68", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126216712307993, 42.393601390903029 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "Name": "Charles D. Keefe Sr. Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.125343001655835, 42.392647540881228 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "Name": "Cyr Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS65", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132681763594633, 42.39121978628728 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "Name": "Captain Al Lange Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS153", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132065136073052, 42.393385375768119 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "Name": "Lawrance \"Lefty\" Lange Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS154", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131873834735799, 42.39179963096263 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "Name": "Lucille Kelley Way", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS142", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129678842832902, 42.393079139870295 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "Name": "Joseph M. Curran Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS63A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123805245333116, 42.391879976908541 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "Name": "Paul F. Mahoney Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS169", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129056627415594, 42.39287649016596 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "Name": "The Henery Quinn Complex", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127797708804906, 42.390614118593135 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "Name": "Pat & Bill Daley Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS66", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127625207384739, 42.392530917495165 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "Name": "Albert S. Teevan Jr. Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA92", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.143325540663128, 42.388597845679051 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "Name": "Gerard F. Bergin Park", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA6", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127533476260652, 42.390450623098317 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "Name": "Vincent P. Galvin Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122059035507803, 42.390995524089853 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "Name": "Lucy E. Doherty Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS78", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124139773093006, 42.390056928218897 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "Name": "Jamesia F. Dottin Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS83", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123087879627732, 42.391287162394647 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "Name": "John D. Shine Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS256", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12241686194632, 42.39085129103978 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "Name": "Stephen F. Anderson Basketball Courts", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128628080508491, 42.390439699947237 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "Name": "John F. Bellis Cir", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS10, KIA5", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132734042820076, 42.389605787308518 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "Name": "DeLeo Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13262654205748, 42.390300706690809 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "Name": "Sgt. Daniel J. Cronin Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120768320925563, 42.389904107620715 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "Name": "Joseph J. A'Hearn Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA1", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127666131003537, 42.387417245307688 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "Name": "Henry F. Owens, Jr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS205", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131556956891686, 42.387193918183016 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "Name": "Thomas F. Courtney Diamond", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132029991500673, 42.387510313090935 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "Name": "Judith \"Judy\" Marchant Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS174", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.125179583207881, 42.388928614192274 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "Name": "Raymond B. Bandar Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS8", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119988776590347, 42.389127133882781 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "Name": "Pablo Erickson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS91", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124900237840691, 42.388800324508018 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "Name": "Eli George Biddle Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS13", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12548051163796, 42.388388025987148 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "Name": "Jessie Geraigery Ruseckas & Ski Ruseckas Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS240", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121726852997952, 42.387824601657258 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "Name": "Charles Angelo Ferraro Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122758869965793, 42.387532097581939 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "Name": "Masse Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS177", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131134935777865, 42.386172982105883 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "Name": "David J. Brodette Cir", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA8", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.140843584356048, 42.386674029943102 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "Name": "Commander Joseph D. Cremens Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS59", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126844537986472, 42.386336194331342 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "Name": "Willaim H. Burns Rd", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA10", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13792311820022, 42.385629926124658 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "Name": "John Thomas Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136270986727638, 42.386178466848122 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "Name": "Authur \"Artie\" Kilfoyle Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS148", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130165795032241, 42.385117522706345 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "Name": "Paddy's Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS207, DS241", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131077519780931, 42.386066053970062 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "Name": "Galluccio Store Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS102", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130722513528212, 42.385627676086486 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "Name": "Ben S. Bartie Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS9", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137153518696792, 42.385317861629517 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "Name": "Ulyses \"Uly\" H. Gore Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS112", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13587448436239, 42.385894848686036 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "Name": "Mae & Frank Bonitto Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS16", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133265544225225, 42.385979311759314 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "Name": "Roland W. Moody Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA59", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135033323297776, 42.385618079120555 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "Name": "Ann Marie Hawkins Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS123", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121373287146554, 42.384552322006094 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "Name": "John J. Killion Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS150", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131175534385449, 42.384835189291927 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "Name": "Joyce Chen Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137248660403486, 42.385141224474445 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "Name": "Melvin S. Downes, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS85", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136663082983745, 42.384910439577325 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "Name": "Joseph J. Keating Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS140", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131427721986526, 42.384897272384649 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "Name": "Robert C. Kelley Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS144, KIA46", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130443641037076, 42.382987018370578 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "Name": "John J. Hutchinson Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136490992490224, 42.38483495563375 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "Name": "Lt. John F. Reilly, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS228", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129523557350709, 42.383866166379207 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "Name": "Daniel R. Tierney St", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS286, KIA95", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129826984296571, 42.38352690645408 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "Name": "Joseph D. Turner Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS289", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113825759841447, 42.383445964452271 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "Name": "James T. Hurley Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS129", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136048141487649, 42.382881757976577 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "Name": "Helen A. Shields Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS255", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135832792830769, 42.383756789711057 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "Name": "Grainger Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS113", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135184745838757, 42.382770413395924 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "Name": "Sgt. William \"Billy\" Lyons, Jr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS164", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132770787399309, 42.383285532822292 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "Name": "Messori's Corner", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133122796573019, 42.383341125530507 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "Name": "John M. Moriarty Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA61", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133836819819237, 42.382185048161482 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "Name": "David J. Brogan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS23", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130803233276708, 42.382370785633583 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "Name": "William F. Cullenane Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS62, KIA25", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135654847327601, 42.382411250680548 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "Name": "John A. \"Jocko\" Walsh Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS299", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134162503217112, 42.381614413134756 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "Name": "Cpl. Robert J. Shannon Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS254, KIA80", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130186455146415, 42.381793758331291 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "Name": "Chief Daniel J. Brennan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS21", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.14011477751832, 42.381004411539166 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "Name": "John J. Harney Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS121", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134081296886023, 42.380872571143591 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "Name": "Frank Mullahan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS170", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135021056621014, 42.381381726643014 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "Name": "Reeve's Corner", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.138422157646332, 42.381143167738017 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "Name": "John A. P. & Edna E. Good Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS111", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128992109771346, 42.381141243207971 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "Name": "Egidio Zoffreo Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS310", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152384096034822, 42.37885489903595 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "Name": "Chester A. Higley Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12360066151372, 42.378333534562898 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "Name": "Robert M. Harlow Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS119", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12015259462666, 42.379942985693745 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "Name": "James A. Cabral Jr. Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA11", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152155971874265, 42.377984889722114 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "Name": "Michael T. Guzzetti Jr. Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS117, KIA41", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.1446686448961, 42.380035917042498 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "Name": "Frank P. Talarico Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS281", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.151554692650066, 42.379820221457649 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "Name": "John Brode Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS22", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126699895544419, 42.379016917588935 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "Name": "Albert D. Camarra Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS30", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150351895431541, 42.37918406529721 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "Name": "George A. Kennedy Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS146, KIA48", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129730953521943, 42.377922911666651 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "Name": "Orlando Sabatino Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS242", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.153975682950616, 42.377345110532637 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "Name": "Richard St. Sauveur Ct", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS271, KIA88", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.151950766256078, 42.377154655737364 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "Name": "Joan Conway Boudreau Crossing", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS19", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.147156274968154, 42.378674861273069 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "Name": "Cpl. James S. Inferrera Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150740617233637, 42.378622163955946 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "Name": "Paul Hirshon Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS126", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148479123009892, 42.378819873552992 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "Name": "Veterans of the Korean War Bridge", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149707384130124, 42.37484096450823 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "Name": "Sargent Leo J. Corrigan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS55", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105954683489884, 42.374472561139306 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "Name": "William Dawes Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11937989850226, 42.375313381069255 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "Name": "Joe Crocetta Cobbler Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152112703709932, 42.377770145537681 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "Name": "Edward N. Gulesarian Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS116", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123203719293429, 42.377557584403505 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "Name": "Frank A. Guerino Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA40", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129542273617261, 42.375977116064085 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "Name": "Edwin A. & Gertrude Cremens Wright Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150159730559011, 42.376254273303203 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "Name": "Bertram Williams Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA100", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137023180448409, 42.376743343879227 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "Name": "Scott F. Sandberg Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS243", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123172995016375, 42.375558538454754 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "Name": "Edward T. Sullivan Rd", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA91", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.153789139981072, 42.375204314923607 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "Name": "Francis Koppel Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS151", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122224124438688, 42.374876405937556 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "Name": "General Douglas MacArthur Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS166", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118835807146368, 42.374918189446511 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "Name": "Paul A. Dutra Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA30", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096110134753729, 42.373211020345863 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "Name": "Robert \"Fireball\" Masterson Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09547863158592, 42.37311325261264 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "Name": "Edward L. Zimmerman Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA101", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094321275370845, 42.373035004463034 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "Name": "Joseph Versackas, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS295", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093177803612079, 42.37283534092154 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "Name": "Frank Cardullo Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS34", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119265731686966, 42.373400577138966 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "Name": "Nicholas \"Nicky\" De Francesco Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS71", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088687544819649, 42.373579592217638 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "Name": "Gaeta Square Our Sister City", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS101", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088004777049107, 42.373489996999076 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "Name": "Jack T. Pritchard Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS219", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08812878155382, 42.372962864736103 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "Name": "Vincent P. Mammola Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS173, KIA55", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084532386411482, 42.372399387242538 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "Name": "Alphonse Carbone Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.082846831121742, 42.372902258730996 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "Name": "Florence Souza Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS266", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081157070989434, 42.372985410882329 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "Name": "Charles F. Conlan Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS51, KIA20", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080047862496542, 42.37255320816417 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "Name": "Edward \"Eddie' Baldassaro Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS7", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097523415315734, 42.371147543742495 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "Name": "Benedict & George Carvalho", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS36", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09798775375296, 42.371540610080295 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "Name": "Alexander W. Gabis Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088994396197336, 42.372278322381241 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "Name": "Salvatore Macarelli Way", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088845343751089, 42.372492733336088 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "Name": "Salvatore Macarelli Way", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088256314884475, 42.372490242301197 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "Name": "James \"Jimmy\" Sauer Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS246", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088375505904196, 42.372190329543692 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "Name": "Anthony Divisano Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA28", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081300274525631, 42.372562959910425 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "Name": "King Bhumibol Adulyaues Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12207090448463, 42.372232647727536 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "Name": "Captain Peter A. \"Tony\" Rubbico Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS236", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079747635577505, 42.372389634786977 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "Name": "Christo Way", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS44", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080517420391388, 42.371887918110879 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "Name": "Ben Olkon Plaza", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS203", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115750817567061, 42.372259950567646 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "Name": "Richard Allen Harvey Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS122", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115686022051406, 42.371668550791895 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "Name": "Gold Star Mothers Pool", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090224034517959, 42.371666965674073 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "Name": "Guffey Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114341263764999, 42.371080961690488 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "Name": "Anthony G. Paolillo Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS208", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083095622870985, 42.372095331368847 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "Name": "Benjamin & Joseph Libicz Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS159, KIA51", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083050272050542, 42.371508510326727 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "Name": "Sal & Marie DiDomenico Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS76", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088601108898942, 42.372069683723701 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "Name": "Alda Maria Couto Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS57", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089013497141792, 42.371292278696494 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "Name": "Louis \"Uncle Louie\" & Bruno Gentile Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS107", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092422740823721, 42.371657956013166 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "Name": "Peter F. Sarapas Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA76", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093802459494896, 42.371019240414206 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "Name": "Patsy \"Check\" Riccardi Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS229", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087116890391997, 42.371283840245781 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "Name": "John \"The Barber\" Madallo Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS168", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080569907424547, 42.371194268966335 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "Name": "Mary F. Aufeuro Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS5", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08136628323021, 42.371295682496459 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "Name": "George Fulkerson St", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS99, KIA36", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08682851527881, 42.37181370169445 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "Name": "Nicholas J. Censullo Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA17", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086946012756272, 42.371252630295537 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "Name": "Bernie Hill Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS125", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08607750683764, 42.371727417093886 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "Name": "Ralph J. Strozzi Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS273, KIA89", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079647953600727, 42.371607756724792 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "Name": "Joseph P. Diworth Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS77", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084746158079341, 42.371534292541185 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "Name": "Tom Weed Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS302", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084854673804202, 42.371025053852598 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "Name": "Joseph Lebicz Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA52", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08323962218104, 42.37133642927941 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "Name": "Manuel C. Sebastiano Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS250", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089549771721906, 42.370372320264238 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "Name": "Dottie & Joseph Rubino Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS237", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098157245004799, 42.371348321132352 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "Name": "Leslie L. \"Bunny\" Wood, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS308", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097641624025982, 42.370994728008263 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "Name": "John M. Gibson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS109", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099837634664894, 42.368933628329266 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "Name": "George E. Wilson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS307", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081620297387886, 42.37116129609921 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "Name": "Red Haley Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS118", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081728989597195, 42.370601103303102 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "Name": "Ralph W. Ferracane Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS94, KIA35", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08008298066855, 42.370390809427626 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "Name": "Edward Silva Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA82", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081549002392421, 42.370582667043358 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "Name": "Nicholas Sciarappa St", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS249, KIA77", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08142651242251, 42.37114176671983 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "Name": "Richard A. Lameiras Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS152, KIA50", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085772076206638, 42.37100050875145 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "Name": "Louis J. Ferracane, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS95", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07979290222957, 42.370912552289703 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "Name": "Bishop John P. Boles Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS14", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116096364143431, 42.370989966815081 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "Name": "Joseph Pasquariello Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA68", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08500744821049, 42.370323889117415 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "Name": "Thomas E. Pilleri Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS212, KIA70", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078521288873304, 42.370768143950166 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "Name": "Antone Arcanjo Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA4", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078651585151405, 42.370185312084338 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "Name": "Edward Sniegiecki Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS264, KIA83", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083237334078589, 42.370678390712058 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "Name": "Vincent A. Pacelli Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS206", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083374031619329, 42.370128368593925 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "Name": "Travers Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS288", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087320176130007, 42.370516858758585 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "Name": "Corporal Pat Macaro Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS165", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09065510936027, 42.370600422898796 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "Name": "John S. Malewski Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA54", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081723853092797, 42.369900520933854 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "Name": "Leland \"Richie\" Prevost Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS218", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086518841195286, 42.37039859251535 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "Name": "Walter W. Kolosha Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA49", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085940312662572, 42.370332684175153 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "Name": "John P. Sousa, Jr. Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA85", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097460243568435, 42.369333679329195 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "Name": "Michael A. Sullivan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS274", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113056556594856, 42.370087709964771 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "Name": "Eileen & Cornelius Ferrick Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS96", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07896853162579, 42.36955857203467 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "Name": "A. Michael Vieira Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS298", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083524596130331, 42.369439024616781 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "Name": "Robert S. Walsh Memorial Field", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA98", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091499766385454, 42.369610590481635 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "Name": "Ney DePina Sq \"Papa Ney\"", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS75", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093269539064266, 42.369935970905289 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "Name": "Albert, John F., Catherine, Richard Sarchioni Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS245", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092864796254858, 42.369173002242256 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "Name": "Lt. John J. O'Leary Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS201", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095601039797884, 42.369318514046356 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "Name": "Joseph Silveira Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS259", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087340270968468, 42.369779432057726 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "Name": "Ssg. Edward J. Sheehan Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085379071481114, 42.369554828822196 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "Name": "William Morill Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA63", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08553466210482, 42.368970241877996 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "Name": "Jimmy Johnson Street Hockey Court", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS134", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086175669440124, 42.368409903540019 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "Name": "Judge John J. Burns Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS26", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117031982161393, 42.369317635731313 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "Name": "Frisoli's Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS98", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092743746520895, 42.369116347536021 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "Name": "Joseph \"Buddy\" Camara Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS29", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091468767672893, 42.369379566123612 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "Name": "Joseph Morris Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA62", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079141641160959, 42.368874913982872 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "Name": "Jutta Elsa Georgi \"Oma\" Callinan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS28", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094631579666213, 42.368866911179097 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "Name": "Paul Frisoli, former Lt. of Middlesex Police", "Type": "Plaque", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078860551876488, 42.368952393347961 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "Name": "Angelo & Giovanna Biasella Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS12", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083662299551321, 42.368752268113816 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "Name": "Danny W. Cappucci Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS33", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.082056687170848, 42.369104685078341 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "Name": "George Rose Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS235", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080603560699885, 42.368362637557311 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "Name": "Mayor Walter J. & Marion A. Sullivan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS277", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113391880211012, 42.369213669378354 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "Name": "Sergio & Maria Gentile Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS108", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091479414936032, 42.369129069492736 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "Name": "Manuel M. Sousa Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090443269669194, 42.368791320614235 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "Name": "Francis P. Sullivan Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS278, KIA90", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092974051696828, 42.369055558141454 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "Name": "Clifford P. Dolan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS81", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094527985227643, 42.368742568549315 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "Name": "Edward W. Roderick Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS234", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093082363984465, 42.368716526188649 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "Name": "Captain Patrick Corcoran Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS54", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11039280850855, 42.368939268179005 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "Name": "Edward J. Lopez Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA53", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079638113779438, 42.368812023991019 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "Name": "James F. Carrol Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA16", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079288654096999, 42.368191928473074 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "Name": "Arruda Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS3", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079759712007601, 42.368249602285815 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "Name": "Lester \"L. C.\" O'Bannon Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096802359235141, 42.368712832359293 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "Name": "Wilfred \"Freddie\" Suozzo Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS279", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093923819201194, 42.367933129015412 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "Name": "John F. Clinton Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS47", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090695341323979, 42.368352122329604 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "Name": "Raffaele \"Boss\" DeFabio Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS70", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08222822640279, 42.36845183276472 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "Name": "James J. Hurley St", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA45", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.082984342606025, 42.368548122253038 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "Name": "Edwardo P. Silva Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS258", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083849316507724, 42.368078394872043 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "Name": "Arthur A. Travers Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS287", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081136674821948, 42.367733523674445 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "Name": "Richard E. \"Richie\" Kenney Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS147", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098334659367211, 42.368183427278566 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "Name": "William Vera Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS293", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080962738165496, 42.367707918993673 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "Name": "Anthony Costa Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA23", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080004071175267, 42.367851477847211 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "Name": "William F. Furtado Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS100", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09275500442007, 42.367724206008255 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "Name": "John J. Souza Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS267, KIA86", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.0927192774123, 42.368244164983665 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "Name": "Reverend Kenneth Hughes Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101880116647422, 42.368266468377492 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "Name": "McCann Corner", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS178", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093842051772938, 42.367873513309206 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "Name": "Arthur J. Shallow Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA79", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094460452218186, 42.367316808524357 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "Name": "Frederick L. Kilfoyle Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS149", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099786814622021, 42.367526068419508 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "Name": "Everton C. Johnson Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS133", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113490031532606, 42.366444073078512 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "Name": "Kenneth T. Robinson, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS233", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097709809444439, 42.367000411321449 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "Name": "Sister Anne Louise Murray , S.N.D. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS195", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098761793140909, 42.367351157033589 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "Name": "James \"Bumpy\" Garro Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS104", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096378075826436, 42.367370669471562 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "Name": "Arthur F. Harlow Sq", "Type": "P", "Source": "FN-DS-KIA", "Pole_ID": "DS120, KIA42", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.0955602608677, 42.367072917944391 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "Name": "Reverend Larry Love Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS163", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105402340564837, 42.366505272341186 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "Name": "Richard J. Quinn Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA71", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095818924574715, 42.366296154816069 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "Name": "Charles J. Fanning Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS92", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098521988018661, 42.365966398442488 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "Name": "Edward Martin Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100051853003464, 42.366891955462627 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "Name": "Edward F. Kelly , Esq. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS143", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079464940424003, 42.366700999716954 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "Name": "Edwward & Helen Schairer Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS248", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100363430473038, 42.366440375076358 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "Name": "Reverend Patrick \"Packy\" J. Dolan Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS79, DS80", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100667683407053, 42.366028777071904 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "Name": "Francis P. Soucie Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA84", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101422812254413, 42.365195110446905 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "Name": "William \"Doc\" Linsky", "Type": "Memorial Marker", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079902738580856, 42.364794830485721 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "Name": "\"Honorable\" Thomas M. McNamara Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08912223796699, 42.364670542302598 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "Name": "Norman M. Tubman Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA96", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108488659758635, 42.363889323585632 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "Name": "Firefighter John A. Clark", "Type": "Plaque", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110091294453071, 42.363325919969824 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "Name": "Representative John J. Toomey Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084751316898746, 42.362552986394434 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "Name": "Ann Marie Sarchioni Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS244", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087311157200205, 42.363794485776879 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "Name": "James O. Dance, Jr. Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA26", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098243002250939, 42.363446440129067 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "Name": "Gerard Kelly Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA47", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108180279493496, 42.361852933847736 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "Name": "Lawrence Chalk Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA18", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108742410817882, 42.361348537055378 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "Name": "Francis & Mary Bracken Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS20", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112970544319154, 42.361441488456208 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "Name": "Thomas R. Smyth Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS263", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107857436553019, 42.361961816324175 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "Name": "William E. O'Brien, Sr. Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112443715427432, 42.36109917392141 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "Name": "Lopez Park", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105011533483832, 42.361600478563979 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "Name": "James & Regina Martin Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS175", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11278971087701, 42.360210104406946 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "Name": "Joseph Alberico Playground", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA2", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112141171237738, 42.360777782522831 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "Name": "John M. Dwyer Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA31", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110315253426307, 42.359928518548614 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "Name": "Fredrick J. Williams, Sr. Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS306", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109070528307825, 42.360840433565784 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "Name": "Henry Nadelli Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS196", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10825432741953, 42.359616951270688 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "Name": "Francis P. Cunningham Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS63", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107782327908552, 42.360063561020773 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "Name": "Michael J. Speridakis Ter", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA87", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107113687616788, 42.360488724526704 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "Name": "Harold G. Ferguson Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA33", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106715954486575, 42.358700198744145 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "Name": "Wilburt E. Brinkerhoff Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA7", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109606309679847, 42.358361877238551 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "Name": "Jason Silbert Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS257", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107243409400738, 42.3581945378751 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "Name": "Henry W. \"Hank\" Vera Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS292", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108717798567085, 42.359010742118102 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "Name": "Henry Goldberg Sq", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103280014614725, 42.357510032849284 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "Name": "Mr. Anthony Zappala", "Type": "P", "Source": "FN", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113930526019089, 42.358744209296958 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "Name": "Edmund G. Allt Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA3", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10801480624248, 42.357285804538982 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "Name": "Bernard Rudolph Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS238", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104505699733011, 42.35673493437195 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "Name": "Alexander N. Colovos Sq", "Type": "P", "Source": "FN-KIA", "Pole_ID": "KIA19", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110888707456908, 42.355923604431936 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "Name": "Watson Family Sq", "Type": "P", "Source": "FN-DS", "Pole_ID": "DS301", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110524767705229, 42.355207620648969 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "Name": "David I. Calnan Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA13", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100475362468941, 42.373588290078786 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "Name": "Albert D. Camarra Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA14", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150258477546586, 42.379345022580061 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "Name": "Sebastian A. Camposano Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA15", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.15095763128987, 42.37877948125395 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "Name": "William F. Cooper Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA21", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107776588109175, 42.369200503822533 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "Name": "John W. Crowley Sq", "Type": "P", "Source": "DS-KIA", "Pole_ID": "DS61, KIA24", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081245559732551, 42.37197319535148 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "Name": "Louis J. DeMilia Sq", "Type": "P", "Source": "DS-KIA", "Pole_ID": "DS74, KIA27", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129431322480784, 42.375945092150474 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "Name": "Edward S. Duffett Tot Lot", "Type": "P", "Source": "KIA", "Pole_ID": "KIA29", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104045374161061, 42.373386184302866 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "Name": "Patrick F. Feroleto Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA34", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149997704195201, 42.37448201859992 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "Name": "Christian Girard Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA37", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098134605145674, 42.373292337873693 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "Name": "Francis X. Glacken Playground", "Type": "P", "Source": "KIA", "Pole_ID": "KIA38", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152334972571396, 42.380095451823216 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "Name": "Corporal William F. McTernan St", "Type": "P", "Source": "KIA", "Pole_ID": "KIA56", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107785956360132, 42.361035884066986 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "Name": "Leo J. McCusker Memorial", "Type": "Monument", "Source": "KIA", "Pole_ID": "KIA57", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103117860957767, 42.369934150812924 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "Name": "Robert E. McCusker Memorial", "Type": "Monument", "Source": "KIA", "Pole_ID": "KIA58", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10320371158096, 42.369816616320556 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "Name": "Richard L. Parrow Park", "Type": "P", "Source": "KIA", "Pole_ID": "KIA67", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108933583724294, 42.356633864686259 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "Name": "Joseph Reis Sq", "Type": "P", "Source": "KIA", "Pole_ID": "KIA73", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091448668923192, 42.369191250894808 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "Name": "Paul W. Rumrill Sq", "Type": "P", "Source": "DS-KIA", "Pole_ID": "DS239, KIA75", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098963220748828, 42.372076448250873 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "Name": "John R. Sellers St", "Type": "P", "Source": "DS-KIA", "Pole_ID": "DS251, KIA78", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106659382123198, 42.367102408711219 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "Name": "Theodora \"Teddy\" Arvanites Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS4", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104731650746501, 42.365906681046859 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "Name": "Aloysius A. Bennett Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS11", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080220322811911, 42.368994985184457 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "Name": "Frank & Manny Botelho Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS18", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079904606293624, 42.368263248279213 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "Name": "William Burke Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS25", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101358565820163, 42.373715935167489 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "Name": "Anthony Camposano Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS32", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150907357052688, 42.378688061110211 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "Name": "Sister Annette Caron S.G.M. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS35", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107889303948369, 42.374561192148889 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "Name": "Incoronata \"Millie\" Centanni Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS38", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085330282817978, 42.3696587633478 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "Name": "Friar Dismas J. Centrella, O.F.M.", "Type": "P", "Source": "DS", "Pole_ID": "DS39", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079831286830711, 42.371691078212137 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "Name": "Ed & Amelia Chebator Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS41", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130812725768578, 42.39657525505249 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "Name": "Chester Christo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS43", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.082066208810389, 42.368430937993736 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "Name": "Leo Ciccolo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS45", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150069645409545, 42.374770172480041 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "Name": "Natalino Sabatino & Vito Citino, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS46", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.153052093252256, 42.377143631019457 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "Name": "Daley Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS67", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135631979868833, 42.38458129383266 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "Name": "Luz Vaz De Canoes", "Type": "P", "Source": "DS", "Pole_ID": "DS69", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088386609567479, 42.372036563700938 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "Name": "Lawrence DeGuglielmo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS72", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089939565261432, 42.37223172593113 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "Name": "Amatilde DeMello Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS73", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093400634074513, 42.372644070825785 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "Name": "Stanley Dottin Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS84", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11086353092513, 42.364816430191361 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "Name": "Alexander & Clarice Dunning Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS87", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128419537930455, 42.379892683433589 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "Name": "Yasmine Eleftherakis Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS88", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103188383768895, 42.36408451167938 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "Name": "John Eliassen Corner", "Type": "P", "Source": "DS", "Pole_ID": "DS89", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126463640765223, 42.390918227947964 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "Name": "Barbara Ellis Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS90", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105615496827667, 42.366722511235579 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "Name": "Dana T. & Dana H. Gallup Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS103", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11189127244306, 42.371482000273708 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "Name": "Russell \"Russ\" Gaudet Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS105", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119823055544501, 42.382280446571706 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "Name": "William & Bernard Goldberg Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS110", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105269450746235, 42.36531492867671 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "Name": "Josephine Greene Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS114", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102537859080186, 42.364588795352809 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "Name": "Marie Griffin Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS115", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110293294519337, 42.359745249205638 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "Name": "Marcus Hayness, Jr. & Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS124", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110321020282257, 42.363292946343215 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "Name": "Kevin Hodes", "Type": "Bench", "Source": "DS", "Pole_ID": "DS127", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103630044435988, 42.37042639319629 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "Name": "Captain Alan Hughes Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS128", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132204486381553, 42.395324744877804 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "Name": "Mary & Manuel Joaquim Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS131", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093219577187881, 42.367577504950688 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "Name": "Louise Layne Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS156", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111480998803145, 42.365376224206287 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "Name": "Christopher & Barbara Jones Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS136", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11296489622427, 42.365430675367392 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "Name": "Charles & Mary Karagozian Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS138", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103717226364353, 42.370297145714112 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "Name": "Kaufman Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS139", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079322206860567, 42.367358947841183 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "Name": "Danny Lewin Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS158", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090193846505869, 42.362532937907694 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "Name": "Gertrude & Robert Linton, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS161", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108206881043415, 42.365067303071868 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "Name": "Joan Lorentz Park", "Type": "P", "Source": "DS", "Pole_ID": "DS162", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109747350445502, 42.373001879204182 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "Name": "Mary R. Mallett Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS171", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13104405743502, 42.397935292482494 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "Name": "Richard K. Maloney Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS172", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09922801778238, 42.373593034031138 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "Name": "Michael & Rose McDermott Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS179", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090969649534955, 42.369967165672406 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "Name": "Adrienne Miller Corner", "Type": "P", "Source": "DS", "Pole_ID": "DS182", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109558295296324, 42.358162384021206 ] } }
+,
+{ "type": "Feature", "id": 384, "properties": { "Name": "Mary Alice Monagle Plaza", "Type": "P", "Source": "DS", "Pole_ID": "DS186", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103169568721455, 42.369861666047143 ] } }
+,
+{ "type": "Feature", "id": 385, "properties": { "Name": "Walter Milne Ballroom", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS183", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106193478286855, 42.366755307575971 ] } }
+,
+{ "type": "Feature", "id": 386, "properties": { "Name": "Violet Moore Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS187", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101085829908101, 42.36943071800556 ] } }
+,
+{ "type": "Feature", "id": 387, "properties": { "Name": "Dona Marta Morales Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS188", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099162555141604, 42.364827698751654 ] } }
+,
+{ "type": "Feature", "id": 388, "properties": { "Name": "Mullen Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS191", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127918232553668, 42.39276022599504 ] } }
+,
+{ "type": "Feature", "id": 389, "properties": { "Name": "Dan & Rita Murphy", "Type": "P", "Source": "DS", "Pole_ID": "DS194", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110217246076999, 42.371919261093097 ] } }
+,
+{ "type": "Feature", "id": 390, "properties": { "Name": "C. Brendan Noonan Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS197", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106536756188532, 42.373763975542914 ] } }
+,
+{ "type": "Feature", "id": 391, "properties": { "Name": "Daniel & Katherine O'Brien Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS198", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134204746460142, 42.396584962290191 ] } }
+,
+{ "type": "Feature", "id": 392, "properties": { "Name": "Peter A. Petrillo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS211", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111879962437456, 42.358489928311926 ] } }
+,
+{ "type": "Feature", "id": 393, "properties": { "Name": "Pinciaro Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS214", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085745827496652, 42.370403302557563 ] } }
+,
+{ "type": "Feature", "id": 394, "properties": { "Name": "Josie Muolo Tot Lot", "Type": "P", "Source": "DS", "Pole_ID": "DS193", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086462163315446, 42.369683089522653 ] } }
+,
+{ "type": "Feature", "id": 395, "properties": { "Name": "Patsy Pizzuto Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS215", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152626271884856, 42.380038294802404 ] } }
+,
+{ "type": "Feature", "id": 396, "properties": { "Name": "Dougie's Corner", "Type": "P", "Source": "DS", "Pole_ID": "DS216", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091821579138326, 42.366466386016874 ] } }
+,
+{ "type": "Feature", "id": 397, "properties": { "Name": "James R. Polley Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS217", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104664460898718, 42.374146638593935 ] } }
+,
+{ "type": "Feature", "id": 398, "properties": { "Name": "Pugh Corner", "Type": "P", "Source": "DS", "Pole_ID": "DS221", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.077404744286085, 42.365178275623471 ] } }
+,
+{ "type": "Feature", "id": 399, "properties": { "Name": "Robert C. Quinton Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS223", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107286240724733, 42.362470019527542 ] } }
+,
+{ "type": "Feature", "id": 400, "properties": { "Name": "Pat Reale Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS224", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103023514158409, 42.370184825978079 ] } }
+,
+{ "type": "Feature", "id": 401, "properties": { "Name": "Joseph L. Roberts Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS231", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08571725714981, 42.368205822540304 ] } }
+,
+{ "type": "Feature", "id": 402, "properties": { "Name": "Warren Roberts Rd", "Type": "P", "Source": "DS", "Pole_ID": "DS232", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108148624606571, 42.37781017954245 ] } }
+,
+{ "type": "Feature", "id": 403, "properties": { "Name": "Arthur Serino Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS252", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110979516830483, 42.359109573257101 ] } }
+,
+{ "type": "Feature", "id": 404, "properties": { "Name": "Firefighter Leo J. Shallow Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS253", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087067615401011, 42.362586132468735 ] } }
+,
+{ "type": "Feature", "id": 405, "properties": { "Name": "Manuel Slate Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS261", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106785085828747, 42.367161808757302 ] } }
+,
+{ "type": "Feature", "id": 406, "properties": { "Name": "Nicola & Philomena Sorrentino Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS265", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106639885308283, 42.365447552686483 ] } }
+,
+{ "type": "Feature", "id": 407, "properties": { "Name": "Artis & A.J. Spears Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS268", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10708863707157, 42.364992444260636 ] } }
+,
+{ "type": "Feature", "id": 408, "properties": { "Name": "A. Spinetto Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS269", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086677377669318, 42.369831933597673 ] } }
+,
+{ "type": "Feature", "id": 409, "properties": { "Name": "Patrick & Margaret Sullivan Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS275", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133075984876086, 42.38151496561656 ] } }
+,
+{ "type": "Feature", "id": 410, "properties": { "Name": "Roselene C. Sullivan Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS276", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133099259283398, 42.400979229444509 ] } }
+,
+{ "type": "Feature", "id": 411, "properties": { "Name": "Catherine Rena Synott Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS280", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152031801101032, 42.377937974861013 ] } }
+,
+{ "type": "Feature", "id": 412, "properties": { "Name": "Tasonis Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS282", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095245420166719, 42.371434593885724 ] } }
+,
+{ "type": "Feature", "id": 413, "properties": { "Name": "Taylor Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS283", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129263945280783, 42.38399188637861 ] } }
+,
+{ "type": "Feature", "id": 414, "properties": { "Name": "Annabel Rojas Verches Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS294", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.14145539674675, 42.377302818652936 ] } }
+,
+{ "type": "Feature", "id": 415, "properties": { "Name": "VFW", "Type": "P", "Source": "DS", "Pole_ID": "DS296", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105603477126166, 42.365279358749611 ] } }
+,
+{ "type": "Feature", "id": 416, "properties": { "Name": "Carmelia Vicente Conference Room", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS297", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106371098020119, 42.367290297416083 ] } }
+,
+{ "type": "Feature", "id": 417, "properties": { "Name": "Rev. Clayton M. Ward, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS300", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09663827249112, 42.363305732297917 ] } }
+,
+{ "type": "Feature", "id": 418, "properties": { "Name": "Thomas White Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS303", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10970166990991, 42.372662199897498 ] } }
+,
+{ "type": "Feature", "id": 419, "properties": { "Name": "Joseph C. Whitney Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS304", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113117323589734, 42.358138738760729 ] } }
+,
+{ "type": "Feature", "id": 420, "properties": { "Name": "Toni & Irvin Williams Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS305", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137921423909916, 42.399423120053804 ] } }
+,
+{ "type": "Feature", "id": 421, "properties": { "Name": "John J. & Mary Wrenn Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS309", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128330321740165, 42.374637448344799 ] } }
+,
+{ "type": "Feature", "id": 422, "properties": { "Name": "Chamberlain Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS40", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139650689483773, 42.374813084676973 ] } }
+,
+{ "type": "Feature", "id": 423, "properties": { "Name": "James J. Babcock Administration Area", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS6", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.143574002552739, 42.383271075337255 ] } }
+,
+{ "type": "Feature", "id": 424, "properties": { "Name": "Mike Bonacci Building", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS15", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.140262350810488, 42.368999243196917 ] } }
+,
+{ "type": "Feature", "id": 425, "properties": { "Name": "Freddie Cabral, Sr. Gym", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS27", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092275091103275, 42.371128676388935 ] } }
+,
+{ "type": "Feature", "id": 426, "properties": { "Name": "Sheldon Cohen Island", "Type": "Kiosk", "Source": "DS", "Pole_ID": "DS48", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119093267440675, 42.37345722010604 ] } }
+,
+{ "type": "Feature", "id": 427, "properties": { "Name": "Jules Chisholm Booth", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS42", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118959543957843, 42.373367457667392 ] } }
+,
+{ "type": "Feature", "id": 428, "properties": { "Name": "William H. Crocker, Sr.", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS60", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114577100747709, 42.375114058403092 ] } }
+,
+{ "type": "Feature", "id": 429, "properties": { "Name": "Randy Chad Freeman Bicycle Path", "Type": "P", "Source": "DS", "Pole_ID": "DS97", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100357364515304, 42.363253927447531 ] } }
+,
+{ "type": "Feature", "id": 430, "properties": { "Name": "Carole A. Gentile Career & College Resource Ctr", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS106", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111552742369184, 42.374342981713077 ] } }
+,
+{ "type": "Feature", "id": 431, "properties": { "Name": "Anna Johnson Little League Diamond", "Type": "P", "Source": "DS", "Pole_ID": "DS132", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092925850670227, 42.370133892909173 ] } }
+,
+{ "type": "Feature", "id": 432, "properties": { "Name": "Alexander Kemp Playgound", "Type": "P", "Source": "DS", "Pole_ID": "DS145", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121423441158285, 42.377411545112047 ] } }
+,
+{ "type": "Feature", "id": 433, "properties": { "Name": "The John T. O'Connor Basketball Courts", "Type": "P", "Source": "DS", "Pole_ID": "DS199", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115792179898293, 42.367583251408938 ] } }
+,
+{ "type": "Feature", "id": 434, "properties": { "Name": "Pauline O'Donnell", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS200", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152349080277375, 42.378067822845644 ] } }
+,
+{ "type": "Feature", "id": 435, "properties": { "Name": "O'Neill Library", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS204", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128482392785472, 42.392711613048903 ] } }
+,
+{ "type": "Feature", "id": 436, "properties": { "Name": "Robert \"Bob\" Simard Maintenance Building", "Type": "Plaque", "Source": "DS", "Pole_ID": "DS260", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097675301672751, 42.371680919965627 ] } }
+,
+{ "type": "Feature", "id": 437, "properties": { "Name": "Timothy Corcoran Play Area", "Type": "P", "Source": "KIA", "Pole_ID": "KIA22", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127775772326373, 42.38718457425496 ] } }
+,
+{ "type": "Feature", "id": 438, "properties": { "Name": "Olivia I. Abelson Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS1A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110917681543796, 42.37605708835013 ] } }
+,
+{ "type": "Feature", "id": 439, "properties": { "Name": "George P. Blair Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS13A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093678899606573, 42.367959759772489 ] } }
+,
+{ "type": "Feature", "id": 440, "properties": { "Name": "Kenneth T. Brooks Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS23A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134417435350628, 42.402500391474476 ] } }
+,
+{ "type": "Feature", "id": 441, "properties": { "Name": "Bruno Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS23B", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080428325334481, 42.36833175870543 ] } }
+,
+{ "type": "Feature", "id": 442, "properties": { "Name": "George R. Cabral Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS27A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083711188614032, 42.369454271130969 ] } }
+,
+{ "type": "Feature", "id": 443, "properties": { "Name": "Cosmo & Dominic Camelio Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS30A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087654418752535, 42.368438868144395 ] } }
+,
+{ "type": "Feature", "id": 444, "properties": { "Name": "Maria \"Avo\" & Mario F. Carreiro Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS35A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090052442486211, 42.371637102403675 ] } }
+,
+{ "type": "Feature", "id": 445, "properties": { "Name": "Casey Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS36A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11070129648725, 42.371179753060694 ] } }
+,
+{ "type": "Feature", "id": 446, "properties": { "Name": "Orlando Castillo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS37A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137097006585918, 42.393732892085488 ] } }
+,
+{ "type": "Feature", "id": 447, "properties": { "Name": "Babe Ciccolo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS44A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155367193923794, 42.378355426409769 ] } }
+,
+{ "type": "Feature", "id": 448, "properties": { "Name": "Mario Depierro Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS74A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091729699850688, 42.372468568507401 ] } }
+,
+{ "type": "Feature", "id": 449, "properties": { "Name": "Isadore \"Diddle\" Doctoroff Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS77A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102676392963019, 42.373119377375467 ] } }
+,
+{ "type": "Feature", "id": 450, "properties": { "Name": "Marvin E. Gilmore Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS109A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11382152861907, 42.364592576949839 ] } }
+,
+{ "type": "Feature", "id": 451, "properties": { "Name": "William T. \"Bill\" Hickey Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS124A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132335538319737, 42.381523358459972 ] } }
+,
+{ "type": "Feature", "id": 452, "properties": { "Name": "John & Mildred Joyce Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS136A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110324035866171, 42.366809740929718 ] } }
+,
+{ "type": "Feature", "id": 453, "properties": { "Name": "Kirylo Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS150A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080070724360766, 42.369700765604108 ] } }
+,
+{ "type": "Feature", "id": 454, "properties": { "Name": "Richard R. Lee, Jr.", "Type": "Bench", "Source": "DS", "Pole_ID": "DS156A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104291685060048, 42.3654977821854 ] } }
+,
+{ "type": "Feature", "id": 455, "properties": { "Name": "Santiago Ruth Maia \"Mema\"", "Type": "P", "Source": "DS", "Pole_ID": "DS169A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114730619144396, 42.36938420520827 ] } }
+,
+{ "type": "Feature", "id": 456, "properties": { "Name": "Simmie Magliozzi Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS172A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086486410860743, 42.370530768002894 ] } }
+,
+{ "type": "Feature", "id": 457, "properties": { "Name": "Arthur E. \"Antranig\" Manasian Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS173A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127453500373633, 42.380294638418768 ] } }
+,
+{ "type": "Feature", "id": 458, "properties": { "Name": "George P. \"Mac\" McCusker Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS178A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10014713750769, 42.370726175764176 ] } }
+,
+{ "type": "Feature", "id": 459, "properties": { "Name": "Frank Menezes Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS181A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08565264626607, 42.371679924176647 ] } }
+,
+{ "type": "Feature", "id": 460, "properties": { "Name": "Joseph & Margaret Mitza Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS184A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083370568571667, 42.370839484346455 ] } }
+,
+{ "type": "Feature", "id": 461, "properties": { "Name": "Leo J. Mochi, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS184B", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08122168394155, 42.3727118968322 ] } }
+,
+{ "type": "Feature", "id": 462, "properties": { "Name": "Carlos Ayres Oliveira Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS202A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095234419739427, 42.372927964184754 ] } }
+,
+{ "type": "Feature", "id": 463, "properties": { "Name": "Manuel & Maria Pacheco Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS206A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093603062694939, 42.370916538738868 ] } }
+,
+{ "type": "Feature", "id": 464, "properties": { "Name": "Migdalia Y. Penalvert Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS210A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144320402749813, 42.379943792851492 ] } }
+,
+{ "type": "Feature", "id": 465, "properties": { "Name": "William H. \"Billy\" Reardon Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS224A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128841972213692, 42.396322718832494 ] } }
+,
+{ "type": "Feature", "id": 466, "properties": { "Name": "Hugo Salemme - WWII Veteran", "Type": "P", "Source": "DS", "Pole_ID": "DS242A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080095187682446, 42.369544305094387 ] } }
+,
+{ "type": "Feature", "id": 467, "properties": { "Name": "Mark Sandman Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS243A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101394478351693, 42.363860538333 ] } }
+,
+{ "type": "Feature", "id": 468, "properties": { "Name": "Betty Schmidt Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS248A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104464897193125, 42.364988829779428 ] } }
+,
+{ "type": "Feature", "id": 469, "properties": { "Name": "Gaetano \"Guy\" Sciandra Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS248B", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096944935535902, 42.373306890229728 ] } }
+,
+{ "type": "Feature", "id": 470, "properties": { "Name": "Robert W. Taylor, Jr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS283A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116920359030473, 42.371428006426946 ] } }
+,
+{ "type": "Feature", "id": 471, "properties": { "Name": "George & Josie Vendetti Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS291A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083886863405112, 42.367922858976186 ] } }
+,
+{ "type": "Feature", "id": 472, "properties": { "Name": "James & Henrietta McElhenny Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS179A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106684467494091, 42.376838583669205 ] } }
+,
+{ "type": "Feature", "id": 473, "properties": { "Name": "Officer William Loughrey Walkway", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087183825204988, 42.363988392247229 ] } }
+,
+{ "type": "Feature", "id": 474, "properties": { "Name": "Thomas and Calvine Haddock Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107664214340602, 42.376846731340436 ] } }
+,
+{ "type": "Feature", "id": 475, "properties": { "Name": "John J. McNamara Sennott Park Walkway", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099918572377391, 42.368803758242244 ] } }
+,
+{ "type": "Feature", "id": 476, "properties": { "Name": "Joseph and Clelia Farinato Way", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083564762576373, 42.369852593186664 ] } }
+,
+{ "type": "Feature", "id": 477, "properties": { "Name": "Robert \"Hollywood\" Bradley Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091751205763572, 42.372611172208074 ] } }
+,
+{ "type": "Feature", "id": 478, "properties": { "Name": "Anna and Augustus Scolles Family Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080906957898009, 42.373032466421002 ] } }
+,
+{ "type": "Feature", "id": 479, "properties": { "Name": "William J. Budryk Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS23C", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086063710867833, 42.369758518009405 ] } }
+,
+{ "type": "Feature", "id": 480, "properties": { "Name": "Maria and Peter Depierro Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085897131324472, 42.369732837541349 ] } }
+,
+{ "type": "Feature", "id": 481, "properties": { "Name": "Su Williamson Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121264639790553, 42.371403124335103 ] } }
+,
+{ "type": "Feature", "id": 482, "properties": { "Name": "Scott Harshbarger Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122274219342827, 42.369841141851488 ] } }
+,
+{ "type": "Feature", "id": 483, "properties": { "Name": "Luigi Totino Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07992704444608, 42.370261542688588 ] } }
+,
+{ "type": "Feature", "id": 484, "properties": { "Name": "Joseph F. \"Toofie\" Thomas, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08556165990251, 42.371836008887271 ] } }
+,
+{ "type": "Feature", "id": 485, "properties": { "Name": "Joseph \"Sonny\" Medeiros, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09673045510246, 42.370524193363863 ] } }
+,
+{ "type": "Feature", "id": 486, "properties": { "Name": "Fernando Castanheira Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091109400674569, 42.372551843274017 ] } }
+,
+{ "type": "Feature", "id": 487, "properties": { "Name": "Fred and Lill Cappucci Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096062502730035, 42.371693378697287 ] } }
+,
+{ "type": "Feature", "id": 488, "properties": { "Name": "Coppola Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089751889754282, 42.372205097779258 ] } }
+,
+{ "type": "Feature", "id": 489, "properties": { "Name": "Edward T. Dever, Chief Court Officer, Middlesex Superior Court", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079473377808156, 42.369617413387616 ] } }
+,
+{ "type": "Feature", "id": 490, "properties": { "Name": "William \"Bill\" Paquet, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086379971555431, 42.371092455054111 ] } }
+,
+{ "type": "Feature", "id": 491, "properties": { "Name": "James C. Brennan Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116735159286705, 42.369934887280621 ] } }
+,
+{ "type": "Feature", "id": 492, "properties": { "Name": "George Stanizzi Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149146030098919, 42.377597617122419 ] } }
+,
+{ "type": "Feature", "id": 493, "properties": { "Name": "James \"Tiger\" Morrissey Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148909193296618, 42.378065855411478 ] } }
+,
+{ "type": "Feature", "id": 494, "properties": { "Name": "Thomas E. Feroleto Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150582826610986, 42.377559594299498 ] } }
+,
+{ "type": "Feature", "id": 495, "properties": { "Name": "Dominic R. Scalese Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS147", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.150367304820961, 42.376986005960227 ] } }
+,
+{ "type": "Feature", "id": 496, "properties": { "Name": "Salvadore \"Sal\" Feroleto Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149374644609225, 42.377056415967175 ] } }
+,
+{ "type": "Feature", "id": 497, "properties": { "Name": "Lucy R. Gigante Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.076882794935258, 42.370431110147024 ] } }
+,
+{ "type": "Feature", "id": 498, "properties": { "Name": "Anthony and Mildred Risola Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080876098416852, 42.368000149894598 ] } }
+,
+{ "type": "Feature", "id": 499, "properties": { "Name": "Frank L. DiLeo Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.077362027138349, 42.369195675494289 ] } }
+,
+{ "type": "Feature", "id": 500, "properties": { "Name": "Geno D'Onofrio and Frank Manganelli Gold Star Mothers Park", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083849682934073, 42.372465933015995 ] } }
+,
+{ "type": "Feature", "id": 501, "properties": { "Name": "Victor and Lee Privetera Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094779715778103, 42.368600516561116 ] } }
+,
+{ "type": "Feature", "id": 502, "properties": { "Name": "Joseph and Marie Corey Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093453837002457, 42.372105020274176 ] } }
+,
+{ "type": "Feature", "id": 503, "properties": { "Name": "Mildred Howard Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106144633479417, 42.365881672556881 ] } }
+,
+{ "type": "Feature", "id": 504, "properties": { "Name": "Joseph A. Leonard Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103642539198802, 42.361617941003914 ] } }
+,
+{ "type": "Feature", "id": 505, "properties": { "Name": "Michael J. Halloran Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108967478041762, 42.364995115270375 ] } }
+,
+{ "type": "Feature", "id": 506, "properties": { "Name": "Captain Deighton Ashby Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10693506411377, 42.365166909494761 ] } }
+,
+{ "type": "Feature", "id": 507, "properties": { "Name": "Christie \"Slim\" Dinkins Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.1361108987835, 42.38406182166166 ] } }
+,
+{ "type": "Feature", "id": 508, "properties": { "Name": "Robert \"Bobby\" Shallow Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133186009621127, 42.393551429957441 ] } }
+,
+{ "type": "Feature", "id": 509, "properties": { "Name": "Helen and John Black Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12440562493012, 42.389690586014346 ] } }
+,
+{ "type": "Feature", "id": 510, "properties": { "Name": "Regina Antoine Tot Lot", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133303017742378, 42.388919336699161 ] } }
+,
+{ "type": "Feature", "id": 511, "properties": { "Name": "Rob Rivera Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119556550479686, 42.384730977191573 ] } }
+,
+{ "type": "Feature", "id": 512, "properties": { "Name": "Pam Curtis Underpass", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129434281650475, 42.389537801844568 ] } }
+,
+{ "type": "Feature", "id": 513, "properties": { "Name": "William R. & Mary R. Walsh Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106084588959746, 42.361577870494621 ] } }
+,
+{ "type": "Feature", "id": 514, "properties": { "Name": "Wheeler Way", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100085574271972, 42.37320531706245 ] } }
+,
+{ "type": "Feature", "id": 515, "properties": { "Name": "Walter F. Barker Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090396803201187, 42.373172295935632 ] } }
+,
+{ "type": "Feature", "id": 516, "properties": { "Name": "Sgt. 1st Class Costantine G. Dilando Way", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089306923989739, 42.372306467784746 ] } }
+,
+{ "type": "Feature", "id": 517, "properties": { "Name": "Private John J. Malloy, WW II Veteran", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12847464734763, 42.385757999392666 ] } }
+,
+{ "type": "Feature", "id": 518, "properties": { "Name": "Sgt. Frank Burns, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129585402448939, 42.386571463546694 ] } }
+,
+{ "type": "Feature", "id": 519, "properties": { "Name": "Alexandra Ferdinand Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103923210566535, 42.366720537967744 ] } }
+,
+{ "type": "Feature", "id": 520, "properties": { "Name": "Corrine C. (Greene) McCree Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134231078396169, 42.383842839131432 ] } }
+,
+{ "type": "Feature", "id": 521, "properties": { "Name": "Mushtaque Alikhan Mirza Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107572690706874, 42.367852246853417 ] } }
+,
+{ "type": "Feature", "id": 522, "properties": { "Name": "William \"Willy\" Frammartino Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08577516327928, 42.366924133510558 ] } }
+,
+{ "type": "Feature", "id": 523, "properties": { "Name": "Richard \"Dick\" Geraigery Way", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122319375943846, 42.390798477210723 ] } }
+,
+{ "type": "Feature", "id": 524, "properties": { "Name": "P.F.C. Bryan C. Lounsbury Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130473272112823, 42.391325331278495 ] } }
+,
+{ "type": "Feature", "id": 525, "properties": { "Name": "Sami J Herbawi Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105613758107054, 42.364847064227291 ] } }
+,
+{ "type": "Feature", "id": 526, "properties": { "Name": "Richard \"Dickie\" Graham, Jr Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09814134002464, 42.373472976469067 ] } }
+,
+{ "type": "Feature", "id": 527, "properties": { "Name": "Francis X. (Buddy) Foster Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107438154156242, 42.37170792888935 ] } }
+,
+{ "type": "Feature", "id": 528, "properties": { "Name": "John T (Johnny) Collins Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107795117034684, 42.371207392329183 ] } }
+,
+{ "type": "Feature", "id": 529, "properties": { "Name": "CP. Nicholas A. Spera Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087096274912952, 42.370570031298833 ] } }
+,
+{ "type": "Feature", "id": 530, "properties": { "Name": "Angela \"Angie\" Iannacci Square", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086176354520731, 42.371150144150931 ] } }
+,
+{ "type": "Feature", "id": 531, "properties": { "Name": "Greene  Rose Heritage Park", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094969354694513, 42.366837659597451 ] } }
+,
+{ "type": "Feature", "id": 532, "properties": { "Name": "Thomas J. Houllahan Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112221731526503, 42.359751869629726 ] } }
+,
+{ "type": "Feature", "id": 533, "properties": { "Name": "\"Queen Mother\" Frances Pierce Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136320607431486, 42.384879128260842 ] } }
+,
+{ "type": "Feature", "id": 534, "properties": { "Name": "Chief Daniel J. Reagan Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.157114319797557, 42.390810812802073 ] } }
+,
+{ "type": "Feature", "id": 535, "properties": { "Name": "Professor Will Stackman 1941 - 2007", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117229299734845, 42.369315488411978 ] } }
+,
+{ "type": "Feature", "id": 536, "properties": { "Name": "Patrick J. Stephens", "Type": "Bench", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149020016375246, 42.388871994112442 ] } }
+,
+{ "type": "Feature", "id": 537, "properties": { "Name": "Jill Brown Rhone", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099986711157172, 42.363357406259944 ] } }
+,
+{ "type": "Feature", "id": 538, "properties": { "Name": "William E. Thomas, Cambridge Community Chorus", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101055844262291, 42.363926390997591 ] } }
+,
+{ "type": "Feature", "id": 539, "properties": { "Name": "Andrew J. (Andy) Dobrisky Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09613669196726, 42.368418066550447 ] } }
+,
+{ "type": "Feature", "id": 540, "properties": { "Name": "Alexander \"Al\" Lowry Square", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09254164894439, 42.369680191790799 ] } }
+,
+{ "type": "Feature", "id": 541, "properties": { "Name": "Jeffrey John Curley Park", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092296387402754, 42.371390389418671 ] } }
+,
+{ "type": "Feature", "id": 542, "properties": { "Name": "Louis S. Nicoloro Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090692448735766, 42.372526776791574 ] } }
+,
+{ "type": "Feature", "id": 543, "properties": { "Name": "Dennis J. Arruda Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089435648813748, 42.37027999405592 ] } }
+,
+{ "type": "Feature", "id": 544, "properties": { "Name": "Caroline P. (Voto) Randall Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086973714667238, 42.372056768796995 ] } }
+,
+{ "type": "Feature", "id": 545, "properties": { "Name": "Duffy MaraGioglio Square", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.077628012301886, 42.368016075559659 ] } }
+,
+{ "type": "Feature", "id": 546, "properties": { "Name": "William \"Bill\" Tracy Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080014298930323, 42.368168349464263 ] } }
+,
+{ "type": "Feature", "id": 547, "properties": { "Name": "Perciles \"Porky\" Copitas Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113821393197483, 42.362114274667377 ] } }
+,
+{ "type": "Feature", "id": 548, "properties": { "Name": "Mary R. Shea Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS254A", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107589238945948, 42.362367938011602 ] } }
+,
+{ "type": "Feature", "id": 549, "properties": { "Name": "Louisa Solano Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116852533617148, 42.371649323356614 ] } }
+,
+{ "type": "Feature", "id": 550, "properties": { "Name": "Frank, Mark & Pauline Kramer Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116420747588833, 42.372585495779568 ] } }
+,
+{ "type": "Feature", "id": 551, "properties": { "Name": "Attorney George W. Spartichino Park", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130080371666082, 42.397724987394767 ] } }
+,
+{ "type": "Feature", "id": 552, "properties": { "Name": "Dean & Norma Wolfe Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135241938839201, 42.393702635494193 ] } }
+,
+{ "type": "Feature", "id": 553, "properties": { "Name": "William J & Catherine Holland Walsh Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119692384290346, 42.383425051110677 ] } }
+,
+{ "type": "Feature", "id": 554, "properties": { "Name": "Caesar L. & Florence C. Zani Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129119336647477, 42.390635369252081 ] } }
+,
+{ "type": "Feature", "id": 555, "properties": { "Name": "Martha Stiles & Paul R. Lawrence Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128299600335239, 42.37566045853211 ] } }
+,
+{ "type": "Feature", "id": 556, "properties": { "Name": "Patrick \"Pat\" Pizzuto Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.157803879073271, 42.382332320077481 ] } }
+,
+{ "type": "Feature", "id": 557, "properties": { "Name": "Bonvie Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109818638369731, 42.360337757670017 ] } }
+,
+{ "type": "Feature", "id": 558, "properties": { "Name": "Clifford A. Bonvie, Sr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "DS17", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11138367714517, 42.361277316901216 ] } }
+,
+{ "type": "Feature", "id": 559, "properties": { "Name": "Ivy Isolene Smith", "Type": "Bench", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105245205051702, 42.36503542610938 ] } }
+,
+{ "type": "Feature", "id": 560, "properties": { "Name": "Richard \"Rico\" Modica Way", "Type": "P", "Source": "DS", "Pole_ID": "DS185", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102423500988579, 42.364809237707753 ] } }
+,
+{ "type": "Feature", "id": 561, "properties": { "Name": "Michael V. Weinstein Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101203611435935, 42.365262555606265 ] } }
+,
+{ "type": "Feature", "id": 562, "properties": { "Name": "Joseph A. Brusch, Jr. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108777694145914, 42.368479621714421 ] } }
+,
+{ "type": "Feature", "id": 563, "properties": { "Name": "A. Eddy & M. Cloty Tabit Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119967794061296, 42.381758207415935 ] } }
+,
+{ "type": "Feature", "id": 564, "properties": { "Name": "Mokaba Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085068981722245, 42.371008285576536 ] } }
+,
+{ "type": "Feature", "id": 565, "properties": { "Name": "Robert R. Sutherland Sq, \"Battlin' Bob's Way\"", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094268239131182, 42.367580773176833 ] } }
+,
+{ "type": "Feature", "id": 566, "properties": { "Name": "Charles A. Brusch, M.D. Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103349426745936, 42.373990071142771 ] } }
+,
+{ "type": "Feature", "id": 567, "properties": { "Name": "Connor's Corner Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.138023004957319, 42.38132438089 ] } }
+,
+{ "type": "Feature", "id": 568, "properties": { "Name": "John D. Lynch Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126395632116399, 42.392490633117575 ] } }
+,
+{ "type": "Feature", "id": 569, "properties": { "Name": "Zelma & Frank Evelyn Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13216526089559, 42.385439888190042 ] } }
+,
+{ "type": "Feature", "id": 570, "properties": { "Name": "Wolf Abdias & Stanley Esdras Jules Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099883399538328, 42.363557017566215 ] } }
+,
+{ "type": "Feature", "id": 571, "properties": { "Name": "Henry J. Sullivan & Family Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13223319306303, 42.395805920370726 ] } }
+,
+{ "type": "Feature", "id": 572, "properties": { "Name": "Thomas E. \"Squeaky\" Cogwell Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099263406911248, 42.363332742781758 ] } }
+,
+{ "type": "Feature", "id": 573, "properties": { "Name": "Leary Crossing in Honor of Thomas, Sr., Thomas, Jr., Robert & John", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148173495606699, 42.378879685172834 ] } }
+,
+{ "type": "Feature", "id": 574, "properties": { "Name": "John \"Dudda\" August Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.153707297914366, 42.376091758667904 ] } }
+,
+{ "type": "Feature", "id": 575, "properties": { "Name": "Leo & Al Saidnawey Sq", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.125199613311253, 42.392548372674526 ] } }
+,
+{ "type": "Feature", "id": 576, "properties": { "Name": "Sgt. Johnny Pollander, USMC", "Type": "P", "Source": "DS", "Pole_ID": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136220450777628, 42.400272307148597 ] } }
+
+]
+}

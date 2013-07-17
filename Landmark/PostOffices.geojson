@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ADDRESS": "1953 Massachusetts Ave", "MAPID": "101-5", "PONAME": "Porter Square" }, "geometry": { "type": "Point", "coordinates": [ -71.120081484669967, 42.389992862405492 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ADDRESS": "1311 Cambridge St", "MAPID": "340-9", "PONAME": "Inman Square" }, "geometry": { "type": "Point", "coordinates": [ -71.099360594009241, 42.373725211465064 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ADDRESS": "303 Cambridge St", "MAPID": "422-14", "PONAME": "East Cambridge" }, "geometry": { "type": "Point", "coordinates": [ -71.080943424433727, 42.371337993172958 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ADDRESS": "770 Massachusetts Ave", "MAPID": "575-4", "PONAME": "Central Square" }, "geometry": { "type": "Point", "coordinates": [ -71.106043957737754, 42.366331521391899 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ADDRESS": "250 Main St", "MAPID": "677-1", "PONAME": "Kendall Square" }, "geometry": { "type": "Point", "coordinates": [ -71.084732485340695, 42.362067928872193 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ADDRESS": "84 Massachusetts Ave", "MAPID": "708-5", "PONAME": "MIT Station" }, "geometry": { "type": "Point", "coordinates": [ -71.0949606286852, 42.358979797848519 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ADDRESS": "125 Mt Auburn St", "MAPID": "355-7", "PONAME": "Harvard Square" }, "geometry": { "type": "Point", "coordinates": [ -71.122819410950996, 42.37357278491173 ] } }
+
+]
+}

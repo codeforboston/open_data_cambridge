@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "CONCATEID": "496-1", "Type": "Emergency Shelters", "Address": "158 Spring Street", "Capacity": 1210, "Phone": "617-349-4842", "Name": "Kennedy \/ Longfellow School", "ZipCode": "02141", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 1210, "MED_FAC": "NO", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086606586046074, 42.369384591187909 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "CONCATEID": "73-1", "Type": "Emergency Shelters", "Address": "70 Rindge Avenue", "Capacity": 865, "Phone": "617-349-6530", "Name": "Peabody School", "ZipCode": "02140", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 865, "MED_FAC": "NO", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128362959130229, 42.391957595177558 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "CONCATEID": "133-18", "Type": "Emergency Shelters", "Address": "197 Vassal Lane", "Capacity": 1116, "Phone": "617-349-4842", "Name": "Tobin School", "ZipCode": "02138", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 1116, "MED_FAC": "NO", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139730938061575, 42.38449721595709 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "CONCATEID": "195-1", "Type": "Emergency Shelters", "Address": "44 Linnaean Street", "Capacity": 626, "Phone": "617-349-6579", "Name": "Graham & Parks School", "ZipCode": "02138", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 626, "MED_FAC": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123787558711541, 42.382568292561281 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "CONCATEID": "328-2", "Type": "Emergency Shelters", "Address": "459 Broadway", "Capacity": 4618, "Phone": "617-349-4842", "Name": "Cambridge Rindge and Latin", "ZipCode": "02138", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 4618, "MED_FAC": "NO", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109805042722982, 42.374204970387922 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "CONCATEID": "740-1", "Type": "Emergency Shelters", "Address": "40 Granite Street", "Capacity": 578, "Phone": "617-349-4842", "Name": "Morse School", "ZipCode": "02139", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 578, "MED_FAC": "NO", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112699198984359, 42.35558856917946 ] } }
+
+]
+}

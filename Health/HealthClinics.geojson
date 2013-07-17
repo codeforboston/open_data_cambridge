@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Cambridge Family Health - Inman Square", "ADDRESS": "237 Hampshire Street", "PHONE": "617-575-5570", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100862342839818, 42.373997521231182 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "East Cambridge Health Center", "ADDRESS": "163 Gore Street", "PHONE": "617-665-3000", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085459537976064, 42.372956050418246 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Cambridge Family Health North - Porter Square", "ADDRESS": "2067 Massachusetts Ave", "PHONE": "617-575-5550", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123046063976631, 42.391531113870464 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Windsor Street Health Center", "ADDRESS": "119 Windsor St", "PHONE": "617-665-3600", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096794391580659, 42.364774932235278 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "Teen Health Center at Cambridge Rindge and Latin", "ADDRESS": "459 Broadway", "PHONE": "617-665-1548", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111993549244744, 42.373847456288154 ] } }
+
+]
+}

@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ML": "83-13", "Type": "Municipal Parking Lot", "Address": "15 Springfield Street", "SiteName": "Municipal Lot 14", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100114057901223, 42.374219845828485 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ML": "80-142", "Type": "Municipal Parking Lot", "Address": "1010 Cambridge Street", "SiteName": "Municipal Lot 11", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093826725702911, 42.372501759059141 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ML": "36-247", "Type": "Municipal Parking Lot", "Address": "7 Warren Street", "SiteName": "Municipal Lot 12", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088544488778552, 42.372490532529945 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ML": "119-51", "Type": "Municipal Parking Lot", "Address": "9 Pleasant Street", "SiteName": "Municipal Lot 9", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106369364787895, 42.365880109407627 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ML": "105-67", "Type": "Municipal Parking Lot", "Address": "375 Green Street", "SiteName": "Municipal Lot 8", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105706334043134, 42.365874819917536 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ML": "90-55", "Type": "Municipal Parking Lot", "Address": "96 Bishop Allen Drive", "SiteName": "Municipal Lot 4", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10232762252086, 42.365622696678656 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ML": "90-184", "Type": "Municipal Parking Lot", "Address": "84 Norfolk Street", "SiteName": "Municipal Lot 5", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101867167498497, 42.36518553590863 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ML": "91-195", "Type": "Municipal Parking Lot", "Address": "453 Massachusetts Avenue", "SiteName": "Municipal Lot 6", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100145434197344, 42.364223031562261 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ML": "106-122", "Type": "Municipal Parking Garage", "Address": "260 Green Street", "SiteName": "Green Street Parking Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103714900055408, 42.364082924325999 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ML": "18-75", "Type": "Municipal Parking Garage", "Address": "51 First St", "SiteName": "East Cambridge\/First Street Parking Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07815214025544, 42.369033107781753 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ML": "165-34", "Type": "Municipal Parking Lot", "Address": "110 Mt Auburn St", "SiteName": "Municipal Lot 2", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12209278964076, 42.372694821491784 ] } }
+
+]
+}

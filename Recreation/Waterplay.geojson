@@ -1,0 +1,52 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "PARK": "Riverside Press Park", "LOCATION": "River Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115275151572874, 42.362302527224209 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "PARK": "Hoyt Field", "LOCATION": "Montague Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112131928287525, 42.363372212966588 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "PARK": "Corporal Burns Park", "LOCATION": "Flagg Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115105235275578, 42.367304603620326 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "PARK": "Cooper Park", "LOCATION": "Hancock Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107889315474978, 42.369528142280771 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "PARK": "Gannett\/Warren Pals Park", "LOCATION": "Marion Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089610112414618, 42.372980981431425 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "PARK": "Glacken Field", "LOCATION": "Huron Avenue", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.151300806706089, 42.380067351489018 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "PARK": "Hurley Park", "LOCATION": "Hurley Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.082948287743761, 42.368406471311701 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "PARK": "Paine Park", "LOCATION": "St. Mary Road", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10163952388659, 42.370987637821649 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "PARK": "Pine Street Park", "LOCATION": "Pine Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098105297649667, 42.364376651050854 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "PARK": "Reverend Williams Park", "LOCATION": "Cedar Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130678292460757, 42.395675512365678 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "PARK": "Danehy Park", "LOCATION": "Garden Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133456676518279, 42.388722893146038 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "PARK": "Kennedy\/Longfellow School", "LOCATION": "Charles Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085548576327156, 42.369035000194778 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "PARK": "King School", "LOCATION": "Putnam Avenue", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112139099813461, 42.366857436729141 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "PARK": "Bergin Park", "LOCATION": "Rindge Avenue", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127296724005987, 42.391232312311317 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "PARK": "Sennott Park", "LOCATION": "Broadway", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100473269443555, 42.368390469228622 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "PARK": "Franklin Street Park", "LOCATION": "Franklin Street", "Size": "Small", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110405873648318, 42.367706837694207 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "PARK": "Maple Avenue Park", "LOCATION": "Maple Avenue", "Size": "Small", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104300341497677, 42.373361355791637 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "PARK": "Agassiz\/Alden Park", "LOCATION": "Oxford Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11638733999915, 42.382986050511967 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "PARK": "Donnelly Field", "LOCATION": "Willow Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091985548783597, 42.371419918009863 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "PARK": "Dana Park", "LOCATION": "Magazine Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107712249334881, 42.36115634385613 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "PARK": "Gold Star Mothers Park", "LOCATION": "Gore Street", "Size": "Full", "Status": "Complete", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084226533640916, 42.372545640027205 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "PARK": "Harvard Street Park", "LOCATION": "Harvard Street", "Size": "Full", "Status": "Under construction", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094955892915166, 42.366101267283653 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "PARK": "Father Callanan Playground", "LOCATION": "Concord Ave", "Size": "Full", "Status": "Under construction", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139333696261744, 42.385769770073146 ] } }
+
+]
+}

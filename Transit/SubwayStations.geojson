@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATION": "DAVIS", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.122421748737253, 42.39675254375647 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATION": "ALEWIFE", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.141580246480757, 42.396675345087111 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATION": "PORTER", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.119119899696486, 42.388091038929069 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATION": "HARVARD", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.119009128022554, 42.373479086132811 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATION": "LECHMERE", "LINE": "GREEN" }, "geometry": { "type": "Point", "coordinates": [ -71.077395945112158, 42.371036831520932 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "STATION": "SCIENCE PARK", "LINE": "GREEN" }, "geometry": { "type": "Point", "coordinates": [ -71.067841889933234, 42.366809774220187 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "STATION": "CENTRAL", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.103562738055459, 42.365389048682715 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "STATION": "KENDALL\/MIT", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.086147947379814, 42.362444085995321 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "STATION": "CHARLES\/MGH", "LINE": "RED" }, "geometry": { "type": "Point", "coordinates": [ -71.070864417259926, 42.361186110469653 ] } }
+
+]
+}

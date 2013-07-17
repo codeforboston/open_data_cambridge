@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Cambridge Public Library", "ADDRESS": "449 Broadway", "PHONE": "617-349-4032", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110817554719958, 42.374153323555447 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Boudreau Branch Library", "ADDRESS": "245 Concord Ave", "PHONE": "617-349-4017", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132602385154513, 42.383347642174336 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Central Square Branch Library", "ADDRESS": "45 Pearl St", "PHONE": "617-349-4010", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103929552087536, 42.363905408220944 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Collins Branch Library", "ADDRESS": "64 Aberdeen Ave", "PHONE": "617-349-4021", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.14683989791402, 42.376913517221261 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "O'Connell Branch Library", "ADDRESS": "48 Sixth St", "PHONE": "617-349-4019", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084829092513246, 42.370395140400682 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "Valente Branch Library", "ADDRESS": "826 Cambridge St", "PHONE": "617-349-4015", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09035497114948, 42.372134474097749 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "O'Neill Branch Library", "ADDRESS": "70 Rindge Ave", "PHONE": "617-349-4023\r\n", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128515961031383, 42.392662575325176 ] } }
+
+]
+}

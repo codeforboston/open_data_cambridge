@@ -1,0 +1,276 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Cambridge Common", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120886606407609, 42.376794693927025 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Mary Connolly Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120373452679516, 42.378258170364113 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Flagstaff Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118851062531959, 42.375684494523327 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Dawes Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119514024987282, 42.375429212974673 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Open Space", "FEATURENAM": "Arsenal Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124248250349851, 42.378779724181804 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Longfellow House", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12638516359479, 42.376991761026183 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SCALE": 2, "PUBLICPRIV": "", "OWNER": "", "FEATURETYP": "", "FEATURENAM": "Longfellow Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126937312822378, 42.375668084918964 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Haggerty School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152585810064579, 42.378045597603041 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Peabody", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128277869134834, 42.392269735237157 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "School", "FEATURENAM": "Graham & Parks School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123812830616032, 42.382796740879435 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Baldwin School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116643586203736, 42.382289680926142 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Cambridge Rindge and Latin School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110779104164322, 42.374616200945347 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Amigos School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11304201769147, 42.367050572009006 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "King School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113174548138957, 42.366696537852611 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Cambridgeport School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097773374708581, 42.369399068481798 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Fletcher Maynard Academy", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095855845461088, 42.366830337470006 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Kennedy Longfellow School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086604145629877, 42.369423927600614 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "School", "FEATURENAM": "Morse School", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112700203166526, 42.355889875344815 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Square", "FEATURENAM": "Porter Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119542658277879, 42.388959341998827 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "SCALE": 2, "PUBLICPRIV": "", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Fire Department Co. 8 (Temporary)", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.149912422777916, 42.393010515727603 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Neville Manor", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148742321497167, 42.388479227347588 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "SCALE": 2, "PUBLICPRIV": "Private", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Santa Maria Hospital", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155199954415693, 42.391624213660712 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Tip O'Neil Maintenance Facility", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.15584479296281, 42.389002990310928 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "SCALE": 2, "PUBLICPRIV": "", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Collin's Branch Library", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.14686860000144, 42.376843741393238 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "SCALE": 1, "PUBLICPRIV": "Private", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Cambridge House", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136586750568128, 42.374774578487525 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Mt. Auburn Hospital", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133721615970956, 42.37397714759561 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "Harvard", "FEATURETYP": "Building", "FEATURENAM": "Harvard Health and Medical Center", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11869443163944, 42.372616733809728 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Hoyt Field Building", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111257881709349, 42.364031694738316 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Water Feature", "FEATURENAM": "Fire Station Co. No. 6", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11003019098122, 42.363274069217468 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "SCALE": 1, "PUBLICPRIV": "Private", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Riverside Boathouse", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115856744269948, 42.35806129099668 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "MDC", "FEATURETYP": "Building", "FEATURENAM": "Magazine Beach Pool", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115030038755378, 42.356335324666873 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Water Treatment Plant", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111688392592242, 42.353666031874205 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "Federal", "FEATURETYP": "Building", "FEATURENAM": "U.S. Department of Transportation Volpe Center", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085255658051082, 42.364052472357344 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "East Cambridge Garage", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078279285372076, 42.369106017762185 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Middlesex District Court", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080564355132452, 42.369274846763275 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Probate Court Registry of Deeds", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079276728720998, 42.370491013301184 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "East Cambridge Fire Station", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078698390324021, 42.371158644225773 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "SCALE": 2, "PUBLICPRIV": "Private", "OWNER": "", "FEATURETYP": "Building", "FEATURENAM": "Cambridgeside Galleria", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07635794115896, 42.368010626989495 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "O'Connell Branch Library", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084809121379536, 42.37045530086553 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Lombardi Building", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106465849026165, 42.367281099683147 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "SCALE": 4, "PUBLICPRIV": "", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "City Hall", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105638175632336, 42.367097155733418 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Police Headquarters", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086127312137961, 42.367357838394781 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "SCALE": 2, "PUBLICPRIV": "", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Green St. Garage", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10374658663811, 42.364269932829721 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Central Square Branch Library", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103764171564563, 42.363825507216859 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Gately Youth Center", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128328268571693, 42.391914213041581 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Lowell School Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133636256181148, 42.37525179806979 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "MDC", "FEATURETYP": "Open Space", "FEATURENAM": "Memorial Drive Playground", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13179277710212, 42.374500979594906 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Riverbend Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127256277908458, 42.3741072762191 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "SCALE": 3, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "John F. Kennedy Memorial Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123292937524994, 42.370861957806007 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Brattle Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121029118015429, 42.372942953630137 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Winthrop Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120592697884987, 42.372429388702564 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Harvard Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118972410445394, 42.373381769464224 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Quincy Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115606079333901, 42.372339676272574 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Sullivan Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113134728885058, 42.370169801238255 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Sullivan Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111072664764933, 42.368566590863743 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Franklin Street Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110459254641299, 42.367679934397152 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Cooper Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10788298760329, 42.369473600380012 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Tubman Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108599556598591, 42.363829331260781 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "SCALE": 3, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Dana Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107807418263732, 42.361405639963436 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Lopez Street Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105161384455812, 42.361476411780707 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Cronin Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106563960987629, 42.36523240413613 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Carl Barron Plaza", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103935383397882, 42.365349747545977 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Auburn Court", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102565298591074, 42.362159170812909 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "Public - Owner not specified", "FEATURETYP": "Open Space", "FEATURENAM": "University Park Common", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101564660651462, 42.361550446417887 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Pacific Street Open Space", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103374986024491, 42.360319616350964 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "David Nunes Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107792307375874, 42.358060112479613 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Hasting Square", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109372047297427, 42.356376121187083 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Fulmore Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106488767498021, 42.357137818245391 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Fort Washington Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10421467462308, 42.356551369177403 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "MDC", "FEATURETYP": "Open Space", "FEATURENAM": "Magazine Beach", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113541785473672, 42.354926980862395 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Lindstrom Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111003409806315, 42.355031478861612 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "MIT", "FEATURETYP": "Open Space", "FEATURENAM": "MIT Playing Fields", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100260004195178, 42.356550999796333 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Point Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08436710112214, 42.362394142983241 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "South Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.088190913160048, 42.364642651997642 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Costa Lopez Taylor Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080259105047489, 42.367879630092332 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Charles Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.076366297957406, 42.366575063331773 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Lechmere Canal Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.075897301557944, 42.369639463052209 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Silva Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081334287052158, 42.370756793409555 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Hurley Street VFW Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083000227551324, 42.368395087553836 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "John J. Ahern Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086702319021555, 42.368727695626156 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Gannett Warren Pals Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089555936477311, 42.372832463248507 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Millers River Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087922939433312, 42.372219717278668 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "SCALE": 3, "PUBLICPRIV": "Public", "OWNER": "MDC", "FEATURETYP": "Open Space", "FEATURENAM": "Gold Star Mothers \/ Gore Street Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083703374876521, 42.372794802801913 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Donnelly Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091760548593271, 42.370498677003418 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Vellucci Plaza", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101428469106907, 42.37396920854615 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Wilder Lee Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105069449181102, 42.370239889961731 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Paine Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101523015761217, 42.371027886820478 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Sennott Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10018659121711, 42.368442252281106 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Elm Hampshire Plaza", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096479735511707, 42.370559481051934 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Maple Avenue Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104259912339728, 42.373302734346041 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "SCALE": 3, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Joan Lorentz Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110035776492651, 42.373333737799832 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Sacramento Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117735889045932, 42.3831018547491 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Agassiz Alden Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116367843649329, 42.382850307727104 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Rindge Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128541937373143, 42.391095499278414 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Bergin Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127247354482918, 42.390904716689157 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Anderson Courts", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128524853781471, 42.390222805470415 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "McMath Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127156158339332, 42.390048219393201 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Danehy Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136510526165111, 42.389080080768565 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Roethlisberger Memorial Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134137906574821, 42.386767823868205 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "St. Peter's Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132591843057909, 42.38656993482595 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Fr. Callahan Playground", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.138702144369717, 42.385142148313015 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "National Guard Armory", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139926308858747, 42.386003560232986 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "SCALE": 2, "PUBLICPRIV": "Private", "OWNER": "BBN", "FEATURETYP": "Open Space", "FEATURENAM": "BB&N Playing Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.143134967210756, 42.381451003845079 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Larch Road Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.142641890344294, 42.379158151559224 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Lowell Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139515898719608, 42.375878897660847 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Kingsley Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.146238490011001, 42.382371755032921 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Glacken Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152069884422332, 42.380514519631085 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Mt. Auburn Veterans Memorial Plaza", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152295348639413, 42.379863760514532 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Thomas P. O'Neill, Jr. Municipal Golf Course at Fresh Pond", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.157603566161967, 42.385306145450798 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Fresh Pond Reservation", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.146452651214901, 42.387521535202616 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Corporal Burns Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115303276698469, 42.367400974711408 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Riverside Press Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115278913775683, 42.362365893335607 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "SCALE": 5, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Hoyt Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112550727679604, 42.363508452979346 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Alberico Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.1126349802324, 42.360970846457292 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Columbia Street Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098701564215162, 42.364805977151612 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "SCALE": 2, "PUBLICPRIV": "", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Pine Street Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097982903511323, 42.364350721510675 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Bishop Allen Plaza", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09821073086438, 42.363435680359714 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Windsor Street Health Clinic", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096763422226431, 42.36409948523923 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Emergency Communications", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086231474576152, 42.36718548865673 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Fire Station", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114774762710709, 42.375387783107172 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Russell Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137603210400982, 42.396381349284198 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Samp Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137499580079037, 42.3955369238831 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Comeau Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13773778226286, 42.394191110622344 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Rev. Williams Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13039503269114, 42.395634898055043 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Linear Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.134353554554025, 42.398009051134821 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Linear Park", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129176178545876, 42.397721152044298 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "MDC", "FEATURETYP": "Open Space", "FEATURENAM": "Alewife Brook Reservation", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144963387424696, 42.396645467545078 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Alewife Brook Reservation", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.151631172506242, 42.397097952097198 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "SCALE": 1, "PUBLICPRIV": "", "OWNER": "", "FEATURETYP": "", "FEATURENAM": "", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148757348868273, 42.397028929526378 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "SCALE": 1, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Blair Pond", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155126473267629, 42.395078594192839 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "SCALE": 2, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Open Space", "FEATURENAM": "Rafferty Playground \/ Santa Maria Field", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.15486872501306, 42.392625898687065 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "SCALE": 3, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "City Hall Annex", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103398528569798, 42.369984731785578 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Area IV Youth Center", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10094348213164, 42.368243986692988 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Frisolli Youth Center", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092256489361603, 42.371138214725995 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "SCALE": 4, "PUBLICPRIV": "Public", "OWNER": "City", "FEATURETYP": "Building", "FEATURENAM": "Valente Branch Library", "OFFICIALNA": "", "MALID": "", "LASTEDITDA": "", "EDITOR": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090355191439372, 42.372060467104852 ] } }
+
+]
+}

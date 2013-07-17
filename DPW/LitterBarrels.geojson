@@ -1,0 +1,1406 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099280473888967, 42.362667996062704 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101273080537197, 42.363859513846556 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101091249206178, 42.36373081707071 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100619238121226, 42.36346895777497 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100249790365396, 42.36324375723548 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099935911278791, 42.363055327403949 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100958479862513, 42.363860755251793 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100515906877916, 42.363583713138169 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100173037870064, 42.363421059971479 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.09896931636338, 42.363440248737469 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.098139041115616, 42.36220358390262 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101881862024683, 42.364397047787698 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101705118199249, 42.364300283277942 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10148531677423, 42.364178014004032 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101322350153808, 42.364079485538966 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103029677688596, 42.364108578429438 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10205162459755, 42.364315504940727 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101850847891228, 42.364174614999897 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101608977089157, 42.3640431592098 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102459214232255, 42.364543959685093 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102277776726396, 42.364428437768652 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102565358086366, 42.364793955513399 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102741143511182, 42.364920022148979 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102929359512956, 42.365028898600286 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102364284953424, 42.364699797160533 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102238756017897, 42.364619921982211 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103254088631502, 42.365213104217077 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103387707184183, 42.365301512811534 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103561255171996, 42.365419008924221 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103736468009956, 42.365530747937939 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104266863314862, 42.365242277835833 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104388899137135, 42.36512988852401 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104175235736037, 42.36533227021318 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103319830262024, 42.365067620315124 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103150339599438, 42.364964214954867 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103049948795217, 42.364893784718205 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102868511715002, 42.364789651685001 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103482141985779, 42.365159365773032 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103650505077042, 42.36526573035691 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103799523998205, 42.365359021118444 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104223738251719, 42.365546530225345 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104315243616938, 42.365440621729732 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104504223482309, 42.365351073798067 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104421727358115, 42.365714600188916 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104613110066552, 42.365850486480525 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10491225857686, 42.366026092766724 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105197227043178, 42.366167623008494 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104123272020004, 42.365759783641536 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104278733046229, 42.365846894318103 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104789204364678, 42.366141442720306 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104919519549028, 42.366232115737851 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105158155689764, 42.36636846524658 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10539624426707, 42.36649191520285 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105798544600972, 42.36675387240809 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106037880061265, 42.366897384504277 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106082165660496, 42.366750151714825 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105780771935841, 42.366571549781781 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106462063580111, 42.366985494605132 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106925454187603, 42.36727902162778 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108555299329367, 42.36833816852382 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108984934337784, 42.368402551531211 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111019645911256, 42.369323255352128 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111472596577329, 42.369485150013432 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113418755159742, 42.370029546011487 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113068510895445, 42.370250803147137 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113746840709808, 42.370800416174035 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114074803341481, 42.370852831173117 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114357376659513, 42.371120969440184 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115584856796673, 42.371617996196044 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115616474541611, 42.371938417633572 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115784884078863, 42.372311488302003 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115973240237622, 42.372428959936315 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.116283468082401, 42.372612530976369 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.116352296377556, 42.372735420635756 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115947260113217, 42.372587590421645 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115430205601967, 42.372427475047964 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.116723548841392, 42.371337894005855 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.1156296497537, 42.370854387618856 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.117069360492977, 42.372801143123674 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.117281583420791, 42.37285859683319 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118724799705561, 42.374245990433174 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.1186312489844, 42.374496598282775 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118536437271416, 42.374839567322439 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118780083491274, 42.373719064796589 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118781163523124, 42.373975803792788 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.1184284862819, 42.373317813273552 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118155349084702, 42.373235353090493 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118200138354723, 42.373123351496183 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118354889197818, 42.373193290063902 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118637462422086, 42.373257505531889 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11873332160485, 42.373391020581025 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118868845216198, 42.373611901036661 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119054677807611, 42.373596957698922 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119166489853399, 42.373478317494161 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119346238126681, 42.373385860932622 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119713712379109, 42.372969455919872 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119910475329249, 42.372736448424639 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119848829399359, 42.372507251821339 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119635067551798, 42.372422439349016 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119347962449893, 42.373000982992927 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119068353779809, 42.37337857480707 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119796124134297, 42.3731301742718 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120054981128831, 42.372811701798298 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120699299188701, 42.37317261564759 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120328057109731, 42.372466767913913 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121664333768067, 42.372444827557118 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121828535252519, 42.372444736358055 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.12167535097322, 42.372632256526018 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.122543854987157, 42.373144162533656 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120988313493186, 42.373168985658289 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120866301334814, 42.373322992546228 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121305016930322, 42.373893421033713 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121489173605454, 42.374059604436937 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11892819170761, 42.374246883908818 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119792714660207, 42.373451082297805 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119636007601997, 42.373472214976246 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11938042405842, 42.373528830470661 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119220887615668, 42.373663338299146 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119160179005647, 42.373831870342777 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119058813660814, 42.374003972217182 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119010921496297, 42.374102874619226 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11999378533649, 42.37355456709539 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120057678840325, 42.373409891119131 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120455641260762, 42.37343774003871 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120480302660567, 42.373355197382523 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120647561388509, 42.373456621187621 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120675578521116, 42.373369863685468 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120782153423576, 42.373463678175895 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120801484224302, 42.373393658290752 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120908124321687, 42.373482807955099 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119047214176888, 42.374799193325359 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.102908673123139, 42.366561697583371 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.101765181584909, 42.368172140701702 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097941564054409, 42.366925018560437 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097840627907118, 42.36692913854214 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098430599159727, 42.365848303481393 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089479735210176, 42.36501617374352 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089235126321384, 42.364967910124236 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088966375474229, 42.364728571568541 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08846907524655, 42.364595187098772 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088004885922444, 42.364400616265314 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087772351288478, 42.364816719021064 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087444383086535, 42.365266807481262 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087098052897034, 42.365689113831237 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087277101336113, 42.366144423411477 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089329670245519, 42.364534518055336 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088627816221575, 42.364379054750458 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087645634619818, 42.363956872887954 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087332220946777, 42.363815718237042 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.085598537604866, 42.362304821186093 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.086046774788528, 42.362343946989789 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08601004572391, 42.362545450111959 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.085597317002538, 42.362491140126608 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084267177520701, 42.362892601529239 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084203520176004, 42.362793474609397 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.082502757034476, 42.365784648770031 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091658253659375, 42.366058008393701 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092916206962258, 42.366043615657233 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097222955048437, 42.368004467548204 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097566650590551, 42.367888717897749 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098342847293324, 42.368193526640589 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097536765430903, 42.369503174408024 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.097054318039682, 42.370753031884497 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096728914244295, 42.370446640323422 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095799593401068, 42.369506550182344 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095419145818283, 42.369470856797982 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109705002808354, 42.37267982816406 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110782059283153, 42.373107711370302 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111816822866004, 42.373506656357776 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11121023671312, 42.375010171061462 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11073766457713, 42.374945294608516 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109985080701264, 42.375037306285535 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109221014507156, 42.374884941770688 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108328634470894, 42.374757902202937 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107352611262144, 42.374512849470449 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104786491798066, 42.374096896230668 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104614792464204, 42.374277415113944 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103435676736964, 42.373957760328345 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103132914302947, 42.374128632472399 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102848912627621, 42.374081579307635 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102565976338099, 42.374018174435292 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102099437562714, 42.373979214777393 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101216701156659, 42.373952778506684 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101408116952129, 42.374092154904659 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.102451985496785, 42.373854233692875 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101484793510707, 42.373740465510721 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100905548661842, 42.373681133624913 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100213002518814, 42.373092374795554 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100831002576868, 42.373812041764282 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10107007993517, 42.37401066404351 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101264879980874, 42.374170879942618 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100067744451138, 42.37318651303886 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100472834044709, 42.373519871499695 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100201189134708, 42.373714196116737 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.098481139820549, 42.373357375166776 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.098778672137229, 42.37339982141058 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099011728528524, 42.373426126509216 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099281111547668, 42.373460680148305 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099761968301962, 42.373522806193243 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100136417201853, 42.373563266367903 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099372988267802, 42.373608905833748 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.098853338935641, 42.373565549573897 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.098413881644831, 42.373493795354811 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.09776418597751, 42.373410081234674 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098079462296397, 42.373304191712798 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096980047212526, 42.373343097848739 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096880821658345, 42.373129480576438 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096585032857774, 42.373092578560687 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096118196142797, 42.373032354404792 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095611763247689, 42.373145606870821 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095034136134458, 42.37306649371029 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094674399191447, 42.373023873479234 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095238879941633, 42.372936513956745 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094526033786494, 42.37340516140074 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094230451504274, 42.37296114287026 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094364866639452, 42.372799002950245 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.093160383387897, 42.372931541527571 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.093222074333937, 42.372649696032347 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092539124970259, 42.372577387298101 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091990616155314, 42.372649807572671 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091990616155314, 42.372649807572671 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.090947920029549, 42.372514525965585 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091128943123607, 42.372402607485981 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.090716504204039, 42.372350100916663 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091145084533991, 42.372275696392755 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.090484738959859, 42.372211248951864 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089621796224307, 42.372344060329233 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089678835891704, 42.372188262985468 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089104036332316, 42.37213777823262 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088571733051083, 42.372205026350244 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088137342552557, 42.372176744534819 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.088183089736162, 42.37202230696122 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087573537707286, 42.371938623984214 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087519518102397, 42.372095885501544 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.086923666140052, 42.371994082408342 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.086980431159532, 42.371869979487307 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.086211019550561, 42.371768235402953 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.086142201538934, 42.371896053976066 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.085421825501541, 42.371670037048922 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.085010399552729, 42.371594298721163 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08504176517107, 42.371765971683757 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084482776633919, 42.371709593632076 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084042198276109, 42.371626996094818 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083411968005521, 42.371386090270768 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08285034776452, 42.371493790679139 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081822609191178, 42.371363227681577 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081934196133133, 42.371221462527515 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081215880696689, 42.371129173084356 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080714569072825, 42.371037505696243 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080001392339184, 42.370879698748503 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080139623669538, 42.371145391279342 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079647180938167, 42.371061407589522 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079168422563569, 42.371001070940004 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079567400063226, 42.370915899294836 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079028143177922, 42.370838025768187 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077874151280184, 42.370957911446027 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077245454360906, 42.370591737472886 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076907242121166, 42.370366796491375 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076646166538595, 42.370510202008127 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076662660867555, 42.370677624204816 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076925169769794, 42.37079581714508 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077214006242926, 42.370856398234636 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080188817186126, 42.369827835997569 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079857800429721, 42.369566049488846 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079551242350362, 42.369527637288861 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.07734965259688, 42.369170192389142 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077832866959582, 42.367290980923563 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077669804966007, 42.36780401969569 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.077611297437016, 42.368048330037027 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081138624171246, 42.367522977362484 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081284200325868, 42.367561979426078 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119777461939321, 42.380118711470296 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120043847187105, 42.380147498732704 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120109548711312, 42.379850807504283 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119980907228523, 42.381105491954173 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119849483714674, 42.381929348192955 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119444272216882, 42.382623656994951 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119766123380899, 42.382687752357043 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119661629261373, 42.383648735762179 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119332775858567, 42.384205955842432 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119562264964955, 42.384580950584564 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119495008044353, 42.385190239975948 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119430317995139, 42.385791031136009 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119337332575299, 42.386689349789613 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119051689860768, 42.386682175374332 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119046161557563, 42.387311014242137 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119490032802119, 42.387979235601847 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119759681283028, 42.388178742331071 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119326390145034, 42.388445459476756 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119178442597487, 42.388554814751487 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119533766069168, 42.388911483581317 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119617241921389, 42.389132519421608 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119841393422675, 42.389370347228052 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120054697771778, 42.389294464988637 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119836244606901, 42.388958418977474 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119764846044546, 42.388760281244323 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120201172630146, 42.389756938900966 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120629618527246, 42.390138240252305 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120877121944176, 42.390051136271417 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.121079282019778, 42.390463740737268 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.121742586485126, 42.390553129434451 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.12257234156391, 42.390937415842671 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.122959873719623, 42.391112824447973 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.123356739370337, 42.391542554388117 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.123519100261817, 42.391387415164161 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.125157946355841, 42.393021721851319 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.12533409737128, 42.392875762761022 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.126803348862268, 42.394481558343323 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.126686388142943, 42.394082714246622 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127456685430076, 42.395071095843456 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127900235306882, 42.395164072721002 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128443158833733, 42.395646037075345 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128579023646267, 42.396068484221168 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128892162944055, 42.396046910907955 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.129408226337361, 42.396503236769775 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.129954965529734, 42.396944429378927 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130643694869846, 42.397613063434967 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.131147758882946, 42.398321933015993 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133274951114984, 42.399828082739454 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133172218780885, 42.399514219713609 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.135528888024012, 42.400836081690656 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.135424232992577, 42.400545237306865 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.134001429095662, 42.37496922369084 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.134015015620889, 42.374853357416001 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133255834725588, 42.374806403335839 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130574054807695, 42.374640230375476 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.126145365984272, 42.374351598020091 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133930315733124, 42.381430343562549 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138010433914189, 42.381181854042033 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.139300592259985, 42.380970469659488 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.131510429672318, 42.382696578150124 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.134349150764947, 42.383875155344683 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.147713453012756, 42.374944473632574 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096692320410398, 42.363795081907959 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095605014834064, 42.366196451390387 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110652024207269, 42.364822272758424 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112641531770194, 42.364650268418927 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113384551573915, 42.36458866670398 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113363595128149, 42.362375139290407 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120585351621656, 42.37279649399175 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121257771312045, 42.372890005192922 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.12131134401362, 42.372830552868415 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120356501719044, 42.389885681526181 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.120695278708794, 42.389923761311451 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119686738550016, 42.388662169817948 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119331554191575, 42.388540722992381 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119305133986984, 42.388576006553741 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121299148400084, 42.373841346667149 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105769003450334, 42.36673799270752 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103973432253497, 42.365413211923965 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08530964039862, 42.362455802183639 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.143495331134318, 42.383490878000806 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101458358756148, 42.373988877358315 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103380992239408, 42.370137461530987 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103136196786977, 42.370031546492584 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103291430915576, 42.369825892016941 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105847130858251, 42.365037699653598 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114449472298332, 42.371129235977236 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106027809386546, 42.367064629040094 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105672617237929, 42.366855273520478 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115256338883526, 42.372179186098251 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115070834828941, 42.372116357335244 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114412545750881, 42.375589822992481 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.113157648818117, 42.370167628179473 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095054205812801, 42.366804989090298 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095176100366174, 42.366636766991746 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08790522773289, 42.37221745856592 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098307251419854, 42.36460963374239 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098782464984183, 42.364757304982945 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098689127598746, 42.364981527499914 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098586336771021, 42.365161784206414 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098193070932936, 42.363425602766569 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094552963558527, 42.36873681170885 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095889290975833, 42.366385310270559 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.0961643579152, 42.366498344602419 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08495667366185, 42.370442661777012 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.079795613757952, 42.367663679856484 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.155245798502548, 42.392890952299339 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154780582215921, 42.392700601881359 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154266450421233, 42.392499702633906 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128972947537093, 42.392305263996988 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128999788018206, 42.392128303828294 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.129013736540557, 42.391915080496602 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.12881522069712, 42.3927764316458 ] } }
+,
+{ "type": "Feature", "id": 384, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.132816820985497, 42.387622040412687 ] } }
+,
+{ "type": "Feature", "id": 385, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128714151285649, 42.391359292773743 ] } }
+,
+{ "type": "Feature", "id": 386, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.12879468966797, 42.390970636986147 ] } }
+,
+{ "type": "Feature", "id": 387, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128180294653049, 42.391311715690939 ] } }
+,
+{ "type": "Feature", "id": 388, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128184989648105, 42.390865848519738 ] } }
+,
+{ "type": "Feature", "id": 389, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.136202105232186, 42.400479865930308 ] } }
+,
+{ "type": "Feature", "id": 390, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.136757743782994, 42.400133894651027 ] } }
+,
+{ "type": "Feature", "id": 391, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.129732786499488, 42.397660928633037 ] } }
+,
+{ "type": "Feature", "id": 392, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128136436698355, 42.397610668972163 ] } }
+,
+{ "type": "Feature", "id": 393, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128445964155858, 42.397625443926152 ] } }
+,
+{ "type": "Feature", "id": 394, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128752396516362, 42.397631427083269 ] } }
+,
+{ "type": "Feature", "id": 395, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.12907814902664, 42.397638322356265 ] } }
+,
+{ "type": "Feature", "id": 396, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.129384581509385, 42.397644303829907 ] } }
+,
+{ "type": "Feature", "id": 397, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138080696950311, 42.396693972990398 ] } }
+,
+{ "type": "Feature", "id": 398, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138099320980501, 42.396389606063615 ] } }
+,
+{ "type": "Feature", "id": 399, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138134167952416, 42.396077387248368 ] } }
+,
+{ "type": "Feature", "id": 400, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138130975494107, 42.395800776393109 ] } }
+,
+{ "type": "Feature", "id": 401, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137407939518724, 42.396656155015307 ] } }
+,
+{ "type": "Feature", "id": 402, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137448420345862, 42.396324032324245 ] } }
+,
+{ "type": "Feature", "id": 403, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138003195508517, 42.394317349272271 ] } }
+,
+{ "type": "Feature", "id": 404, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137455252532035, 42.394273969447475 ] } }
+,
+{ "type": "Feature", "id": 405, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137485487588464, 42.395179658255586 ] } }
+,
+{ "type": "Feature", "id": 406, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137459457455989, 42.395748611166418 ] } }
+,
+{ "type": "Feature", "id": 407, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137440193862901, 42.396015519668509 ] } }
+,
+{ "type": "Feature", "id": 408, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137480782123987, 42.394024642541481 ] } }
+,
+{ "type": "Feature", "id": 409, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137457497880064, 42.39545765273256 ] } }
+,
+{ "type": "Feature", "id": 410, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138075306436988, 42.395501499226029 ] } }
+,
+{ "type": "Feature", "id": 411, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137458478976313, 42.394550580536986 ] } }
+,
+{ "type": "Feature", "id": 412, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137851379957297, 42.394659302419697 ] } }
+,
+{ "type": "Feature", "id": 413, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137863746499889, 42.394923978146117 ] } }
+,
+{ "type": "Feature", "id": 414, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137918216975621, 42.395212494989082 ] } }
+,
+{ "type": "Feature", "id": 415, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138484520164099, 42.395710894733504 ] } }
+,
+{ "type": "Feature", "id": 416, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138981195018872, 42.395891723163288 ] } }
+,
+{ "type": "Feature", "id": 417, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137032924351189, 42.395506420788521 ] } }
+,
+{ "type": "Feature", "id": 418, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137419309514044, 42.396958777813197 ] } }
+,
+{ "type": "Feature", "id": 419, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.136955878259357, 42.397209495380508 ] } }
+,
+{ "type": "Feature", "id": 420, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154562704160568, 42.37870601005563 ] } }
+,
+{ "type": "Feature", "id": 421, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154143318374437, 42.378675168995109 ] } }
+,
+{ "type": "Feature", "id": 422, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154585571731133, 42.378015781801388 ] } }
+,
+{ "type": "Feature", "id": 423, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154634676240988, 42.377759770760839 ] } }
+,
+{ "type": "Feature", "id": 424, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154515738884186, 42.376524282326947 ] } }
+,
+{ "type": "Feature", "id": 425, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.1539907413311, 42.37646658831251 ] } }
+,
+{ "type": "Feature", "id": 426, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154481839423198, 42.377228554726038 ] } }
+,
+{ "type": "Feature", "id": 427, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137083687326609, 42.393970156145919 ] } }
+,
+{ "type": "Feature", "id": 428, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137066814451757, 42.394246045306062 ] } }
+,
+{ "type": "Feature", "id": 429, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137085726881821, 42.395123983562051 ] } }
+,
+{ "type": "Feature", "id": 430, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.13702206238878, 42.395979736186057 ] } }
+,
+{ "type": "Feature", "id": 431, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137037978732408, 42.396283278954485 ] } }
+,
+{ "type": "Feature", "id": 432, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137047719561082, 42.396617864928622 ] } }
+,
+{ "type": "Feature", "id": 433, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105495198690534, 42.365262769901392 ] } }
+,
+{ "type": "Feature", "id": 434, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106780351858689, 42.36516141388941 ] } }
+,
+{ "type": "Feature", "id": 435, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108965775519792, 42.364971235991703 ] } }
+,
+{ "type": "Feature", "id": 436, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110858877558144, 42.364802941018738 ] } }
+,
+{ "type": "Feature", "id": 437, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111576550175741, 42.362976410366727 ] } }
+,
+{ "type": "Feature", "id": 438, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110551117044054, 42.363211705143357 ] } }
+,
+{ "type": "Feature", "id": 439, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108709020623138, 42.363941113368874 ] } }
+,
+{ "type": "Feature", "id": 440, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107823275599813, 42.36414760711186 ] } }
+,
+{ "type": "Feature", "id": 441, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118657732187032, 42.373253099890661 ] } }
+,
+{ "type": "Feature", "id": 442, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118191385680191, 42.373249083307755 ] } }
+,
+{ "type": "Feature", "id": 443, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115832405294668, 42.372341283014777 ] } }
+,
+{ "type": "Feature", "id": 444, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119660112218028, 42.37243012324226 ] } }
+,
+{ "type": "Feature", "id": 445, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.123010910954108, 42.373482282024995 ] } }
+,
+{ "type": "Feature", "id": 446, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.123052564826708, 42.373497538363154 ] } }
+,
+{ "type": "Feature", "id": 447, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120206684737937, 42.373413950467402 ] } }
+,
+{ "type": "Feature", "id": 448, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119326393367359, 42.375342510708137 ] } }
+,
+{ "type": "Feature", "id": 449, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119309036816176, 42.375305518069922 ] } }
+,
+{ "type": "Feature", "id": 450, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119258578936282, 42.373420722398606 ] } }
+,
+{ "type": "Feature", "id": 451, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121655440739644, 42.372657052341445 ] } }
+,
+{ "type": "Feature", "id": 452, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119093378529286, 42.374354340048555 ] } }
+,
+{ "type": "Feature", "id": 453, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.118728930676284, 42.374223749699375 ] } }
+,
+{ "type": "Feature", "id": 454, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120247686116926, 42.374431450589988 ] } }
+,
+{ "type": "Feature", "id": 455, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121144146703529, 42.371260968702153 ] } }
+,
+{ "type": "Feature", "id": 456, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121352148032088, 42.371225925739836 ] } }
+,
+{ "type": "Feature", "id": 457, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103777136182998, 42.365548203184794 ] } }
+,
+{ "type": "Feature", "id": 458, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103119888514385, 42.364940263826782 ] } }
+,
+{ "type": "Feature", "id": 459, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.119554585397282, 42.388958064285646 ] } }
+,
+{ "type": "Feature", "id": 460, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10441055966875, 42.365109931241001 ] } }
+,
+{ "type": "Feature", "id": 461, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101843630265364, 42.365491748665548 ] } }
+,
+{ "type": "Feature", "id": 462, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10138273904164, 42.365218433459411 ] } }
+,
+{ "type": "Feature", "id": 463, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101236932287478, 42.365132751789588 ] } }
+,
+{ "type": "Feature", "id": 464, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.126209093510937, 42.374245280272021 ] } }
+,
+{ "type": "Feature", "id": 465, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.153058280472251, 42.378296047343575 ] } }
+,
+{ "type": "Feature", "id": 466, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.152838174802667, 42.37829000497662 ] } }
+,
+{ "type": "Feature", "id": 467, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.153410020325396, 42.381275734117168 ] } }
+,
+{ "type": "Feature", "id": 468, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.156323463319012, 42.382280102316919 ] } }
+,
+{ "type": "Feature", "id": 469, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.150539982793134, 42.379707024357117 ] } }
+,
+{ "type": "Feature", "id": 470, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.154138451981808, 42.381622251266236 ] } }
+,
+{ "type": "Feature", "id": 471, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.155104251945488, 42.381975951569444 ] } }
+,
+{ "type": "Feature", "id": 472, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.146591063518301, 42.376982918840405 ] } }
+,
+{ "type": "Feature", "id": 473, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.100202744544603, 42.363440837445097 ] } }
+,
+{ "type": "Feature", "id": 474, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08732475443189, 42.362432908176075 ] } }
+,
+{ "type": "Feature", "id": 475, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.087283625641547, 42.362431577208945 ] } }
+,
+{ "type": "Feature", "id": 476, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101556194743182, 42.373926593055053 ] } }
+,
+{ "type": "Feature", "id": 477, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10151034785568, 42.373921578090822 ] } }
+,
+{ "type": "Feature", "id": 478, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.099809836596265, 42.373524670629173 ] } }
+,
+{ "type": "Feature", "id": 479, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076623295534318, 42.370674849291937 ] } }
+,
+{ "type": "Feature", "id": 480, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133292963723704, 42.374807572164535 ] } }
+,
+{ "type": "Feature", "id": 481, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110704343108566, 42.374937930636776 ] } }
+,
+{ "type": "Feature", "id": 482, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109800606654844, 42.374813575556949 ] } }
+,
+{ "type": "Feature", "id": 483, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10975275596752, 42.374810155508911 ] } }
+,
+{ "type": "Feature", "id": 484, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137848585573636, 42.393897373663172 ] } }
+,
+{ "type": "Feature", "id": 485, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137881361262217, 42.393899305038047 ] } }
+,
+{ "type": "Feature", "id": 486, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.1291635979196, 42.390512179255737 ] } }
+,
+{ "type": "Feature", "id": 487, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128603627223086, 42.390444360528633 ] } }
+,
+{ "type": "Feature", "id": 488, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.128108184880986, 42.390371108602288 ] } }
+,
+{ "type": "Feature", "id": 489, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112895681602126, 42.360985133352642 ] } }
+,
+{ "type": "Feature", "id": 490, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112441155709632, 42.36089058767498 ] } }
+,
+{ "type": "Feature", "id": 491, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.116304271247301, 42.382814047262514 ] } }
+,
+{ "type": "Feature", "id": 492, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127144311109788, 42.39110957080986 ] } }
+,
+{ "type": "Feature", "id": 493, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127521512017879, 42.391122099704305 ] } }
+,
+{ "type": "Feature", "id": 494, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127160962216763, 42.390937148563729 ] } }
+,
+{ "type": "Feature", "id": 495, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127346478375827, 42.390683887059993 ] } }
+,
+{ "type": "Feature", "id": 496, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127553450802296, 42.390717114602168 ] } }
+,
+{ "type": "Feature", "id": 497, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120386583726102, 42.376720738756958 ] } }
+,
+{ "type": "Feature", "id": 498, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120930501726818, 42.376495901264391 ] } }
+,
+{ "type": "Feature", "id": 499, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119885196327019, 42.376442043507495 ] } }
+,
+{ "type": "Feature", "id": 500, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120489572423423, 42.376128876400195 ] } }
+,
+{ "type": "Feature", "id": 501, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.119843349637023, 42.3756019031009 ] } }
+,
+{ "type": "Feature", "id": 502, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.121703563847419, 42.376601974644693 ] } }
+,
+{ "type": "Feature", "id": 503, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.07629212194206, 42.366896931768672 ] } }
+,
+{ "type": "Feature", "id": 504, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.075975569771899, 42.366856036055324 ] } }
+,
+{ "type": "Feature", "id": 505, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076180419692676, 42.366532060515738 ] } }
+,
+{ "type": "Feature", "id": 506, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076362646333351, 42.366308800895297 ] } }
+,
+{ "type": "Feature", "id": 507, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076689528561957, 42.366041034463777 ] } }
+,
+{ "type": "Feature", "id": 508, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.132226040698299, 42.399851377650357 ] } }
+,
+{ "type": "Feature", "id": 509, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.132461994357868, 42.399893360869129 ] } }
+,
+{ "type": "Feature", "id": 510, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.132642620098167, 42.399611673906314 ] } }
+,
+{ "type": "Feature", "id": 511, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107716325269024, 42.369545576072888 ] } }
+,
+{ "type": "Feature", "id": 512, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107661569717521, 42.369475493399371 ] } }
+,
+{ "type": "Feature", "id": 513, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107891851628054, 42.369347119224003 ] } }
+,
+{ "type": "Feature", "id": 514, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127238422459826, 42.3867172760472 ] } }
+,
+{ "type": "Feature", "id": 515, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127709525885876, 42.387002595774753 ] } }
+,
+{ "type": "Feature", "id": 516, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127974894908363, 42.386976062364937 ] } }
+,
+{ "type": "Feature", "id": 517, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.1270933466283, 42.386396841307921 ] } }
+,
+{ "type": "Feature", "id": 518, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127972457941183, 42.386191755801782 ] } }
+,
+{ "type": "Feature", "id": 519, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114889314623127, 42.367661181447033 ] } }
+,
+{ "type": "Feature", "id": 520, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114894242424029, 42.367428067173527 ] } }
+,
+{ "type": "Feature", "id": 521, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115196201038657, 42.367629698941251 ] } }
+,
+{ "type": "Feature", "id": 522, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115197601370966, 42.367478404660204 ] } }
+,
+{ "type": "Feature", "id": 523, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115338133361604, 42.367567956886582 ] } }
+,
+{ "type": "Feature", "id": 524, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11573375314758, 42.36759148998047 ] } }
+,
+{ "type": "Feature", "id": 525, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115849568613086, 42.36764520282393 ] } }
+,
+{ "type": "Feature", "id": 526, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.116005329253184, 42.367305601466178 ] } }
+,
+{ "type": "Feature", "id": 527, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115014060940766, 42.367183010583631 ] } }
+,
+{ "type": "Feature", "id": 528, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080236255592638, 42.368139124849442 ] } }
+,
+{ "type": "Feature", "id": 529, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.080044671273683, 42.367942352298684 ] } }
+,
+{ "type": "Feature", "id": 530, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107886467300105, 42.361815585445477 ] } }
+,
+{ "type": "Feature", "id": 531, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108018236899326, 42.361655336058199 ] } }
+,
+{ "type": "Feature", "id": 532, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.1082945780622, 42.361433152847439 ] } }
+,
+{ "type": "Feature", "id": 533, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107392319808852, 42.361543990084833 ] } }
+,
+{ "type": "Feature", "id": 534, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107508132849759, 42.361171962874479 ] } }
+,
+{ "type": "Feature", "id": 535, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107645240673932, 42.361126529064599 ] } }
+,
+{ "type": "Feature", "id": 536, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107906821198341, 42.361180606593187 ] } }
+,
+{ "type": "Feature", "id": 537, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107622616003013, 42.358049081259217 ] } }
+,
+{ "type": "Feature", "id": 538, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107763159153933, 42.357896774381878 ] } }
+,
+{ "type": "Feature", "id": 539, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.107991391399523, 42.357978329822132 ] } }
+,
+{ "type": "Feature", "id": 540, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108137887630988, 42.357876475611278 ] } }
+,
+{ "type": "Feature", "id": 541, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108302085049331, 42.35772903881297 ] } }
+,
+{ "type": "Feature", "id": 542, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091024145568468, 42.371151594872522 ] } }
+,
+{ "type": "Feature", "id": 543, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091342131103545, 42.371251075338847 ] } }
+,
+{ "type": "Feature", "id": 544, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.09081649110982, 42.370863710022867 ] } }
+,
+{ "type": "Feature", "id": 545, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092170035859453, 42.371442113297199 ] } }
+,
+{ "type": "Feature", "id": 546, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092700872531395, 42.3707219543005 ] } }
+,
+{ "type": "Feature", "id": 547, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.09288016438218, 42.370466112014491 ] } }
+,
+{ "type": "Feature", "id": 548, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.093055945081488, 42.370092888489886 ] } }
+,
+{ "type": "Feature", "id": 549, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091702486756517, 42.369669672512828 ] } }
+,
+{ "type": "Feature", "id": 550, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092132898580331, 42.369770745251991 ] } }
+,
+{ "type": "Feature", "id": 551, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.092261747806589, 42.369795137289152 ] } }
+,
+{ "type": "Feature", "id": 552, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.091467447250864, 42.369582025601723 ] } }
+,
+{ "type": "Feature", "id": 553, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104105118205752, 42.356795019289883 ] } }
+,
+{ "type": "Feature", "id": 554, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104390529174964, 42.356810597420093 ] } }
+,
+{ "type": "Feature", "id": 555, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104520833355664, 42.356411972429918 ] } }
+,
+{ "type": "Feature", "id": 556, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110480543042129, 42.367771685261594 ] } }
+,
+{ "type": "Feature", "id": 557, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.110488094813903, 42.367687846683133 ] } }
+,
+{ "type": "Feature", "id": 558, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076157064170985, 42.36513273092153 ] } }
+,
+{ "type": "Feature", "id": 559, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076706219971058, 42.365248177409633 ] } }
+,
+{ "type": "Feature", "id": 560, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076776591382668, 42.365170632152704 ] } }
+,
+{ "type": "Feature", "id": 561, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.076454444572477, 42.364829670364401 ] } }
+,
+{ "type": "Feature", "id": 562, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106779742802189, 42.357379992816497 ] } }
+,
+{ "type": "Feature", "id": 563, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106554137549992, 42.357308496717344 ] } }
+,
+{ "type": "Feature", "id": 564, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106407045568432, 42.35725428480373 ] } }
+,
+{ "type": "Feature", "id": 565, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.106466016416277, 42.357196649029632 ] } }
+,
+{ "type": "Feature", "id": 566, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10636372424878, 42.357094069791088 ] } }
+,
+{ "type": "Feature", "id": 567, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.1376173004615, 42.399716705201968 ] } }
+,
+{ "type": "Feature", "id": 568, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.13773539163688, 42.399658336250695 ] } }
+,
+{ "type": "Feature", "id": 569, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137826266735118, 42.399606909736228 ] } }
+,
+{ "type": "Feature", "id": 570, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.152676393993133, 42.380400449028933 ] } }
+,
+{ "type": "Feature", "id": 571, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.152590273760595, 42.380273415829237 ] } }
+,
+{ "type": "Feature", "id": 572, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.15149375627486, 42.379980022678509 ] } }
+,
+{ "type": "Feature", "id": 573, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.082696309426993, 42.373267949480976 ] } }
+,
+{ "type": "Feature", "id": 574, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.082960903395758, 42.373317750203995 ] } }
+,
+{ "type": "Feature", "id": 575, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083681599984899, 42.373300179774141 ] } }
+,
+{ "type": "Feature", "id": 576, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.082825406702923, 42.372900233597207 ] } }
+,
+{ "type": "Feature", "id": 577, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083526195682651, 42.372551227335151 ] } }
+,
+{ "type": "Feature", "id": 578, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083406361133214, 42.372282975620578 ] } }
+,
+{ "type": "Feature", "id": 579, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083371696113076, 42.372381067510425 ] } }
+,
+{ "type": "Feature", "id": 580, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083997696698432, 42.37250677719053 ] } }
+,
+{ "type": "Feature", "id": 581, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084303536726935, 42.372557795903141 ] } }
+,
+{ "type": "Feature", "id": 582, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.084569499209806, 42.372509380460443 ] } }
+,
+{ "type": "Feature", "id": 583, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.123252180267698, 42.38259486560991 ] } }
+,
+{ "type": "Feature", "id": 584, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.123699528427352, 42.382382337063831 ] } }
+,
+{ "type": "Feature", "id": 585, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.124006907065805, 42.383079433552275 ] } }
+,
+{ "type": "Feature", "id": 586, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094852057176283, 42.366328123514677 ] } }
+,
+{ "type": "Feature", "id": 587, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.095031936828462, 42.366209433209065 ] } }
+,
+{ "type": "Feature", "id": 588, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094014319157125, 42.365864971797528 ] } }
+,
+{ "type": "Feature", "id": 589, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094596258941593, 42.365811570821613 ] } }
+,
+{ "type": "Feature", "id": 590, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109230915937758, 42.356783556737362 ] } }
+,
+{ "type": "Feature", "id": 591, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.108915270934418, 42.356607672724699 ] } }
+,
+{ "type": "Feature", "id": 592, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.109601933721592, 42.355979042122975 ] } }
+,
+{ "type": "Feature", "id": 593, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111704023191479, 42.364283893170018 ] } }
+,
+{ "type": "Feature", "id": 594, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111696933507744, 42.364181839216521 ] } }
+,
+{ "type": "Feature", "id": 595, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111381777028328, 42.363991970970751 ] } }
+,
+{ "type": "Feature", "id": 596, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111480584704395, 42.363894821352915 ] } }
+,
+{ "type": "Feature", "id": 597, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111409096172295, 42.363795290465191 ] } }
+,
+{ "type": "Feature", "id": 598, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111578147481396, 42.363582312063407 ] } }
+,
+{ "type": "Feature", "id": 599, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112110607760002, 42.363325882534575 ] } }
+,
+{ "type": "Feature", "id": 600, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112348143522937, 42.363137221814107 ] } }
+,
+{ "type": "Feature", "id": 601, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112417825597575, 42.363127466488031 ] } }
+,
+{ "type": "Feature", "id": 602, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112531730607358, 42.363023502345513 ] } }
+,
+{ "type": "Feature", "id": 603, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112849973824069, 42.363089683328532 ] } }
+,
+{ "type": "Feature", "id": 604, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112823374852553, 42.363334030424923 ] } }
+,
+{ "type": "Feature", "id": 605, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.112803301847578, 42.363423864050176 ] } }
+,
+{ "type": "Feature", "id": 606, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.11282302915042, 42.363540696198015 ] } }
+,
+{ "type": "Feature", "id": 607, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083086962107558, 42.368479873356826 ] } }
+,
+{ "type": "Feature", "id": 608, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.083092940243489, 42.368373277180652 ] } }
+,
+{ "type": "Feature", "id": 609, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.082894332635263, 42.368382399826267 ] } }
+,
+{ "type": "Feature", "id": 610, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.142880517170994, 42.379192533083561 ] } }
+,
+{ "type": "Feature", "id": 611, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.142973981981825, 42.379248221577917 ] } }
+,
+{ "type": "Feature", "id": 612, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111150485658783, 42.355431581933878 ] } }
+,
+{ "type": "Feature", "id": 613, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111446905123046, 42.355117077521577 ] } }
+,
+{ "type": "Feature", "id": 614, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.111191670451248, 42.355454549398388 ] } }
+,
+{ "type": "Feature", "id": 615, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127442534865821, 42.374632727738934 ] } }
+,
+{ "type": "Feature", "id": 616, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.126644956084178, 42.376271491275354 ] } }
+,
+{ "type": "Feature", "id": 617, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105069186733587, 42.361615466295163 ] } }
+,
+{ "type": "Feature", "id": 618, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133805716782462, 42.375405276628278 ] } }
+,
+{ "type": "Feature", "id": 619, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.133369504284303, 42.37522653543467 ] } }
+,
+{ "type": "Feature", "id": 620, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.13364920807075, 42.375175537893107 ] } }
+,
+{ "type": "Feature", "id": 621, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104133570104622, 42.373425811297956 ] } }
+,
+{ "type": "Feature", "id": 622, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094146983134948, 42.367473102457417 ] } }
+,
+{ "type": "Feature", "id": 623, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094278533776802, 42.367457567711561 ] } }
+,
+{ "type": "Feature", "id": 624, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094301783773645, 42.367341326450109 ] } }
+,
+{ "type": "Feature", "id": 625, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094419041906249, 42.36740575421917 ] } }
+,
+{ "type": "Feature", "id": 626, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.094420504823603, 42.367298436690142 ] } }
+,
+{ "type": "Feature", "id": 627, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120326679972862, 42.378647986849572 ] } }
+,
+{ "type": "Feature", "id": 628, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127311409619992, 42.390276282178853 ] } }
+,
+{ "type": "Feature", "id": 629, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127540102716708, 42.390282869243492 ] } }
+,
+{ "type": "Feature", "id": 630, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127176776065141, 42.390154135778907 ] } }
+,
+{ "type": "Feature", "id": 631, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127140462402522, 42.390038695519166 ] } }
+,
+{ "type": "Feature", "id": 632, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.127447424818698, 42.390016391015081 ] } }
+,
+{ "type": "Feature", "id": 633, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103304794432233, 42.360079001154539 ] } }
+,
+{ "type": "Feature", "id": 634, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103797669568209, 42.360399597766381 ] } }
+,
+{ "type": "Feature", "id": 635, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101522461820863, 42.371164635963339 ] } }
+,
+{ "type": "Feature", "id": 636, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.101282727418877, 42.370844432431333 ] } }
+,
+{ "type": "Feature", "id": 637, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.098119728059359, 42.364451783974452 ] } }
+,
+{ "type": "Feature", "id": 638, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.13033466478052, 42.395763470731787 ] } }
+,
+{ "type": "Feature", "id": 639, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130393247341772, 42.395827688902159 ] } }
+,
+{ "type": "Feature", "id": 640, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130253803039295, 42.395608406684424 ] } }
+,
+{ "type": "Feature", "id": 641, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130741564921777, 42.395657969869482 ] } }
+,
+{ "type": "Feature", "id": 642, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.130742170087302, 42.395332110752648 ] } }
+,
+{ "type": "Feature", "id": 643, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104318768682077, 42.371156195903133 ] } }
+,
+{ "type": "Feature", "id": 644, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.104100001567147, 42.370947772332073 ] } }
+,
+{ "type": "Feature", "id": 645, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.10377732691687, 42.370565469632339 ] } }
+,
+{ "type": "Feature", "id": 646, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.103555923182398, 42.370804683138829 ] } }
+,
+{ "type": "Feature", "id": 647, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115829301063258, 42.365126626806145 ] } }
+,
+{ "type": "Feature", "id": 648, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115828116920838, 42.36511901918157 ] } }
+,
+{ "type": "Feature", "id": 649, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115508035993173, 42.364953111986139 ] } }
+,
+{ "type": "Feature", "id": 650, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115507540165723, 42.364945462925071 ] } }
+,
+{ "type": "Feature", "id": 651, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115869085269779, 42.364450430089114 ] } }
+,
+{ "type": "Feature", "id": 652, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115858635497176, 42.364456336976531 ] } }
+,
+{ "type": "Feature", "id": 653, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115487786957289, 42.364447374923905 ] } }
+,
+{ "type": "Feature", "id": 654, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115487837514578, 42.364439057961761 ] } }
+,
+{ "type": "Feature", "id": 655, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114629146875416, 42.362547453039497 ] } }
+,
+{ "type": "Feature", "id": 656, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115251454767915, 42.362651905262119 ] } }
+,
+{ "type": "Feature", "id": 657, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115905588986138, 42.362674365250037 ] } }
+,
+{ "type": "Feature", "id": 658, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115715803251746, 42.362460311337429 ] } }
+,
+{ "type": "Feature", "id": 659, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115396288690604, 42.362365924880095 ] } }
+,
+{ "type": "Feature", "id": 660, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115065088743407, 42.3623539580285 ] } }
+,
+{ "type": "Feature", "id": 661, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.114649566114764, 42.362030944070789 ] } }
+,
+{ "type": "Feature", "id": 662, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.115130181686396, 42.362203135695587 ] } }
+,
+{ "type": "Feature", "id": 663, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.118290149307015, 42.382965779898363 ] } }
+,
+{ "type": "Feature", "id": 664, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.118160660629627, 42.383069750806854 ] } }
+,
+{ "type": "Feature", "id": 665, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.117366087022035, 42.383032965352101 ] } }
+,
+{ "type": "Feature", "id": 666, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.100267010099472, 42.36880487018631 ] } }
+,
+{ "type": "Feature", "id": 667, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.100326943786996, 42.368785401695511 ] } }
+,
+{ "type": "Feature", "id": 668, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.099568733518282, 42.368606767186222 ] } }
+,
+{ "type": "Feature", "id": 669, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.099436392996751, 42.368554947535621 ] } }
+,
+{ "type": "Feature", "id": 670, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.0994745695278, 42.367956490565319 ] } }
+,
+{ "type": "Feature", "id": 671, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.10028697611358, 42.368229825312774 ] } }
+,
+{ "type": "Feature", "id": 672, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.100527809187085, 42.368444199301322 ] } }
+,
+{ "type": "Feature", "id": 673, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.100394978020745, 42.368467041995515 ] } }
+,
+{ "type": "Feature", "id": 674, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08149413943471, 42.370730717230565 ] } }
+,
+{ "type": "Feature", "id": 675, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081490930614649, 42.370630351118933 ] } }
+,
+{ "type": "Feature", "id": 676, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.081394050851728, 42.370644298685242 ] } }
+,
+{ "type": "Feature", "id": 677, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096619681934499, 42.367441301554315 ] } }
+,
+{ "type": "Feature", "id": 678, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.096835520012093, 42.367256255796299 ] } }
+,
+{ "type": "Feature", "id": 679, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138851190082733, 42.385788501634096 ] } }
+,
+{ "type": "Feature", "id": 680, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138669613751063, 42.385707218383956 ] } }
+,
+{ "type": "Feature", "id": 681, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.139073612861779, 42.385664920149779 ] } }
+,
+{ "type": "Feature", "id": 682, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137780333662434, 42.385355236812707 ] } }
+,
+{ "type": "Feature", "id": 683, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.137899746955426, 42.385184696180993 ] } }
+,
+{ "type": "Feature", "id": 684, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138280076377896, 42.38463497390638 ] } }
+,
+{ "type": "Feature", "id": 685, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138376194368391, 42.384575922829583 ] } }
+,
+{ "type": "Feature", "id": 686, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "3" }, "geometry": { "type": "Point", "coordinates": [ -71.138599825101522, 42.384537911061862 ] } }
+,
+{ "type": "Feature", "id": 687, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089444617465944, 42.372985751483789 ] } }
+,
+{ "type": "Feature", "id": 688, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.0895318898516, 42.373001546386121 ] } }
+,
+{ "type": "Feature", "id": 689, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089413490054042, 42.37289569896047 ] } }
+,
+{ "type": "Feature", "id": 690, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.089532002515227, 42.372800291006953 ] } }
+,
+{ "type": "Feature", "id": 691, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "1" }, "geometry": { "type": "Point", "coordinates": [ -71.08971682424739, 42.372763111244311 ] } }
+,
+{ "type": "Feature", "id": 692, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.105216286758989, 42.370207045765504 ] } }
+,
+{ "type": "Feature", "id": 693, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120551401448921, 42.372608828912746 ] } }
+,
+{ "type": "Feature", "id": 694, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120546594114359, 42.372619021006336 ] } }
+,
+{ "type": "Feature", "id": 695, "properties": { "OWNER": "DPW - RECYCLING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120559517155115, 42.372257880163367 ] } }
+,
+{ "type": "Feature", "id": 696, "properties": { "OWNER": "DPW - RECYCLING (BIG BELLY COMPACTOR)", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120566320175854, 42.372266831131604 ] } }
+,
+{ "type": "Feature", "id": 697, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.12030838625634, 42.372544846469616 ] } }
+,
+{ "type": "Feature", "id": 698, "properties": { "OWNER": "DPW - PARKS", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120358197487363, 42.372565744060367 ] } }
+,
+{ "type": "Feature", "id": 699, "properties": { "OWNER": "DPW - STREET CLEANING", "PARK_DISTR": "2" }, "geometry": { "type": "Point", "coordinates": [ -71.120430548913006, 42.372339339535792 ] } }
+
+]
+}

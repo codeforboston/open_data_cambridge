@@ -1,0 +1,122 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "LOCATION": "Sennott Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100449068648388, 42.368857904335648 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "LOCATION": "Memorial Drive Tot Lot", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131623419002523, 42.374546784730882 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "LOCATION": "Cambridge Common", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121380834495042, 42.377412886691452 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "LOCATION": "Alberico Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112645965761118, 42.360965395294429 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "LOCATION": "Alden Playground", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116402641164882, 42.382855582599085 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "LOCATION": "Bergin Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127222023199351, 42.390630119666923 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "LOCATION": "Clement G. Morgan Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09829867136763, 42.364609643222671 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "LOCATION": "Cooper Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10778851565658, 42.369526815228788 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "LOCATION": "Corporal Burns Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115179850061125, 42.367324770432582 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "LOCATION": "Corcoran Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12779924093185, 42.387083860749591 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "LOCATION": "Costa Lopez Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.080312254014217, 42.367922686591044 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "LOCATION": "Dana Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10759023046208, 42.361082469517868 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "LOCATION": "Market Street Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094197443960439, 42.367383220645628 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "LOCATION": "Greene  Rose Heritage Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095022071035643, 42.36631612777537 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "LOCATION": "Fulmore Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106643794114106, 42.357327608108463 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "LOCATION": "David Nunes Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108251073300352, 42.35783619475508 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "LOCATION": "Clarendon Avenue Playground", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132491576541398, 42.399796332124161 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "LOCATION": "Haggerty School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152831676644908, 42.378341079856568 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "LOCATION": "Larch Road Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.142753776522895, 42.379256132913071 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "LOCATION": "Lowell School Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13360240534216, 42.375249687087404 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "LOCATION": "Gold Star Mothers Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083615493819138, 42.372416405593974 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "LOCATION": "Hoyt Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112428125709698, 42.363305471932904 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "LOCATION": "Riverside Press Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114829789594211, 42.362256877064837 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "LOCATION": "Silva Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081334323987051, 42.370723260886145 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "LOCATION": "Kennedy\/Longfellow School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085784660901879, 42.369112819288773 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "LOCATION": "King School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112475428428681, 42.366522350368925 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "LOCATION": "Maple Avenue Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104232835987347, 42.373336091466875 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "LOCATION": "Paine Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101589785034449, 42.371132091165748 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "LOCATION": "Graham and Parks School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123769561386325, 42.382230745484655 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "LOCATION": "St. Peter's Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131878074998028, 42.386404491404228 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "LOCATION": "Father Callanan Playground", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.138888316426147, 42.384528392025615 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "LOCATION": "Rafferty Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155299171216242, 42.392697357012089 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "LOCATION": "Reverend Williams Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13045662566185, 42.395617533903263 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "LOCATION": "Wilder-Lee Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105142198697635, 42.370163497651966 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "LOCATION": "Morse School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111659712688521, 42.355379012652151 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "LOCATION": "Lechmere Canal Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.075436476893941, 42.369947185697342 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "LOCATION": "Charles Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07667919854569, 42.366216273929084 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "LOCATION": "Danehy Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137423812106391, 42.389046960208155 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "LOCATION": "Danehy Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133415263786446, 42.389025971843274 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "LOCATION": "Donnelly Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091875032105889, 42.371343792866867 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "LOCATION": "Cambridgeport School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097467208824511, 42.369780110355499 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "LOCATION": "Peabody School", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128979474500568, 42.39193738899457 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "LOCATION": "Fletcher\/Maynard Academy", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096043746572292, 42.366460299731486 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "LOCATION": "Tobin Field Tot Lot", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139486315474628, 42.385035312103355 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "LOCATION": "Gibbons Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.13761553049288, 42.399773588141656 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "LOCATION": "Hoyt Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111514515300797, 42.363780984624739 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "LOCATION": "Lopez Street Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105225801472244, 42.361464778474733 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "LOCATION": "Gannet\/Warren Pals Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.089579410446902, 42.372893465521734 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "LOCATION": "Glacken Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.151095212335917, 42.380065355604046 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "LOCATION": "Hurley Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083101929540845, 42.368426875942312 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "LOCATION": "Pine Street Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097951000583009, 42.364357607403477 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "LOCATION": "Sacramento Field", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118193154982052, 42.382972810438474 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "LOCATION": "Russell Field Tot Lot", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.137725317313738, 42.395061431257346 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "LOCATION": "North Point Park Playground", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.068784378311292, 42.369095456194479 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "LOCATION": "Longfellow School West", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104385323368106, 42.371064542858164 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "LOCATION": "Longfellow School East", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103618364103326, 42.370750284339955 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "LOCATION": "Main Library Tot Lot", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111066490324006, 42.373648224351719 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "LOCATION": "Magazine Beach", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112740467544057, 42.354786935184194 ] } }
+
+]
+}

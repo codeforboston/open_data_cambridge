@@ -1,0 +1,140 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "After School Adventure\r\n", "ADDRESS": "105 Spring St\r\n", "PHONE": "617 876-4444\r\n", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083040358787144, 42.369458921107253 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Afterworks", "ADDRESS": "15 Sellers St", "PHONE": "617-661-8831", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107296525259031, 42.366821232258836 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Agassiz Child Care Program", "ADDRESS": "20 Sacramento St", "PHONE": "617 349-6287", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117762235568748, 42.382343729130362 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Agassiz Community School ASP", "ADDRESS": "28 Sacramento Stt", "PHONE": "617-349-6287", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11673010891333, 42.382377422623698 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Agassiz Preschool, Inc.", "ADDRESS": "1803 Massachusetts Ave", "PHONE": "617-547-9355", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.118589847982165, 42.386663604679903 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Alef-Bet Child Care Center", "ADDRESS": "8 Tremont St", "PHONE": "617 349-4490", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099382145723553, 42.369335504639665 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Area Four Youth Center", "ADDRESS": "243 Harvard St.", "PHONE": "617 349-4490", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100952861624776, 42.368194323970556 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Bigelow Cooperative Day Care Center", "ADDRESS": "0 Garden St", "PHONE": "617 354-7335", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120896637967476, 42.375232362848465 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Botanic Gardens Children's Center", "ADDRESS": "26 Robinson St", "PHONE": "617 496-0595", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126739446202706, 42.383277044855518 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Bright Horizons at One Rogers Street", "ADDRESS": "1 Rogers St", "PHONE": "617 693-5202", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07717223463419, 42.366631511050549 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Bright Horizons Childrens Center- OKS", "ADDRESS": "1 Kendal Sq Building 1500", "PHONE": "617-577-9532", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090532348177817, 42.367749875176614 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Bright Horizons Children's Center University Park", "ADDRESS": "129 Franklin St", "PHONE": "617 621-9553", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10175699544375, 42.362866268819182 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Community Center", "ADDRESS": "5 Callender St", "PHONE": "617-547-6811", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111196138216926, 42.365498388440571 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "PUBLICPRIV": "Public", "OWNER": "", "SITE_NAME": "Cambridge Head Start - Windsor Street", "ADDRESS": "119 Windsor St", "PHONE": "617 497-2025", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096714312635029, 42.364762283156118 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Family YMCA - A Child's Place", "ADDRESS": "820 Massachusetts Ave", "PHONE": "617 661-9622", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106725507207813, 42.36684669462214 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Ellis School", "ADDRESS": "80 Trowbridge St", "PHONE": "617 354-0014", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109512580668692, 42.375422453003367 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Nursery School", "ADDRESS": "6 Hillside Place", "PHONE": "617-547-7288", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124585750612297, 42.386130697565456 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "PUBLICPRIV": "Public", "OWNER": "", "SITE_NAME": "Community Art Center", "ADDRESS": "119 Windsor St", "PHONE": "617 868-7100", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096884672732713, 42.364727536597691 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Young Men's Christian Association Cambri", "ADDRESS": "820 Massachusetts Ave", "PHONE": "617 661-9622", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106636248368716, 42.366746395173919 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridge Montessori School", "ADDRESS": "161 Garden St", "PHONE": "617-492-3410", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132365490095253, 42.385806554442304 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Cambridgeport Children's Center", "ADDRESS": "65 R Chestnut St", "PHONE": "617-868-4275", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107840352384883, 42.356558534195813 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Evergreen Day School", "ADDRESS": "799 Concord Ave", "PHONE": "617 492-0090", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155248341096353, 42.391555647474192 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "East End House", "ADDRESS": "105 Spring St", "PHONE": "617 876-4444", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083088516672731, 42.369428773575784 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "East Cambridge Preschool at Kennedy School", "ADDRESS": "158 Spring St", "PHONE": "617-349-6200", "SHELTER": "YES", "SHEL_CAP": 121.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086408185413731, 42.369443364711231 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Drangonfly After School Program", "ADDRESS": "44 Linnaean St", "PHONE": "617 547-1116", "SHELTER": "YES", "SHEL_CAP": 626.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123603858775695, 42.382802121788785 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Children's Village", "ADDRESS": "55 Wheeler St", "PHONE": "617-492-1990", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144960623200561, 42.390769446778968 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Children's Day Care Center", "ADDRESS": "243 Harvard St", "PHONE": "617-492-3935", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100997821029523, 42.368200407147654 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Central School", "ADDRESS": "43 Essex St", "PHONE": "617-492-3935", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101513840941507, 42.367262431339228 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "CAPI", "ADDRESS": "89 Elm St", "PHONE": "617 497-0063", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097892373152362, 42.369226195991367 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Frisoli Youth Center", "ADDRESS": "61 Willow St", "PHONE": "617 349-4497", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092268036651419, 42.371097835387005 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Haggerty Preschool", "ADDRESS": "110 Cushing St", "PHONE": "617 349-6265", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152564822866779, 42.378025804393474 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Garden Cooperative Nursery School", "ADDRESS": "24-A Farewell St", "PHONE": "617 354-4229", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120660613646947, 42.374976386149051 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Peabody After School Program", "ADDRESS": "70 Rindge Ave", "PHONE": "617 349-6276", "SHELTER": "YES", "SHEL_CAP": 865.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128242434608794, 42.39231508982671 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Harvard Yard Child Care", "ADDRESS": "25 Francis Ave", "PHONE": "617 547-3432", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11285769947682, 42.379184575159734 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Jefferson Park Headstart\/Daycare", "ADDRESS": "280 Ringe Ave", "PHONE": "617 661-1679", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135417233734117, 42.393490166400014 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Kesher, Inc.", "ADDRESS": "1991 Massachusetts Ave", "PHONE": "617-576-0830", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120982293527774, 42.390636983196615 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "King After School Program", "ADDRESS": "100 Putnam Ave", "PHONE": "617 349-6271", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112916136754279, 42.366801535018695 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Little Folks Fellowship Nursery School", "ADDRESS": "1418 Cambridge St", "PHONE": "617 868-4285", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101871798283653, 42.373597439785982 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Malik Academy\/Al Bustan Preschool", "ADDRESS": "808 Memorial Drive", "PHONE": "617 868-2322", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11540003544367, 42.360779767965305 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Martin Luther King Preschool", "ADDRESS": "1 Magee St", "PHONE": "617-349-6270", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112902618751676, 42.366688543287047 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Margaret Fuller Neighborhood House After School Pr", "ADDRESS": "71 Cherry St", "PHONE": "617 547-4680", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097492115363764, 42.364685923321574 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Fletcher\/Maynard After School Program", "ADDRESS": "225 Windsor St", "PHONE": "617 349-6296", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095926178281331, 42.366646813520198 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "King Open Preschool", "ADDRESS": "850 Cambridge St", "PHONE": "617 349-6261", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091572037714073, 42.37205768691841 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Morse SACC Program", "ADDRESS": "40 Granite St", "PHONE": "617 349-6039", "SHELTER": "YES", "SHEL_CAP": 578.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112908316890838, 42.35616759135052 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Moppets", "ADDRESS": "7 Cambridge Park Dr", "PHONE": "617 441-0299", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.141424744504775, 42.395124002920639 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Newtowne Parent Coop", "ADDRESS": "11 Garden Street", "PHONE": "617-864-7353", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123073873045428, 42.376535432085333 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Moore Youth Center", "ADDRESS": "11 Gilmore St", "PHONE": "617 349-4492x627", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111262583756059, 42.364073393199931 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "North Cambridge Children's Center", "ADDRESS": "21 C Walden Square Rd", "PHONE": "617-876-0503", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129484468695139, 42.389128604422247 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Mulberry Child Care Center", "ADDRESS": "725 Concord Ave", "PHONE": "617 547-9540", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152356441014476, 42.390584605944071 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Our Place", "ADDRESS": "402 Massachusetts Ave", "PHONE": "617 547-3400\r\n", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100484974478761, 42.363144113581377 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Oxford Street Day Care Cooperative", "ADDRESS": "25 Francis Ave", "PHONE": "617 547-3175", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112869701660088, 42.379134481390359 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Parents Nursery School", "ADDRESS": "40 A Reservoir St\r\n", "PHONE": "617-864-3913", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135374419847579, 42.379936422575049 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Radcliffe Child Care Center", "ADDRESS": "10 DeWolfe St", "PHONE": "617 495-3504", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116242920147755, 42.370384372051603 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "PUBLICPRIV": "Public", "OWNER": "", "SITE_NAME": "Roosevelt Towers\/Cambridge Head Start\r\n", "ADDRESS": "14 Roosevelt Towers", "PHONE": "617 864-6584", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092273158052578, 42.373937150228514 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Peabody Terrace Children's Center", "ADDRESS": "900 Memorial Dr", "PHONE": "617-868-5573", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115581497377121, 42.365917715771708 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "PUBLICPRIV": "Public", "OWNER": "", "SITE_NAME": "Roosevelt Towers Afterschool Classroom", "ADDRESS": "14 Roosevelt Towers", "PHONE": "617 354-6759", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092394424396602, 42.373892655164255 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "The Frisoli Center\/Cambridge Head Start", "ADDRESS": "61 Willow St\r\n", "PHONE": "617 864-6043", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092306104711781, 42.371002037346024 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "The Family After School Program", "ADDRESS": "1680A Massachusetts Ave", "PHONE": "617 354-0022", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119940247447005, 42.382451404967775 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Technology Children's Center Westgate", "ADDRESS": "290 - 292 Vassar St", "PHONE": "617-253-4340", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103261636075871, 42.355007073562582 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Technology Children's Center at Stata", "ADDRESS": "32-100 Vassar St", "PHONE": "617 253-1720", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.090963084347891, 42.361632323817695 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Peabody Preschool", "ADDRESS": "70 Rindge Ave", "PHONE": "617 349-6275", "SHELTER": "YES", "SHEL_CAP": 865.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128317011657046, 42.392349274757791 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Sacramento Street Preschool", "ADDRESS": "20 Sacramento St", "PHONE": "617-349-6287", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117820578553022, 42.382354240645405 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Morse Preschool Program", "ADDRESS": "15 Upton St", "PHONE": "617-349-6200", "SHELTER": "YES", "SHEL_CAP": 578.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108255066401739, 42.362993965698827 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "The Henry Buckner School", "ADDRESS": "85 Bishop Allen Dr", "PHONE": "617 547-5554", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101728531678773, 42.365676904869176 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "Technology Children's Center", "ADDRESS": "60 Wadsworth St", "PHONE": "617-253-5907", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.083936759742187, 42.36168763157589 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "PUBLICPRIV": "Public", "OWNER": "City of Cambridge", "SITE_NAME": "Tobin After School Program", "ADDRESS": "197 Vassel Ln", "PHONE": "617 354-8714", "SHELTER": "YES", "SHEL_CAP": 111.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139678468050192, 42.384319000215633 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "PUBLICPRIV": "Private", "OWNER": "", "SITE_NAME": "TSC Tot Child Care Center", "ADDRESS": "55 Broadway DTS 94", "PHONE": "617 494-2298", "SHELTER": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085284317200163, 42.363496432251594 ] } }
+
+]
+}

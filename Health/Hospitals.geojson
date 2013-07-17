@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Cambridge Hospital", "ADDRESS": "1493 Cambridge St", "PHONE": "617-665-1000", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104322376059443, 42.374533158725256 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Spaulding Hospital Cambridge", "ADDRESS": "1575 Cambridge St", "PHONE": "617-876-4344\r\n", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107033578654949, 42.375384080330541 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Mount Auburn Hospital", "ADDRESS": "330 Mt. Auburn St", "PHONE": "617-492-3500", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133328755050499, 42.374445514088315 ] } }
+
+]
+}

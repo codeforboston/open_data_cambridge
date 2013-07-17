@@ -1,0 +1,80 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Id": 1, "DESCRIPTIO": "Cambridge Hospital Garage", "ML": "111-56", "ADDRESS": "1493 Cambridge Street", "ACCESSVIA": "Cambridge Street", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 210.0 }, "geometry": { "type": "Point", "coordinates": [ -71.104602048240722, 42.375112128687462 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Id": 2, "DESCRIPTIO": "1 Kendall Square Garage", "ML": "39-174", "ADDRESS": "389 Binney Street \/ 205 B", "ACCESSVIA": "Broadway", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 1566.0 }, "geometry": { "type": "Point", "coordinates": [ -71.089502276664362, 42.367983095620204 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Id": 3, "DESCRIPTIO": "Municipal Lot #11", "ML": "80-142", "ADDRESS": "984 Cambridge Street", "ACCESSVIA": "Cambridge or Windsor", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 15.0 }, "geometry": { "type": "Point", "coordinates": [ -71.09382672618446, 42.372501759261681 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Id": 4, "DESCRIPTIO": "Monitor Building Public Garage", "ML": "8-75", "ADDRESS": "2 Canal Park", "ACCESSVIA": "Monsignor O'Brien Highway", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 177.0 }, "geometry": { "type": "Point", "coordinates": [ -71.076538763875334, 42.370293788713148 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Id": 5, "DESCRIPTIO": "Cambridgeside Galleria", "ML": "8-1", "ADDRESS": "78-90 First Street", "ACCESSVIA": "Lower: Land Blvd. Camb", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 2538.0 }, "geometry": { "type": "Point", "coordinates": [ -71.076861466984056, 42.368258370293844 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Id": 6, "DESCRIPTIO": "First Street Municipal Garage", "ML": "18-75", "ADDRESS": "11 Spring \/ 51 First St.", "ACCESSVIA": "Spring St.", "STRUCTURE": "Garage", "OWNTYPE": "Municipal", "TOTALSP": 1110.0 }, "geometry": { "type": "Point", "coordinates": [ -71.078152140466827, 42.369033108073666 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Id": 7, "DESCRIPTIO": "Bent Realty Trust", "ML": "10-33", "ADDRESS": "29 Charles Street", "ACCESSVIA": "Hurley St.", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 75.0 }, "geometry": { "type": "Point", "coordinates": [ -71.078671219893025, 42.367693162625578 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Id": 8, "DESCRIPTIO": "Municipal Lot #12", "ML": "36-247", "ADDRESS": "9 Warren Street", "ACCESSVIA": "Warren\/Marion St", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 31.0 }, "geometry": { "type": "Point", "coordinates": [ -71.088544488606118, 42.372490532715084 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Id": 9, "DESCRIPTIO": "Cambridge Center Garage", "ML": "30-37", "ADDRESS": "115 Broadway", "ACCESSVIA": "Binney\/Broadway", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 1170.0 }, "geometry": { "type": "Point", "coordinates": [ -71.087589011720894, 42.365413841824918 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Id": 10, "DESCRIPTIO": "MIT Badger Building", "ML": "14-31", "ADDRESS": "One Broadway", "ACCESSVIA": "Broadway or 3rd", "STRUCTURE": "Garage\/Lot", "OWNTYPE": "Private", "TOTALSP": 430.0 }, "geometry": { "type": "Point", "coordinates": [ -71.083524372599712, 42.362755198902136 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Id": 11, "DESCRIPTIO": "CRP Garage 1", "ML": "14-1038", "ADDRESS": "354 Third Street", "ACCESSVIA": "Third St", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 1090.0 }, "geometry": { "type": "Point", "coordinates": [ -71.082880984016995, 42.363512963702654 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Id": 12, "DESCRIPTIO": "4 Cambridge Center", "ML": "44-95", "ADDRESS": "4 Cambridge Ctr", "ACCESSVIA": "Ames", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 875.0 }, "geometry": { "type": "Point", "coordinates": [ -71.086433535556424, 42.363125963940078 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Id": 13, "DESCRIPTIO": "Barrister Trust", "ML": "20-31", "ADDRESS": "201 Cambridge Street", "ACCESSVIA": "Cambridge St.", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 15.0 }, "geometry": { "type": "Point", "coordinates": [ -71.079103937669501, 42.371226169699845 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Id": 14, "DESCRIPTIO": "45 Webster Avenue", "ML": "40-139", "ADDRESS": "45 Webster Avenue", "ACCESSVIA": "Webster Ave", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 8.0 }, "geometry": { "type": "Point", "coordinates": [ -71.092504534552347, 42.367786064887468 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Id": 15, "DESCRIPTIO": "Municipal Lot #6", "ML": "91-195", "ADDRESS": "38 Bishop Allen Drive", "ACCESSVIA": "Bishop Allen Dr", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 79.0 }, "geometry": { "type": "Point", "coordinates": [ -71.100145433753951, 42.364223031689981 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Id": 16, "DESCRIPTIO": "Municipal Lot #5", "ML": "90-184", "ADDRESS": "84 Bishop Allen Drive", "ACCESSVIA": "Bishop Allen Dr. & Nor", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 86.0 }, "geometry": { "type": "Point", "coordinates": [ -71.101867167095591, 42.365185536067997 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Id": 17, "DESCRIPTIO": "Municipal Lot #4", "ML": "90-55", "ADDRESS": "96 Bishop Allen Drive", "ACCESSVIA": "Bishop Allen Dr.", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 18.0 }, "geometry": { "type": "Point", "coordinates": [ -71.102327622842679, 42.365622696833711 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Id": 18, "DESCRIPTIO": "Green Street Garage", "ML": "106-122", "ADDRESS": "260 Green St", "ACCESSVIA": "Green St", "STRUCTURE": "Garage", "OWNTYPE": "Municipal", "TOTALSP": 290.0 }, "geometry": { "type": "Point", "coordinates": [ -71.103673362409438, 42.364139411389239 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Id": 19, "DESCRIPTIO": "Shaw's Supermarket Garage", "ML": "69-62", "ADDRESS": "55 Franklin Street", "ACCESSVIA": "Franklin St", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 1002.0 }, "geometry": { "type": "Point", "coordinates": [ -71.099280525106181, 42.361406879345772 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Id": 20, "DESCRIPTIO": "YMCA Lot", "ML": "119-89", "ADDRESS": "438 Green Street", "ACCESSVIA": "Green Street", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 106.0 }, "geometry": { "type": "Point", "coordinates": [ -71.107111179672174, 42.366283059086442 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Id": 21, "DESCRIPTIO": "Municipal Lot #9", "ML": "119-51", "ADDRESS": "9 Pleasant Street", "ACCESSVIA": "Green St. & Pleasant S", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 18.0 }, "geometry": { "type": "Point", "coordinates": [ -71.106369364793053, 42.365880109506698 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Id": 22, "DESCRIPTIO": "Municipal Lot #8", "ML": "105-67", "ADDRESS": "375 Green Street", "ACCESSVIA": "Green & Pleasant", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 17.0 }, "geometry": { "type": "Point", "coordinates": [ -71.105706334307158, 42.365874819843505 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Id": 23, "DESCRIPTIO": "University Place Garage", "ML": "165-53", "ADDRESS": "124 Mt. Auburn Street", "ACCESSVIA": "University Road", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 485.0 }, "geometry": { "type": "Point", "coordinates": [ -71.124004100986227, 42.372648226334938 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Id": 24, "DESCRIPTIO": "Holyoke Center Parking Garage", "ML": "160-14", "ADDRESS": "17 Holyoke Street", "ACCESSVIA": "Holyoke St.", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 109.0 }, "geometry": { "type": "Point", "coordinates": [ -71.118643048553452, 42.372636659554189 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Id": 25, "DESCRIPTIO": "Charles Square Garage", "ML": "165-55", "ADDRESS": "14 University Road", "ACCESSVIA": "Bennet St.", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 686.0 }, "geometry": { "type": "Point", "coordinates": [ -71.123424098326751, 42.372387481066134 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Id": 26, "DESCRIPTIO": "Eliot Street Garage", "ML": "162-66", "ADDRESS": "65 John F. Kennedy Street", "ACCESSVIA": "Eliot St.", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 208.0 }, "geometry": { "type": "Point", "coordinates": [ -71.121153226332993, 42.371862935233047 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Id": 27, "DESCRIPTIO": "Municipal Lot #2", "ML": "165-34", "ADDRESS": "110 Mt. Auburn Street", "ACCESSVIA": "Mt. Auburn or Bennett", "STRUCTURE": "Lotunderbldg", "OWNTYPE": "Municipal", "TOTALSP": 79.0 }, "geometry": { "type": "Point", "coordinates": [ -71.122092789537049, 42.372694821498825 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Id": 28, "DESCRIPTIO": "Church Street Lot", "ML": "169-12", "ADDRESS": "41 Church Street", "ACCESSVIA": "Church St.", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 135.0 }, "geometry": { "type": "Point", "coordinates": [ -71.120650089348572, 42.374563312569883 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Id": 29, "DESCRIPTIO": "The Inn At Harvard", "ML": "134-1", "ADDRESS": "1201 Massachusetts Avenue", "ACCESSVIA": "Mass. Ave", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 58.0 }, "geometry": { "type": "Point", "coordinates": [ -71.114670214839649, 42.371886382899802 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Id": 30, "DESCRIPTIO": "Alewife MBTA Station", "ML": "269.5-A5", "ADDRESS": "5-7 CambridgePark Dr.", "ACCESSVIA": "Alewife Station Access", "STRUCTURE": "Garage", "OWNTYPE": "MBTA", "TOTALSP": 2750.0 }, "geometry": { "type": "Point", "coordinates": [ -71.141970277591383, 42.395697109124391 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Id": 31, "DESCRIPTIO": "MIT", "ML": "53-54", "ADDRESS": "139 Massachusetts Ave", "ACCESSVIA": "Mass Ave", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 21.0 }, "geometry": { "type": "Point", "coordinates": [ -71.09479223159984, 42.360465372934598 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Id": 32, "DESCRIPTIO": "Municipal Lot #14", "ML": "83-13", "ADDRESS": "15 Springfield St", "ACCESSVIA": "Springfield St", "STRUCTURE": "Lot", "OWNTYPE": "Municipal", "TOTALSP": 30.0 }, "geometry": { "type": "Point", "coordinates": [ -71.100114057639985, 42.374219845481207 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Id": 33, "DESCRIPTIO": "Hyatt", "ML": "63-134", "ADDRESS": "575 Memorial Drive", "ACCESSVIA": "Amesbury St", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 458.0 }, "geometry": { "type": "Point", "coordinates": [ -71.105617540829527, 42.354514449444025 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Id": 34, "DESCRIPTIO": "Royal Sonesta", "ML": "9-31", "ADDRESS": "5 Cambridge Parkway", "ACCESSVIA": "Land Blvd", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 185.0 }, "geometry": { "type": "Point", "coordinates": [ -71.075175273565321, 42.36665230367975 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Id": 35, "DESCRIPTIO": "Museum of Science", "ML": "9-90", "ADDRESS": "14 Msg OBrien Hwy", "ACCESSVIA": "Msg O'Brien", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 994.0 }, "geometry": { "type": "Point", "coordinates": [ -71.072448293887632, 42.368308604610824 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Id": 36, "DESCRIPTIO": "7 Cambridge Center", "ML": "43-76", "ADDRESS": "7 Cambridge Ctr", "ACCESSVIA": "Ames", "STRUCTURE": "Garage", "OWNTYPE": "Private", "TOTALSP": 1500.0 }, "geometry": { "type": "Point", "coordinates": [ -71.088623591474942, 42.363561523313571 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Id": 37, "DESCRIPTIO": "198 Third Street", "ML": "17-88", "ADDRESS": "198 Third Street", "ACCESSVIA": "Charles St", "STRUCTURE": "Lot", "OWNTYPE": "Private", "TOTALSP": 8.0 }, "geometry": { "type": "Point", "coordinates": [ -71.08080398686424, 42.367753515792913 ] } }
+
+]
+}

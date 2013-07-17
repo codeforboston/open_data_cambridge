@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Area IV Youth Center", "ADDRESS": "243 Harvard St", "PHONE": "617-349-6262", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100969947064314, 42.368219491562137 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Frisoli Youth Center", "ADDRESS": "61 Willow St", "PHONE": "617-349-6312", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092205100528929, 42.371061555099494 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Gately Youth Center", "ADDRESS": "70R Rindge Ave", "PHONE": "617-349-4499", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128381667100498, 42.391974178567644 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Moore Youth Center", "ADDRESS": "11 Gilmore St", "PHONE": "617-349-4492", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111250170804865, 42.364100270665972 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "West Cambridge Youth Center", "ADDRESS": "680 Huron Ave", "PHONE": "617-349-6314", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.154092157634224, 42.38032242346226 ] } }
+
+]
+}

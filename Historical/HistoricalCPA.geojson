@@ -1,0 +1,270 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 8200, "PROJECT": "253-255 Windsor St", "BUILDINGID": "527-1", "PRINTEDMAP": 1, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.095438497053067, 42.367538928444681 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 32191, "PROJECT": "259 Windsor St - 24 Market St", "BUILDINGID": "527-19", "PRINTEDMAP": 2, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.095373964798384, 42.36765409000612 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 8909, "PROJECT": "10-12 Boardman St", "BUILDINGID": "555-10", "PRINTEDMAP": 3, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.096896699002087, 42.36707906374356 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 32316, "PROJECT": "196-198 Auburn St", "BUILDINGID": "633-6", "PRINTEDMAP": 4, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.106249659874166, 42.364126369916235 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 35000, "PROJECT": "62-64 Clifton St", "BUILDINGID": "29-20", "PRINTEDMAP": 5, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.136639246457563, 42.395454907264643 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 28250, "PROJECT": "17 Milton St", "BUILDINGID": "63-3", "PRINTEDMAP": 6, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.123942886875469, 42.393117449026228 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 24481, "PROJECT": "New School of Music, 25 Lowell St", "BUILDINGID": "297-49", "PRINTEDMAP": 15, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.133485824042836, 42.375403559853901 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 75000, "PROJECT": "First Baptist Church, 5 Magazine St", "BUILDINGID": "604-5", "PRINTEDMAP": 16, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105000412309735, 42.364920447399186 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "First Baptist Church, 5 Magazine St", "BUILDINGID": "604-5", "PRINTEDMAP": 32, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105090339808072, 42.364825582928084 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 15000, "PROJECT": "11 Foch St", "BUILDINGID": "4-23", "PRINTEDMAP": 8, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.134215242365229, 42.401291158573351 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 18000, "PROJECT": "151 Clark St", "BUILDINGID": "576-6", "PRINTEDMAP": 9, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.094499751722779, 42.366560513893312 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Agassiz Neighborhood House, 20 Sacramento Street", "BUILDINGID": "214-18", "PRINTEDMAP": 17, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.11778322915751, 42.382342534890959 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 50000, "PROJECT": "146-152 Prospect St", "BUILDINGID": "511-3", "PRINTEDMAP": 10, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.101104817437047, 42.368884437932351 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "FISCALYEAR": "FY2003", "DOLLARAMNT": 85000, "PROJECT": "901 Massachusetts Ave", "BUILDINGID": "490-32", "PRINTEDMAP": 7, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.108317898923801, 42.368382335794735 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 25000, "PROJECT": "22-24 Flagg St", "BUILDINGID": "560-7", "PRINTEDMAP": 18, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.114430257289911, 42.36760981196705 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Margaret Fuller House, 71 Cherry St", "BUILDINGID": "618-7", "PRINTEDMAP": 19, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.097450286284456, 42.364601406721242 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "Margaret Fuller House, 71 Cherry St", "BUILDINGID": "618-7", "PRINTEDMAP": 51, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.097419260547397, 42.364715712599192 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Church of the New Jerusalem, 50 Quincy St", "BUILDINGID": "333-2", "PRINTEDMAP": 20, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.114228405033145, 42.373597091227651 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Cambridge Historical Society, 159 Brattle St", "BUILDINGID": "264-46", "PRINTEDMAP": 21, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.134262610373668, 42.377596512311769 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 4220, "PROJECT": "323 Allston St", "BUILDINGID": "683-29", "PRINTEDMAP": 33, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.112199652999465, 42.36101575438596 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 30000, "PROJECT": "135 Western Ave", "BUILDINGID": "572-48", "PRINTEDMAP": 34, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.108567133380447, 42.365179399898949 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "Mass Ave Baptist Church, 146 Hampshire St", "BUILDINGID": "441-13", "PRINTEDMAP": 52, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.097775071619566, 42.37094195961653 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "1st United Presbyterian Church, 1418 Cambridge St", "BUILDINGID": "364-9", "PRINTEDMAP": 22, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.101930897982726, 42.373485112366126 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "407 Cambridge St", "BUILDINGID": "416-16", "PRINTEDMAP": 23, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.082925152408237, 42.371553388924781 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "East End House, 105 Spring St", "BUILDINGID": "486-28", "PRINTEDMAP": 24, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.083040781687643, 42.369439678060289 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 32200, "PROJECT": "45 Garfield St", "BUILDINGID": "173-34", "PRINTEDMAP": 35, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.11764716941147, 42.383842290689451 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 900000, "PROJECT": "Cambridge Main Library, 449 Broadway", "BUILDINGID": "328-8", "PRINTEDMAP": 11, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.110820880492724, 42.374118046023007 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 35000, "PROJECT": "Police Headquarters, 5 Western Ave", "BUILDINGID": "604-4", "PRINTEDMAP": 12, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105611767931279, 42.365397711892825 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 350000, "PROJECT": "Cambridge Common", "BUILDINGID": "", "PRINTEDMAP": 13, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.120737695905419, 42.37729313764784 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 227000, "PROJECT": "Cambridge Common", "BUILDINGID": "", "PRINTEDMAP": 25, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.120233740438934, 42.376175322757241 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 280000, "PROJECT": "Cambridge Common", "BUILDINGID": "", "PRINTEDMAP": 36, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.120811186829258, 42.376700286013225 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "FISCALYEAR": "FY2004", "DOLLARAMNT": 125000, "PROJECT": "Cambridge Cemetery Fence, 76 Coolidge Ave", "BUILDINGID": "", "PRINTEDMAP": 14, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.137888120304424, 42.369577294413666 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 369000, "PROJECT": "City Hall, 795 Massachusetts Ave, Floor", "BUILDINGID": "517-38", "PRINTEDMAP": 26, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105756892590122, 42.367299798715308 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 100000, "PROJECT": "City Hall, 795 Massachusetts Ave, Floor", "BUILDINGID": "517-38", "PRINTEDMAP": 37, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105749448154398, 42.367136110356597 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 100000, "PROJECT": "Cambridge Cemetery Chapel, 76 Coolidge Ave", "BUILDINGID": "387-35", "PRINTEDMAP": 27, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.140234335433064, 42.368993173498318 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 100000, "PROJECT": "Collins Branch Library, 64 Aberdeen Ave", "BUILDINGID": "274-25", "PRINTEDMAP": 38, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.14693503100591, 42.376884398839017 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 40000, "PROJECT": "Fresh Pond Golf Course, 691 Huron Ave", "BUILDINGID": "236-1", "PRINTEDMAP": 39, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.152897644576953, 42.381118833414995 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 200000, "PROJECT": "Brattle St - Craigie St Wall", "BUILDINGID": "", "PRINTEDMAP": 40, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.129654493157176, 42.377928702498693 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Massasoit Lodge, 55 Bishop Allen Drive", "BUILDINGID": "602-10", "PRINTEDMAP": 28, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.100333782791139, 42.364907236759393 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 42211, "PROJECT": "Faith Luthern Church, 311 Broadway", "BUILDINGID": "462-30", "PRINTEDMAP": 29, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.100260467198893, 42.369359278144316 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 50000, "PROJECT": "Old Cambridge Baptist Church, 1151 Mass. Ave", "BUILDINGID": "408-5", "PRINTEDMAP": 30, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.114139821718808, 42.371792362350462 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "St. James's Episcopal Church, 1991 Mass. Ave", "BUILDINGID": "82-15", "PRINTEDMAP": 41, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.120945650125492, 42.3906115725324 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "101 1\/2 Inman St", "BUILDINGID": "368-2", "PRINTEDMAP": 53, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.101812184292285, 42.372134910446334 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 1595, "PROJECT": "131-133 Fayerweather St", "BUILDINGID": "166-18", "PRINTEDMAP": 54, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.136572012115536, 42.383985704469751 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 30000, "PROJECT": "135 Western Ave", "BUILDINGID": "572-48", "PRINTEDMAP": 55, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.108547099855528, 42.365091935364113 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 59150, "PROJECT": "139 Spring St", "BUILDINGID": "480-26", "PRINTEDMAP": 56, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.084799171853774, 42.369828791522927 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 21075, "PROJECT": "14 Upton St", "BUILDINGID": "656-15", "PRINTEDMAP": 57, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.108545858324518, 42.36267068004652 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "201-203 Columbia St", "BUILDINGID": "510-15", "PRINTEDMAP": 42, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.097359801795776, 42.368410823405199 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "209 Columbia St", "BUILDINGID": "510-16", "PRINTEDMAP": 43, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.097226133180342, 42.368510706389664 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "2103 Massachusetts Ave", "BUILDINGID": "74-25", "PRINTEDMAP": 58, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.123394019071071, 42.391784565342341 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 2500, "PROJECT": "25 Tremont St", "BUILDINGID": "462-18", "PRINTEDMAP": 59, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.099293030536003, 42.37016590892064 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "25-27 Howard St", "BUILDINGID": "630-25", "PRINTEDMAP": 44, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.110913813405702, 42.364432127348934 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 32200, "PROJECT": "296 Washington St", "BUILDINGID": "618-3", "PRINTEDMAP": 60, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.097814274786728, 42.365085298773593 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 17100, "PROJECT": "45 Garfield St", "BUILDINGID": "173-34", "PRINTEDMAP": 61, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.11764472554556, 42.38393273899775 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "FISCALYEAR": "FY2005", "DOLLARAMNT": 15000, "PROJECT": "6 Cottage St", "BUILDINGID": "660-22", "PRINTEDMAP": 31, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.105668084602684, 42.362270009867743 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "Agassiz Neighborhood House, 20 Sacramento St", "BUILDINGID": "214-18", "PRINTEDMAP": 62, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.117780109321757, 42.382420666127821 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 195000, "PROJECT": "Archival Restoration--City Hall, DPW, Main Library", "BUILDINGID": "517-38", "PRINTEDMAP": 63, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.10580315201328, 42.367175928346896 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "Cambridge Cemetery, 76 Coolidge Ave, gravestones", "BUILDINGID": "", "PRINTEDMAP": 64, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.138363683243767, 42.368949562701431 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 40000, "PROJECT": "Cambridge Ellis School, 80 Trowbridge St", "BUILDINGID": "282-63", "PRINTEDMAP": 65, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.109537557201946, 42.375375229967112 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "Cambridge Historical Society, 159 Brattle St", "BUILDINGID": "264-46", "PRINTEDMAP": 66, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.134156007678001, 42.377609016447252 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 57700, "PROJECT": "Cambridge Multicultural Arts Center, 41 Second St", "BUILDINGID": "479-3", "PRINTEDMAP": 67, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.079632098001341, 42.369923190224384 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 25000, "PROJECT": "Castle School, 298 Harvard St", "BUILDINGID": "501-3", "PRINTEDMAP": 45, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105800838672749, 42.369503536358813 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 75000, "PROJECT": "City Hall, 795 Mass. Ave, City Council chamber", "BUILDINGID": "517-38", "PRINTEDMAP": 68, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.10566807014969, 42.367099965430668 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 125000, "PROJECT": "City Hall, 795 Massachusetts Ave, Stairs", "BUILDINGID": "517-38", "PRINTEDMAP": 69, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.10558726804922, 42.367032490188912 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 54465, "PROJECT": "Congregation Eitz Chayim, 136 Magazine St", "BUILDINGID": "717-4", "PRINTEDMAP": 46, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.11115185581491, 42.358544463403511 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "East End House, 105 Spring St", "BUILDINGID": "486-28", "PRINTEDMAP": 47, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.083021870518294, 42.369508468778335 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 80000, "PROJECT": "Electrical Dept Garage, 35 Third St", "BUILDINGID": "422-4", "PRINTEDMAP": 70, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.079979479697499, 42.371582569693352 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "Engine 5, 220 Hampshire St", "BUILDINGID": "368-14", "PRINTEDMAP": 71, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.100896943857592, 42.373432877296906 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "1st Church of Christ, Scientist, 13 Waterhouse St", "BUILDINGID": "252-40", "PRINTEDMAP": 72, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.120797544725889, 42.378136799374246 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 100000, "PROJECT": "First Church, Congregational, 11 Garden St", "BUILDINGID": "290-8", "PRINTEDMAP": 48, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.123051004402186, 42.376609392165555 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "1st United Presbyterian Church, 1418 Cambridge St", "BUILDINGID": "364-9", "PRINTEDMAP": 49, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.101847445009952, 42.373595931150803 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 75000, "PROJECT": "Fort Washington, Waverly St", "BUILDINGID": "", "PRINTEDMAP": 73, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.104234930927234, 42.356524766380019 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "O'Connell Library, 46 Sixth St", "BUILDINGID": "458-20", "PRINTEDMAP": 74, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.084844405426949, 42.37041884963562 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "FISCALYEAR": "FY2006", "DOLLARAMNT": 50000, "PROJECT": "Old Cambridge Baptist Church, 1151 Mass. Ave", "BUILDINGID": "408-5", "PRINTEDMAP": 50, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.114275697750983, 42.3716517151774 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "Old Cambridge Baptist Church, 1151 Mass. Ave", "BUILDINGID": "408-5", "PRINTEDMAP": 75, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.114325560662934, 42.37158897617735 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 100000, "PROJECT": "St. Paul's Catholic Church, 29 Mount Auburn St", "BUILDINGID": "439-5", "PRINTEDMAP": 76, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.1152988984378, 42.370949955684196 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 47000, "PROJECT": "Old Cambridge Baptist Ch. #4, 400 Harvard St", "BUILDINGID": "408-5", "PRINTEDMAP": 111, "GrantID": "IPG 09-1", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.114217546779798, 42.371707941768591 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 50000, "PROJECT": "Mercy Corps, 9 Waterhouse St", "BUILDINGID": "269-17", "PRINTEDMAP": 110, "GrantID": "IPG 09-4", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.121567847544583, 42.377926069373807 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 25000, "PROJECT": "First Baptist Church #4, 5 Magazine St", "BUILDINGID": "604-5", "PRINTEDMAP": 108, "GrantID": "IPG 09-5", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105185352545533, 42.3647431390836 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 4150, "PROJECT": "Cambridge-Ellis School #2 , 80 Trowbridge St", "BUILDINGID": "262-63", "PRINTEDMAP": 105, "GrantID": "IPG 09-6", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.109531696002605, 42.375338500380764 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 20000, "PROJECT": "Castle School #3, 298 Harvard St", "BUILDINGID": "501-3", "PRINTEDMAP": 106, "GrantID": "IPG 09-7", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105755489552806, 42.369486657501746 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 75000, "PROJECT": "St. Marys Church, 222 Harvard St", "BUILDINGID": "551-3", "PRINTEDMAP": 112, "GrantID": "IPG 09-3", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.1001838860074, 42.367517910215753 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 25000, "PROJECT": "Holy Trinity Parish House, 145 Brattle St", "BUILDINGID": "268-7", "PRINTEDMAP": 109, "GrantID": "IPG 09-9", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.131123019288395, 42.378034969179488 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 30000, "PROJECT": "28 Sixth St", "BUILDINGID": "432-8", "PRINTEDMAP": 99, "GrantID": "PG 09-1", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.084706732364893, 42.371178471249948 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 93387, "PROJECT": "341 Columbia St", "BUILDINGID": "434-12", "PRINTEDMAP": 100, "GrantID": "PG 09-2", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.095572649171984, 42.37134526231997 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 75000, "PROJECT": "95-97 Pine St", "BUILDINGID": "579-20", "PRINTEDMAP": 102, "GrantID": "PG 09-3", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.097873051580976, 42.365731746453413 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 3000, "PROJECT": "4 Tremont St", "BUILDINGID": "441-43", "PRINTEDMAP": 101, "GrantID": "PG 09-4", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.099572861485484, 42.369147145467785 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 18500, "PROJECT": "124 Thorndike St", "BUILDINGID": "480-17", "PRINTEDMAP": 98, "GrantID": "PG 09-5", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.083828061667617, 42.369973036230505 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 25000, "PROJECT": "Cambridge Cemetery, 76 Coolidge Ave", "BUILDINGID": "387-34", "PRINTEDMAP": 103, "GrantID": "Receiving tomb", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.140527053958536, 42.369391210808466 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 30000, "PROJECT": "Cambridge Cemetery, 76 Coolidge Ave", "BUILDINGID": "", "PRINTEDMAP": 104, "GrantID": "Stairway repairs", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.139673506100507, 42.367318938932819 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 136765, "PROJECT": "Collins Branch Library, 64 Aberdeen Ave", "BUILDINGID": "274-25", "PRINTEDMAP": 107, "GrantID": "Collins Branch", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.146836021069291, 42.376909595024735 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 150000, "PROJECT": "1-12 Shady Hill Square", "BUILDINGID": "", "PRINTEDMAP": 97, "GrantID": "Pres. Restriction", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.108869080948111, 42.379394490406149 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "St. Peter's Church, 838 Mass. Ave", "BUILDINGID": "539-20", "PRINTEDMAP": 77, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.107042417556627, 42.367077621759904 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 75000, "PROJECT": "First Baptist Church #3, 5 Magazine St", "BUILDINGID": "604-5", "PRINTEDMAP": 92, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105307704550967, 42.364809267722855 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "St. James Church #2, 1991 Mass. Ave", "BUILDINGID": "82-15", "PRINTEDMAP": 78, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.120917602591561, 42.390726885069462 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 23000, "PROJECT": "86-90 1\/2 Berkshire St", "BUILDINGID": "469-2", "PRINTEDMAP": 79, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.09056653052545, 42.370512516651011 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "FISCALYEAR": "FY2007", "DOLLARAMNT": 50000, "PROJECT": "58 Seventh St", "BUILDINGID": "429-3", "PRINTEDMAP": 80, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.085527772050881, 42.371184991277822 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 50000, "PROJECT": "Cambridge YWCA, 7 Temple St", "BUILDINGID": "570-4", "PRINTEDMAP": 86, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.104345156524431, 42.366432160543212 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 25000, "PROJECT": "Grace Methodist Church, 56 Magazine St", "BUILDINGID": "676-1", "PRINTEDMAP": 95, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.107323241067363, 42.362178120733084 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 25000, "PROJECT": "Castle School #2, 298 Harvard St", "BUILDINGID": "501-3", "PRINTEDMAP": 87, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.105709471041735, 42.369472536702098 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 37675, "PROJECT": "101 1\/2 Inman St #2", "BUILDINGID": "368-2", "PRINTEDMAP": 81, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.101712962584898, 42.372098550084637 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 53340, "PROJECT": "44 Webster Ave", "BUILDINGID": "540-12", "PRINTEDMAP": 82, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.092858720352993, 42.367759889485285 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 115000, "PROJECT": "Engine 5, 220 Hampshire St", "BUILDINGID": "368-14", "PRINTEDMAP": 90, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.100815731784266, 42.373517645547814 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 50000, "PROJECT": "Engine 6, 176 River St", "BUILDINGID": "641-9", "PRINTEDMAP": 91, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.110009943518818, 42.363250332871921 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 171610, "PROJECT": "Fresh Pond Golf Course, 691 Huron Ave clubhouse", "BUILDINGID": "236-1", "PRINTEDMAP": 94, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.153084598797918, 42.381163158257365 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 19390, "PROJECT": "Cambridge Common", "BUILDINGID": "", "PRINTEDMAP": 84, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.121612023059896, 42.377031645369172 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 50000, "PROJECT": "Cambridge Cemetery, 76 Coolidge Ave, stair repair", "BUILDINGID": "", "PRINTEDMAP": 83, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.138883310228564, 42.368298797043821 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 40000, "PROJECT": "Fort Washington, Waverly St, irrigation", "BUILDINGID": "", "PRINTEDMAP": 93, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.104222441598921, 42.356500776109677 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 40000, "PROJECT": "Old Burying Ground", "BUILDINGID": "", "PRINTEDMAP": 96, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.119851170773188, 42.374989558548407 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 140000, "PROJECT": "City Engineer", "BUILDINGID": "381-20", "PRINTEDMAP": 89, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.097545213541295, 42.37135087380836 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 60000, "PROJECT": "City Clerk", "BUILDINGID": "517-38", "PRINTEDMAP": 88, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105455532894183, 42.367092480149893 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "FISCALYEAR": "FY2008", "DOLLARAMNT": 75000, "PROJECT": "Cambridge Public Library", "BUILDINGID": "328-8", "PRINTEDMAP": 85, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.110526729222016, 42.373891322999143 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "FISCALYEAR": "FY2009", "DOLLARAMNT": 10000, "PROJECT": "Cambridge Cable, 354 Broadway", "BUILDINGID": "366-5", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.111945585186646, 42.373316772136263 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 80000, "PROJECT": "City Hall, 795 Mass Ave, waterproofing", "BUILDINGID": "517-38", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105849608853958, 42.367239507493004 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 238000, "PROJECT": "Engine 9, 167 Lexington Ave, masonry, roof, doors", "BUILDINGID": "242-15", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.140802234899695, 42.380042636747895 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 20000, "PROJECT": "Engine 5, 220 Hampshire St, flashing, birds, doors", "BUILDINGID": "368-14", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.100749804517363, 42.37344895550153 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 30000, "PROJECT": "Cambridge Cemetery, 76 Coolidge Ave", "BUILDINGID": "387-36", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.140418457207943, 42.367887366527668 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 40000, "PROJECT": "Old Burying Ground, ongoing work", "BUILDINGID": "", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.120009542366702, 42.375097954676065 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 50000, "PROJECT": "Cambridge Public Library, digitizing collections", "BUILDINGID": "328-8", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.11036168916938, 42.373850067773809 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 47000, "PROJECT": "City Clerk, records rooms", "BUILDINGID": "517-38", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Municipal" }, "geometry": { "type": "Point", "coordinates": [ -71.105504512875171, 42.36698357616995 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 5000, "PROJECT": "Temple Beth Shalom, 8 Tremont st, windows", "BUILDINGID": "441-40", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.099324362068486, 42.369290183010733 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 57575, "PROJECT": "Christ the King Presbyterian 99 Prospect", "BUILDINGID": "523-14", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.102677730711505, 42.367780463071057 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 15000, "PROJECT": "New School of Music, 25 Lowell St, windows", "BUILDINGID": "297-49", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.133446579658155, 42.375387979699006 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 50000, "PROJECT": "Cambridge YMCA, 820 Mass Ave, masonry", "BUILDINGID": "575-1", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.106723919788337, 42.366950428225337 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 44620, "PROJECT": "Cambridge Community Center, 5 Callender, roofing", "BUILDINGID": "553-43", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.111217937658964, 42.365493127467872 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 50000, "PROJECT": "Cambridge Family & Children's Services", "BUILDINGID": "422-10", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.080337530147119, 42.371642083599603 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 43560, "PROJECT": "Women's Educational Center, 46 Pleasant St", "BUILDINGID": "642-2", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.108377436858675, 42.363730198177223 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 26000, "PROJECT": "Cambridge Center for Adult Education 42 brattle", "BUILDINGID": "355-6", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.121612420952673, 42.373699514305699 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 35000, "PROJECT": "Cambridge Center for Adult Education 56 brattle", "BUILDINGID": "332-19", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Institutional" }, "geometry": { "type": "Point", "coordinates": [ -71.122276331470715, 42.374469080194451 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 30000, "PROJECT": "342 Norfolk St, siding and windows", "BUILDINGID": "385-33", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.096437720203511, 42.372627197302904 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 40000, "PROJECT": "95-97 Pine St, strip and reside", "BUILDINGID": "579-20", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.097805695344675, 42.365765357462905 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "FISCALYEAR": "FY2010", "DOLLARAMNT": 2200, "PROJECT": "14 Dinsmore Ct, rebuild porch", "BUILDINGID": "314-33", "PRINTEDMAP": 0, "GrantID": "", "GrantType": "Affordable" }, "geometry": { "type": "Point", "coordinates": [ -71.12905342442788, 42.37495608705963 ] } }
+
+]
+}

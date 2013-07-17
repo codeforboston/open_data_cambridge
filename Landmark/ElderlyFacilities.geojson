@@ -1,0 +1,50 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "John F Kennedy Apts", "ADDRESS": "55 Essex St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101261025284785, 42.367720749370761 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Harry S Truman Apts", "ADDRESS": "25 Eighth St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086593379190731, 42.370731442839414 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Daniel F Burns Apts", "ADDRESS": "50 Churchill Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131834029514465, 42.400695322790817 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Lyndon B Johnson Apts", "ADDRESS": "150 Erie St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107000020888961, 42.359196668944641 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Frank J. Manning Apts", "ADDRESS": "237 Franklin St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104218056170637, 42.364142337414386 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Miller's River Apts", "ADDRESS": "15 Lambert St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087029709545149, 42.372779077414997 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Robert C. Weaver Apts\r\n", "ADDRESS": "81 Clifton St\r\n", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136043466511978, 42.395841939554451 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Putnam School Apts", "ADDRESS": "86 Otis St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.081974000473195, 42.370327832923145 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "45 Linnaean Street", "ADDRESS": "45 Linnaean St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124552520459673, 42.383354940195936 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "St. Paul's Residence", "ADDRESS": "15 Mt Auburn St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11434553877298, 42.370604412526667 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Leonard J.Russell Apts", "ADDRESS": "2050 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122880083801917, 42.390923085558242 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "PUBLICPRIV": "Public", "OWNER": "Cambridge Housing Authority", "SITE_NAME": "Congregate Housing", "ADDRESS": "116 Norfolk St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100030208030276, 42.366727729357173 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "PUBLICPRIV": "Private", "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Putnam Square Apts", "ADDRESS": "2 Mt Auburn St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113575151804966, 42.369858292387434 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Supportive Housing", "ADDRESS": "273 Harvard St.", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102955801099597, 42.369216811073109 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Cambridge Rehabilitation and Nursing Center", "ADDRESS": "8 Dana St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110073547803879, 42.369620336339224 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Neville Center at Fresh Pond", "ADDRESS": "650 Concord Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.148760337901976, 42.388474480243147 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Sancta Maria Nursing Facility", "ADDRESS": "799 Concord Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.155319403506525, 42.391666637911193 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Cadbury Commons", "ADDRESS": "66 Sherman St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131482535253454, 42.387533943547155 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "The Cambridge Homes", "ADDRESS": "360 Mt Auburn St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.136526585773211, 42.374785529324846 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Youville House", "ADDRESS": "1573 Cambridge St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106618988169203, 42.37467427403481 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "Cambridge Senior Center", "ADDRESS": "806 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106372946536183, 42.366630544940733 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "PUBLICPRIV": "", "OWNER": "", "SITE_NAME": "North Cambridge Senior Center", "ADDRESS": "2050 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122880083801917, 42.390923085558242 ] } }
+
+]
+}

@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OWNER": "Archdiocesan Central High School Inc.", "SITE_NAME": "North Cambridge Catholic High School", "ADDRESS": "40 Norris Street", "PHONE": "617-876-6068", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129732641478057, 42.395163507400184 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OWNER": "", "SITE_NAME": "Father Matignon High School", "ADDRESS": "1 Matignon Rd", "PHONE": "617-876-1212", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131412605877117, 42.401543258331309 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OWNER": "Buckingham Browne & Nichols School", "SITE_NAME": "Buckingham Elementary School", "ADDRESS": "10 Buckingham St", "PHONE": "617-800-2464", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129290886000021, 42.379396403508764 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OWNER": "Buckingham Browne & Nichols School", "SITE_NAME": "Buckingham Middle School", "ADDRESS": "80 Sparks St", "PHONE": "617-800-2331", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131219941591752, 42.380844802519078 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OWNER": "James F. Farr Academy Inc", "SITE_NAME": "Farr Academy", "ADDRESS": "71 Pearl St", "PHONE": "617-492-4922", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104598069527242, 42.363100674199117 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OWNER": "", "SITE_NAME": "Saint Peter's Elementary School\r\n", "ADDRESS": "96 Concord Ave", "PHONE": "617-441-8911", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129505317333923, 42.381186253315128 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OWNER": "Buckingham Browne & Nichols School", "SITE_NAME": "Buckingham Browne & Nichols School", "ADDRESS": "80 Gerry's Landing Rd", "PHONE": "617-800-2131", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135446070717379, 42.370890743504333 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OWNER": "Shady Hill School", "SITE_NAME": "Shady Hill School", "ADDRESS": "178 Coolidge Hill", "PHONE": "617-868-1260", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.138895502363894, 42.371013170383151 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OWNER": "Cambridge Friends School Inc", "SITE_NAME": "Cambridge Friends School", "ADDRESS": "5 Cadbury Rd", "PHONE": "617-354-3880", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130558622018597, 42.387786260777155 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OWNER": "", "SITE_NAME": "Cambridge Montessori School", "ADDRESS": "161 Garden St", "PHONE": "617-492-3410", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132412353741543, 42.385825199158873 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OWNER": "Episcopal Divinity School", "SITE_NAME": "Episcopal Divinity School", "ADDRESS": "99 Brattle St", "PHONE": "617-868-3450", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12422274386536, 42.376301746251848 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard College", "ADDRESS": "1 Harvard Yard", "PHONE": "617-495-1000", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117061740801105, 42.374438560894347 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard Graduate School of Design", "ADDRESS": "48 Quincy Street", "PHONE": "617-495-4731", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113856836696215, 42.375762509416731 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard Graduate School of Education", "ADDRESS": "13 Appian Way", "PHONE": "617-495-0740", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12190133058445, 42.375452890093428 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard Divinity School\r\n", "ADDRESS": "45 Francis Ave", "PHONE": "617-495-5761", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113056408856224, 42.379705354660622 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard Law School", "ADDRESS": "1563 Massachusetts Ave", "PHONE": "617-495-3100", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119713543824943, 42.3785798459188 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard Division of Continuing Education", "ADDRESS": "51 Brattle Street", "PHONE": "617-495-4024", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121593329352379, 42.374434430581495 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "OWNER": "The President and Fellows of Harvard College", "SITE_NAME": "Harvard John F. Kennedy School of Government", "ADDRESS": "79 JFK Street", "PHONE": "617-495-1100", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121529704715044, 42.371337315769559 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "OWNER": "Longy School Of Music Inc.", "SITE_NAME": "Longy School Of Music", "ADDRESS": "1 Follen St", "PHONE": "617-876-0956", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122351314631601, 42.37911707020956 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "OWNER": "Lesley University", "SITE_NAME": "Lesley University", "ADDRESS": "29 Everett St", "PHONE": "617-349-8544", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.117302699250899, 42.380145273177604 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "OWNER": "International School of Boston", "SITE_NAME": "International School of Boston", "ADDRESS": "45 Matignon Rd", "PHONE": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.1332084957522, 42.402514326292994 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "OWNER": "Massachusetts Institute of Technology", "SITE_NAME": "Massachusetts Institute of Technology", "ADDRESS": "77 Massachusetts Ave", "PHONE": "617-253-0942", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.092022529005902, 42.359699421711063 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "OWNER": "St. Paul Church", "SITE_NAME": "Boston Archdiocesan Choir School", "ADDRESS": "29 Mt Auburn St", "PHONE": "617-868-8658", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115261631994585, 42.370968380989765 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "OWNER": "Castle School Inc.", "SITE_NAME": "Castle School", "ADDRESS": "298 Harvard St", "PHONE": "617-354-5410", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105742974175357, 42.369477289030961 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "OWNER": "Fayerweather Street School", "SITE_NAME": "Fayerweather Street School", "ADDRESS": "765 Concord Ave", "PHONE": "617-876-4746", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.154250287428255, 42.391373356229856 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "OWNER": "St. Paul African Methodist Episcopal Church", "SITE_NAME": "Henry Buckner School", "ADDRESS": "85 Bishop Allen Dr", "PHONE": "617-547-5554", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101637470563517, 42.365746783085889 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "OWNER": "Cambridge College", "SITE_NAME": "Cambridge College", "ADDRESS": "1000 Massachusetts Ave", "PHONE": "800-877-4723", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110882325569719, 42.36874472372358 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "OWNER": "Hult International Business School", "SITE_NAME": "Hult International Business School", "ADDRESS": "1 Education St", "PHONE": "617-746-1990", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.07064725597094, 42.369985278478744 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "OWNER": "New School of Music", "SITE_NAME": "New School of Music", "ADDRESS": "25 Lowell St", "PHONE": "617-492-8105", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133459058667924, 42.37540492893158 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "OWNER": "Commonwealth of Massachusetts", "SITE_NAME": "Benjamin Banneker School", "ADDRESS": "21 Notre Dame Ave", "PHONE": "617-497-7771", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131742593117465, 42.392138376725974 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "OWNER": "Commonwealth of Massachusetts", "SITE_NAME": "Community Charter School of Cambridge", "ADDRESS": "245 Bent St", "PHONE": "617-354-0047", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085326231061046, 42.367674711520912 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "OWNER": "Commonwealth of Massachusetts", "SITE_NAME": "Prospect Hill Academy Upper School", "ADDRESS": "50 Essex St", "PHONE": "617-284-7800", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100902428055477, 42.367490861317847 ] } }
+
+]
+}

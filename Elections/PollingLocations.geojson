@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Address": "48 Sixth St", "W_P": "1-1", "LOCATION": "O'Connell Branch Library", "LOCATION_N": "Corner of Thorndike St.", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.084831273663212, 42.370446215595777 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Address": "25 Eighth St", "W_P": "1-2", "LOCATION": "Truman Apartments", "LOCATION_N": "Community Room, Thorndike Street Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086593379190731, 42.370731442839414 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Address": "15 Lambert St", "W_P": "1-3", "LOCATION": "Miller River Apartments", "LOCATION_N": "Cambridge Street Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.087583237146902, 42.372142379127837 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Address": "131 Washington St", "W_P": "2-1", "LOCATION": "Pisani Center", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.094537822817912, 42.364743051090834 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Address": "70 Massachusettes Ave", "W_P": "2-2", "LOCATION": "M.I.T.", "LOCATION_N": "Kresge Auditorium, behind Stratton Center", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09506184529674, 42.358149601948142 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Address": "70 Massachusetts Ave", "W_P": "2-3", "LOCATION": "M.I.T.", "LOCATION_N": "Kresge Auditorium, behind Stratton Center", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095062225655454, 42.358130641655492 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Address": "402 MASSACHUSETTS AVE", "W_P": "3-3", "LOCATION": "Salvation Army Headquarters", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100489867881279, 42.362972762669393 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Address": "Magee St & Callender St", "W_P": "4-1", "LOCATION": "Putnam Gardens", "LOCATION_N": "Community Room Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111916675743146, 42.365761783726867 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Address": "795 Massachusetts Ave", "W_P": "4-2", "LOCATION": "City Hall", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105654001264028, 42.367081294336323 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Address": "2 MOUNT AUBURN ST", "W_P": "4-3", "LOCATION": "2 Mount Auburn Street", "LOCATION_N": "Putnam Apartments Lobby", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113575151804966, 42.369858292387434 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Address": "150 Erie St", "W_P": "5-1", "LOCATION": "LBJ Apartments", "LOCATION_N": "Community Room, Parking Lot Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107000020888961, 42.359196668944641 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Address": "Magazine St", "W_P": "5-2", "LOCATION": "Woodrow Wilson Court", "LOCATION_N": "Community Room, Fairmont St. Entry", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.109736766364293, 42.36116295801672 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Address": "40 Granite St", "W_P": "5-3", "LOCATION": "Morse School", "LOCATION_N": "Main Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112699198958225, 42.355588571485406 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Address": "344 Broadway", "W_P": "6-1", "LOCATION": "City Hall Annex", "LOCATION_N": "Conference Room, Second Floor", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103457365807188, 42.369979144633064 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Address": "8 Dana St", "W_P": "6-2", "LOCATION": "Cambridge Rehab\/Nursing Center", "LOCATION_N": "Activity Room", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110073510799069, 42.369620336213792 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Address": "1575 Cambridge St", "W_P": "6-3", "LOCATION": "Spaulding Hospital Cambridge", "LOCATION_N": "Hovey Avenue Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106853934890808, 42.375302674272127 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Address": "28 Sacramento St", "W_P": "7-1", "LOCATION": "Baldwin School", "LOCATION_N": "Community Floor", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116696720322608, 42.382341254344603 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Address": "28 Sacramento St", "W_P": "7-2", "LOCATION": "Baldwin School", "LOCATION_N": "Community Floor", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116696720322608, 42.382341254344603 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Address": "48 Quincy St", "W_P": "7-3", "LOCATION": "Gund Hall", "LOCATION_N": "Cambridge Street Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.11408163749536, 42.375900824102615 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Address": "44 Linnaen St", "W_P": "8-1", "LOCATION": "Graham and Parks School", "LOCATION_N": "Playground Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123787577180451, 42.382568297117679 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Address": "5 Longfellow Park", "W_P": "8-2", "LOCATION": "Friends Center", "LOCATION_N": "Community Room", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127380469907223, 42.375879881616825 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Address": "58 Plympton St", "W_P": "8-3", "LOCATION": "Quincy House", "LOCATION_N": "Main Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116972344192931, 42.371148421165856 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Address": "167 Lexington Ave", "W_P": "9-1", "LOCATION": "Lexington Avenue Fire House", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.140761387315294, 42.380064943655675 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Address": "450 Concord Ave", "W_P": "9-2", "LOCATION": "National Guard Armory", "LOCATION_N": "Classroom", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139960571283197, 42.385719904011623 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Address": "110 Cushing St", "W_P": "9-3", "LOCATION": "Haggerty School", "LOCATION_N": "Gym; Lawn Street Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152592002085925, 42.378050281212893 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Address": "2050 Massachusetts Ave", "W_P": "10-1", "LOCATION": "Russell Apartments", "LOCATION_N": "Senior Citizen Apartments", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122880083801917, 42.390923085558242 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Address": "44 Linnaean St", "W_P": "10-2", "LOCATION": "Graham and Parks School", "LOCATION_N": "Playground Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123787577180451, 42.382568297117679 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Address": "66 Sherman St", "W_P": "10-3", "LOCATION": "Cadbury Commons", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131482535253454, 42.387533943547155 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Address": "1 Jackson Pl", "W_P": "11-1", "LOCATION": "Jefferson Park Community Center", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.135341825591425, 42.392687757001937 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Address": "70-R Rindge Ave", "W_P": "11-2", "LOCATION": "Peabody School", "LOCATION_N": "", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.128571440895158, 42.392677160731552 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Address": "50 Churchill Ave", "W_P": "11-3", "LOCATION": "Burns Apartments", "LOCATION_N": "Community Room", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.132096913474115, 42.400565409337005 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Address": "850 Cambridge St", "W_P": "3-1", "LOCATION": "King Open School", "LOCATION_N": "Main Entrance", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09142838776026, 42.372216333284136 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Address": "243 Harvard St.", "W_P": "3-2", "LOCATION": "Area IV", "LOCATION_N": "Lower Level, Rear Entrance", "EditDate": "2012" }, "geometry": { "type": "Point", "coordinates": [ -71.100901656952502, 42.368291353584262 ] } }
+
+]
+}

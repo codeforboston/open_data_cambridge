@@ -1,0 +1,62 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Cemetery Office", "ADDRESS": "76 Coolidge Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.140501623979148, 42.369364211985022 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Department of Public Works Adminstration Building", "ADDRESS": "147 Hampshire St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097557343416057, 42.371346361078658 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Cambridge Water Department", "ADDRESS": "250 Fresh Pond Park", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144059813161832, 42.382875019473168 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Walter Sullivan Water Purification Facility", "ADDRESS": "250 Fresh Pond Park", "TYPE": "Water Treatment Facility", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144050873646066, 42.3829507828423 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "Cambridge Senior Center", "ADDRESS": "806 Massachusetts Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106279323805808, 42.366672647961359 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "Emeregency Communications", "ADDRESS": "125 Sixth St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086203074369166, 42.367295355552123 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "City Hall", "ADDRESS": "795 Massachusetts Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105701375741006, 42.367115428440279 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SITE_NAME": "Lombardi Building", "ADDRESS": "831 Massachusetts Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106393708925864, 42.367337655262418 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SITE_NAME": "City Hall Annex", "ADDRESS": "344 Broadway", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103366329208953, 42.369967717245707 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SITE_NAME": "Coffon Building", "ADDRESS": "51 Inman St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103515482841502, 42.369592567288635 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SITE_NAME": "Public Health Dept.", "ADDRESS": "119 Windsor St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096783830913154, 42.364734811666153 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SITE_NAME": "Cambridge VFW Hall", "ADDRESS": "688 Huron Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.153873452884497, 42.380511343591493 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SITE_NAME": "Community Center", "ADDRESS": "5 Callender St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111177347405729, 42.365545440750886 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SITE_NAME": "Corporal Burns Shelter", "ADDRESS": "26 Surrey Street", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114574924277491, 42.368560460791713 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "SITE_NAME": "Multi Service Center\/ Community Learning", "ADDRESS": "19 Brookline St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10197116238858, 42.36357756265096 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "SITE_NAME": "North Cambridge Senior Center", "ADDRESS": "2050 Massachusetts Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122819020123629, 42.390951423644694 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "SITE_NAME": "North Cambridge VFW", "ADDRESS": "2107 Mass. Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123614272833379, 42.391816732937507 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "SITE_NAME": "Cambridge Golf Couse - Clubhouse", "ADDRESS": "691 Huron Ave", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152909498870557, 42.381107880063631 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "SITE_NAME": "School Administration Building", "ADDRESS": "159 Thorndike St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085508849125318, 42.37046976114307 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "SITE_NAME": "War Memorial Facility", "ADDRESS": "1640 Cambridge St", "TYPE": "Office", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12029826449745, 42.381195612231252 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "SITE_NAME": "Police Vehicle Maintenance Garage\r\n", "ADDRESS": "450 R Concord Ave", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.14042262520536, 42.385421093700799 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "SITE_NAME": "Cemetery Garage\r\n", "ADDRESS": "76 Coolidge Ave", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.140367517106128, 42.368439945884774 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "SITE_NAME": "Water Department Garage", "ADDRESS": "250 Fresh Pond Parkway", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.144578270556536, 42.382260333098856 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "SITE_NAME": "Cambridge Golf Course Garage\r\n", "ADDRESS": "14 Blanchard Rd", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.15582677473536, 42.388919736582977 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "SITE_NAME": "East Cambridge Garage\r\n", "ADDRESS": "51-69 First Street", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.078456580903023, 42.369088913443463 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "SITE_NAME": "DPW Garage\r\n", "ADDRESS": "147 Hampshire St", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097577383941029, 42.371750359325766 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "SITE_NAME": "Electrical Department Garage", "ADDRESS": "Third & Gore Streets\r\n", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079963222975067, 42.371573043257186 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "SITE_NAME": "Central Sq. Parking Garage", "ADDRESS": "260 Green St", "TYPE": "DPW Garage", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103757586913289, 42.36426234218326 ] } }
+
+]
+}

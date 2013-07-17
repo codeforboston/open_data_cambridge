@@ -1,0 +1,164 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "First Church Congregational", "ADDRESS": "11 Garden Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.122976230362056, 42.37663667015201 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "St. Paul's Catholic Church", "ADDRESS": "16 Arrow Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.115733475962926, 42.371215964493928 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "First Brazilian Baptist Church", "ADDRESS": "16 Beech Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119560317934159, 42.390933780551443 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Mennonite Congregation of Boston", "ADDRESS": "1555 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119695373154556, 42.377939512106671 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "First Presbyterian Church", "ADDRESS": "1418 Cambridge Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101867828298197, 42.373569656006012 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "Adventist Congregational Church", "ADDRESS": "171 Hampshire Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098463721963327, 42.372090456739393 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "Faith Lutheran Church", "ADDRESS": "311 Broadway", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10028371133383, 42.369376097795964 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SITE_NAME": "Cambridgeport Baptist Church", "ADDRESS": "459 Putnam Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110910378768068, 42.35881857635885 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SITE_NAME": "Rush A.M.E. Zion Church", "ADDRESS": "82 School Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09806927621446, 42.363825229910788 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SITE_NAME": "St. James Episcopal Church", "ADDRESS": "1991 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120867928163165, 42.390757153047836 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SITE_NAME": "Comm. Outreach Tabernacle", "ADDRESS": "190 Harvard Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097489205548229, 42.366753934625692 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SITE_NAME": "Harvard-Epworth United Methodist", "ADDRESS": "1555 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119695373154556, 42.377939512106671 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SITE_NAME": "Mass. Avenue Baptist Church", "ADDRESS": "146 Hampshire Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097760486365559, 42.370936886953203 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SITE_NAME": "First Parish Unitarian Universalist", "ADDRESS": "3 Church Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119407390339305, 42.374570212777734 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "SITE_NAME": "The Church of God of Prophecy", "ADDRESS": "190 Harvard Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097512023172399, 42.366761917423148 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "SITE_NAME": "Greek Orthodox Church", "ADDRESS": "14 Magazine Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105085325053011, 42.364212301509163 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "SITE_NAME": "MIT Catholic Community", "ADDRESS": "40 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093507697488519, 42.35826046845493 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "SITE_NAME": "Cambridge Church of the Nazarene", "ADDRESS": "234 Franklin Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104425124504516, 42.363816421850004 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "SITE_NAME": "St. Paul AME Church", "ADDRESS": "37 Bishop Allen Drive", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099534856734323, 42.364456870804617 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "SITE_NAME": "Friends Meeting At Cambridge", "ADDRESS": "5 Longfellow Pk", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127380469907223, 42.375879881616825 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "SITE_NAME": "Union Baptist Church", "ADDRESS": "874 Main Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098974740117271, 42.363193372310782 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "SITE_NAME": "St. Anthony's Church", "ADDRESS": "400 Cardinal Medeiros Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08827159640326, 42.371660652425149 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "SITE_NAME": "Sacred Heart Church", "ADDRESS": "49 Sixth Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.085301426175647, 42.370481608852273 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "SITE_NAME": "St. Mary's Orthodox Church", "ADDRESS": "8 Inman Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104987671212641, 42.366814231764735 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "SITE_NAME": "Christ Church Episcopal", "ADDRESS": "Zero Garden Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120529599718139, 42.375309989855381 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "SITE_NAME": "First Holiness Church", "ADDRESS": "211 Columbia Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.09722616161153, 42.368639897724059 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "SITE_NAME": "First Reformed Presbyterian Church", "ADDRESS": "53 Antrim Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103144790755053, 42.371663862667738 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "SITE_NAME": "Grace United Methodist Church", "ADDRESS": "56 Magazine Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107315872090552, 42.362190965315108 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "SITE_NAME": "St. Mary of the Annunciation", "ADDRESS": "134 Norfold Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100188834713677, 42.367490201927872 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "SITE_NAME": "St. Augustine African Orthodox Church", "ADDRESS": "137 Allston Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107487474999857, 42.358507208798088 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "SITE_NAME": "First Baptist Church", "ADDRESS": "5 Magazine Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105079951952618, 42.364823993425816 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "SITE_NAME": "Berkland Baptist Church", "ADDRESS": "99 Brattle Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124144269893918, 42.376677729327056 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "SITE_NAME": "Hope Fellowship Church", "ADDRESS": "16 Beech Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119560317934159, 42.390933780551443 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "SITE_NAME": "Holy Trinity Armenian Apostolic Church", "ADDRESS": "145 Brattle Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.130734572661282, 42.378257401404099 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "SITE_NAME": "Korean Church of the Shepherd", "ADDRESS": "459 Putnam Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.110891315134879, 42.358826058088979 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "SITE_NAME": "Western Avenue Baptist Church", "ADDRESS": "299 Western Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112659701945731, 42.3647768590941 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "SITE_NAME": "Cambridge Buddhist Association", "ADDRESS": "75 Sparks Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131833466438252, 42.379920864606703 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "SITE_NAME": "Cambridge Dzogchen Center", "ADDRESS": "5 Longfellow Pk", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127380469907223, 42.375879881616825 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "SITE_NAME": "Church of Jesus Christ of Latter Day Saints", "ADDRESS": "2 Longfellow Park", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.126120332508449, 42.376113402021694 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "SITE_NAME": "St. Bartholomew's Episcopal Church", "ADDRESS": "239 Harvard Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100554654082799, 42.368129773102453 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "SITE_NAME": "First Church of Christ Scientist", "ADDRESS": "41 Follen Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120747076970389, 42.378152877902004 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "SITE_NAME": "St. John the Evangelist Catholic Church", "ADDRESS": "2254 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.127411785759136, 42.394253413268139 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "SITE_NAME": "Anglican Church of the Incarnation", "ADDRESS": "50 Quincy Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.113528244672395, 42.376475139040366 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "SITE_NAME": "St. Peter's Episcopal Church", "ADDRESS": "838 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107061954082425, 42.367065971287907 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "SITE_NAME": "University Lutheran Church", "ADDRESS": "66 Winthrop Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120012015287458, 42.371739971835588 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "SITE_NAME": "Cambridge Community Fellowship Church", "ADDRESS": "234 Franklin Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.104446077632502, 42.363826674452213 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "SITE_NAME": "The Memorial Church of Harvard University", "ADDRESS": "23 Harvard Yard", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116042815373504, 42.374897540684138 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "SITE_NAME": "Abundant Life Church", "ADDRESS": "47 Howard Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111061497650198, 42.365255411542485 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "SITE_NAME": "Antioch Temple Church", "ADDRESS": "44 William St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10719059436417, 42.36390567035285 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "SITE_NAME": "Christian Mission Holiness Church", "ADDRESS": "789 Main Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.096959935100529, 42.363490768321121 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "SITE_NAME": "Christ the King Presbyterian Church", "ADDRESS": "99 Prospect Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102759223660215, 42.367850651658593 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "SITE_NAME": "Grace St. Foursquare Church", "ADDRESS": "99 Brattle St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124645271731964, 42.376358802858476 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "SITE_NAME": "Haitian Baptist Church", "ADDRESS": "16 Beech Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.119560317934159, 42.390933780551443 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "SITE_NAME": "Islamic Society of Boston", "ADDRESS": "204 Prospect Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.100044266650187, 42.37026283740601 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "SITE_NAME": "St. Sava Serbian Orthodox Church", "ADDRESS": "45 Alewife Brook Parkway", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.133927625935399, 42.403473741216587 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "SITE_NAME": "St. John's Memorial Chapel", "ADDRESS": "99 Brattle Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124645234560361, 42.376358830177921 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "SITE_NAME": "First Korean Church in Cambridge", "ADDRESS": "35 Magazine Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106830890517145, 42.363382626954142 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "SITE_NAME": "Iglesia Presbyteriana", "ADDRESS": "99 Prospect Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.102815014840203, 42.367870190077866 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "SITE_NAME": "Faithful & True Witness Apostolic Church", "ADDRESS": "148 Columbia Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097779967414212, 42.366814470861463 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "SITE_NAME": "Temple Beth Shalom", "ADDRESS": "8 Tremont Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.099342792135204, 42.369326476756875 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "SITE_NAME": "Calvary Praise & Worship Center", "ADDRESS": "311 Broadway", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10028371133383, 42.369376097795964 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "SITE_NAME": "Congregation Eitz Chayim", "ADDRESS": "136 Magazine Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111202551100476, 42.358543399961782 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "SITE_NAME": "Society of St. John the Evangelist", "ADDRESS": "980 Memorial Drive", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.124680206269446, 42.372318738363361 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "SITE_NAME": "St. Francis of Assisi", "ADDRESS": "42 Sciarappa Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.08123762168033, 42.371394714505769 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "SITE_NAME": "St. Peter's Church", "ADDRESS": "100 Concord Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.129997847074549, 42.381507659292339 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "SITE_NAME": "Old Cambridge Baptist Church", "ADDRESS": "1151 Massachusetts Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.114184938247476, 42.371749991676346 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "SITE_NAME": "Vineyard Christian Fellowship of Greater Boston", "ADDRESS": "170 Rindge Ave", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.131363464736609, 42.392890983163134 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "SITE_NAME": "Pentecostal Tabernacle Church", "ADDRESS": "77 Columbia Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098998831633395, 42.365368343109409 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "SITE_NAME": "Portuguese Evangelical Baptist Church", "ADDRESS": "114 Inman Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.10068625749075, 42.37257632125722 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "SITE_NAME": "Immaculate Conception Church", "ADDRESS": "432 Windsor Street", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.093460945681102, 42.37126969331166 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "SITE_NAME": "Cambridge Congregation of Jehovah's Witnesses", "ADDRESS": "9 Beech St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.120454593743645, 42.390965546453288 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "SITE_NAME": "Zion Pentecostal Tabernacle Church", "ADDRESS": "7 Bishop Allen Dr", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.098336403759063, 42.363637397717198 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "SITE_NAME": "Church of the Nazarene of West Somerville", "ADDRESS": "52 Russell St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.121020451751093, 42.393528525515329 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "SITE_NAME": "The Gospel Room", "ADDRESS": "69 Norfolk St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.101010250178646, 42.365954339064935 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "SITE_NAME": "Gospel Hall Church", "ADDRESS": "395 Putnam St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112743030371334, 42.359972172543863 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "SITE_NAME": "Heavenly Doors of the Apostolic Faith Church", "ADDRESS": "56 Magazine St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.107323241067363, 42.362178120733084 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "SITE_NAME": "Bethel Assembly of God", "ADDRESS": "5 Magazine St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.105155803581084, 42.364777220310742 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "SITE_NAME": "Cambridge Zen Center", "ADDRESS": "199 Auburn St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.106019114242159, 42.364355479470753 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "SITE_NAME": "Church of Jesus Christ of Latter Day Saints", "ADDRESS": "65 Binney St", "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.079132179271738, 42.366232096529323 ] } }
+
+]
+}

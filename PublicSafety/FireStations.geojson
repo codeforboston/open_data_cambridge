@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Fire Headquarters", "ADDRESS": "491 Broadway", "PHONE": "617-491-9571" }, "geometry": { "type": "Point", "coordinates": [ -71.114779479437033, 42.375317463889104 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Fire Company 2", "ADDRESS": "378 Massachusetts Ave\r\n", "PHONE": "617-354-9188" }, "geometry": { "type": "Point", "coordinates": [ -71.100116761698544, 42.363008677906052 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Fire Company 3", "ADDRESS": "175 Cambridge St", "PHONE": "617-497-9675" }, "geometry": { "type": "Point", "coordinates": [ -71.078722548091548, 42.371194984890117 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Fire Company 4", "ADDRESS": "2029 Massachusetts Ave", "PHONE": "617-492-2258" }, "geometry": { "type": "Point", "coordinates": [ -71.121713865008189, 42.391030899700844 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "Fire Company 5", "ADDRESS": "1384 Cambridge St", "PHONE": "617-354-3666" }, "geometry": { "type": "Point", "coordinates": [ -71.100795110876604, 42.373506979224821 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "Fire Company 6", "ADDRESS": "176 River St", "PHONE": "617-497-9460" }, "geometry": { "type": "Point", "coordinates": [ -71.110041765287022, 42.363291972433395 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "Fire Company 8", "ADDRESS": "113 Garden St", "PHONE": "617-497-0520" }, "geometry": { "type": "Point", "coordinates": [ -71.12981604522615, 42.384201158513072 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SITE_NAME": "Fire Company 9", "ADDRESS": "167 Lexington Ave", "PHONE": "617-864-4195" }, "geometry": { "type": "Point", "coordinates": [ -71.140840666276375, 42.380019137297268 ] } }
+
+]
+}

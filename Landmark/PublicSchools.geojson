@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Cambridge Rindge and Latin", "ADDRESS": "459 Broadway", "PHONE": "617-349-6630", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 4618.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111886517599814, 42.374397727502306 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "Cambridgeport School", "ADDRESS": "89 Elm St", "PHONE": "617-349-6587", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.097883755350267, 42.369295344080754 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Fletcher \/ Maynard Academy", "ADDRESS": "225 Windsor St", "PHONE": "617-349-6588", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.095885819845492, 42.366789610872395 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Graham & Parks School", "ADDRESS": "44 Linnaean St", "PHONE": "617-349-6577", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 626.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.123689181121236, 42.38267658546264 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "Haggerty School", "ADDRESS": "110 Cushing St", "PHONE": "617-349-6555", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.152592767980224, 42.378038868214716 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "Kennedy \/ Longfellow School", "ADDRESS": "158 Spring St", "PHONE": "617-349-6841", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 1210.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.086615337827226, 42.36941573558417 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "King Open School", "ADDRESS": "850 Cambridge St", "PHONE": "617-349-6540", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.091701499610849, 42.371964216736743 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SITE_NAME": "Martin Luther King, Jr School", "ADDRESS": "100 Putnam Ave", "PHONE": "617-349-6569", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112998968950336, 42.366889404704651 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SITE_NAME": "Morse School", "ADDRESS": "40 Granite St", "PHONE": "617-349-6575", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 578.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112719449671488, 42.355906733958072 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SITE_NAME": "Peabody School", "ADDRESS": "70 Rindge Ave", "PHONE": "617-349-6530", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 865.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.12836872952164, 42.392311052409845 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SITE_NAME": "Rindge and Latin Auto Shop", "ADDRESS": "456 Broadway", "PHONE": "", "SHELTER": "NO", "SHEL_FOOD": "NO", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.111955037922598, 42.373375462030161 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SITE_NAME": "Rindge School of Technical Arts", "ADDRESS": "459 Broadway", "PHONE": "617-349-6890", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 4618.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112015930756826, 42.374446816468421 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SITE_NAME": "High School Extension Program", "ADDRESS": "15 Upton St", "PHONE": "617-349-6880", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.108283173154703, 42.363007142975981 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SITE_NAME": "Tobin School", "ADDRESS": "197 Vassal Ln", "PHONE": "617-349-6600", "SHELTER": "YES", "SHEL_FOOD": "YES", "SHEL_CAP": 1116.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.139835802763884, 42.384418635836781 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "SITE_NAME": "Baldwin School", "ADDRESS": "28 Sacramento St", "PHONE": "617-349-6525", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.116696738787127, 42.382341261266333 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "SITE_NAME": "CRLS 9th Grade Campus", "ADDRESS": "359 Broadway", "PHONE": "", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.103993770330788, 42.371074640049905 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "SITE_NAME": "Amigos School", "ADDRESS": "101 Kinnard St", "PHONE": "617-349-6567", "SHELTER": "", "SHEL_FOOD": "", "SHEL_CAP": 0.0, "EditDate": "" }, "geometry": { "type": "Point", "coordinates": [ -71.112602985810724, 42.367350885236114 ] } }
+
+]
+}

@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "SITE_NAME": "Putnam Bulk", "ADDRESS": "357 Putnam Ave", "TYPE": "Major Electric Transformer Station" }, "geometry": { "type": "Point", "coordinates": [ -71.114040852840972, 42.360324869776676 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "SITE_NAME": "NSTAR Electric (Station 509)", "ADDRESS": "191 Alweife Brook Parkway", "TYPE": "Major Electric Transformer Station" }, "geometry": { "type": "Point", "coordinates": [ -71.143343494536268, 42.391257955534314 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "SITE_NAME": "Kendall", "ADDRESS": "273 First St", "TYPE": "Electric Generating Plant" }, "geometry": { "type": "Point", "coordinates": [ -71.079302257335627, 42.36294957221196 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "SITE_NAME": "Biogen Inc", "ADDRESS": "12 Cambridge Center", "TYPE": "Power Generating Plant" }, "geometry": { "type": "Point", "coordinates": [ -71.087026079316587, 42.364726801392862 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "SITE_NAME": "Harvard Blackstone Plant", "ADDRESS": "46 Blackstone St", "TYPE": "Steam Power Generating Plant" }, "geometry": { "type": "Point", "coordinates": [ -71.115521528419322, 42.364022756669108 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "SITE_NAME": "MIT Power Plant\r\n", "ADDRESS": "59 Vassar St", "TYPE": "Power Generating Plant" }, "geometry": { "type": "Point", "coordinates": [ -71.093848185885278, 42.360916628863947 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "SITE_NAME": "Prospect Bulk", "ADDRESS": "259 Prospect St", "TYPE": "Major Electric Transformer Station" }, "geometry": { "type": "Point", "coordinates": [ -71.099637476381702, 42.371827987263835 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "SITE_NAME": "Alewife Bulk", "ADDRESS": "50 Wheeler St", "TYPE": "Major Electric Transformer Station" }, "geometry": { "type": "Point", "coordinates": [ -71.143779191417678, 42.390705896824493 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "SITE_NAME": "Verizon Ware St CO", "ADDRESS": "10 Ware St", "TYPE": "Telephone office and longline switch" }, "geometry": { "type": "Point", "coordinates": [ -71.112664661728672, 42.372563306911744 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "SITE_NAME": "Verizon Global Networks", "ADDRESS": "200 Bent St", "TYPE": "Telephone office and longline switch" }, "geometry": { "type": "Point", "coordinates": [ -71.083400195562888, 42.367011014970117 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "SITE_NAME": "AT&T Bent St Switch", "ADDRESS": "250 Bent St", "TYPE": "Telephone office and longline switch" }, "geometry": { "type": "Point", "coordinates": [ -71.084671271495694, 42.367193523155869 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "SITE_NAME": "BBN Technology", "ADDRESS": "10-12 Moulton St", "TYPE": "Major Data Hub" }, "geometry": { "type": "Point", "coordinates": [ -71.147314186447204, 42.390070888207333 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "SITE_NAME": "ComGas", "ADDRESS": "43 Brookford St", "TYPE": "Gas Regulating Station" }, "geometry": { "type": "Point", "coordinates": [ -71.134426497088668, 42.398738604314367 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "SITE_NAME": "3rd Street", "ADDRESS": "332 Third St", "TYPE": "Gas Regulating Station" }, "geometry": { "type": "Point", "coordinates": [ -71.082982133197945, 42.364038819065343 ] } }
+
+]
+}
